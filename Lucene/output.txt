@@ -1,0 +1,5360 @@
+QueryModel :id='001', query='what similarity laws must be obeyed when constructing aeroelastic models of heated high speed aircraft . '}
+Score : 10.0525255 - ID : 51
+Score : 8.831095 - ID : 486
+Score : 8.811029 - ID : 13
+Score : 6.8525863 - ID : 12
+Score : 6.8408017 - ID : 878
+Score : 6.4029217 - ID : 1268
+Score : 6.012812 - ID : 792
+Score : 5.6896043 - ID : 332
+Score : 5.649844 - ID : 14
+Score : 5.5573316 - ID : 78
+Score : 5.5514483 - ID : 141
+Score : 5.5431247 - ID : 184
+Score : 5.322074 - ID : 747
+Score : 5.2477994 - ID : 251
+Score : 5.1304393 - ID : 172
+Score : 5.116928 - ID : 1361
+Score : 5.089234 - ID : 746
+Score : 4.8965325 - ID : 526
+Score : 4.8608007 - ID : 25
+Score : 4.8370123 - ID : 552
+
+---------------------------------
+
+QueryModel :id='002', query='what are the structural and aeroelastic problems associated with flight of high speed aircraft . '}
+Score : 11.567933 - ID : 12
+Score : 7.44043 - ID : 746
+Score : 7.1874247 - ID : 51
+Score : 6.250738 - ID : 792
+Score : 6.1871233 - ID : 1089
+Score : 5.974259 - ID : 172
+Score : 5.8824553 - ID : 100
+Score : 5.743801 - ID : 14
+Score : 5.6659718 - ID : 1169
+Score : 5.6609364 - ID : 1380
+Score : 5.4779773 - ID : 810
+Score : 5.3994675 - ID : 78
+Score : 5.2477994 - ID : 251
+Score : 5.2011995 - ID : 36
+Score : 5.0745215 - ID : 1170
+Score : 5.049275 - ID : 700
+Score : 5.044831 - ID : 747
+Score : 5.005615 - ID : 1361
+Score : 4.8793206 - ID : 284
+Score : 4.706102 - ID : 253
+
+---------------------------------
+
+QueryModel :id='004', query='what problems of heat conduction in composite slabs have been solved so far . '}
+Score : 8.202721 - ID : 5
+Score : 7.881679 - ID : 399
+Score : 7.0711308 - ID : 144
+Score : 6.993066 - ID : 828
+Score : 6.5642095 - ID : 1072
+Score : 6.132856 - ID : 542
+Score : 5.8996196 - ID : 181
+Score : 5.7426934 - ID : 251
+Score : 5.265933 - ID : 81
+Score : 5.1801467 - ID : 1370
+Score : 5.159773 - ID : 344
+Score : 5.0309987 - ID : 732
+Score : 5.0164757 - ID : 485
+Score : 4.965381 - ID : 644
+Score : 4.9041605 - ID : 1204
+Score : 4.84946 - ID : 826
+Score : 4.832717 - ID : 980
+Score : 4.731537 - ID : 584
+Score : 4.6448445 - ID : 623
+Score : 4.605636 - ID : 785
+
+---------------------------------
+
+QueryModel :id='008', query='can a criterion be developed to show empirically the validity of flow solutions for chemically reacting gas mixtures based on the simplifying assumption of instantaneous local chemical equilibrium . '}
+Score : 14.704373 - ID : 166
+Score : 14.292582 - ID : 167
+Score : 13.081681 - ID : 1061
+Score : 11.92949 - ID : 488
+Score : 11.870427 - ID : 1374
+Score : 11.116968 - ID : 1255
+Score : 11.099001 - ID : 1315
+Score : 10.642629 - ID : 1010
+Score : 10.376789 - ID : 1189
+Score : 10.328518 - ID : 1241
+Score : 10.298851 - ID : 575
+Score : 10.290098 - ID : 574
+Score : 9.987227 - ID : 1296
+Score : 9.916323 - ID : 401
+Score : 9.68714 - ID : 24
+Score : 9.596617 - ID : 185
+Score : 9.137928 - ID : 236
+Score : 9.08573 - ID : 259
+Score : 8.8335085 - ID : 1295
+Score : 8.558991 - ID : 1252
+
+---------------------------------
+
+QueryModel :id='009', query='what chemical kinetic system is applicable to hypersonic aerodynamic problems . '}
+Score : 6.692444 - ID : 103
+Score : 5.732176 - ID : 401
+Score : 5.7316184 - ID : 1032
+Score : 5.4552693 - ID : 1072
+Score : 5.4161477 - ID : 943
+Score : 5.2265296 - ID : 552
+Score : 5.071785 - ID : 163
+Score : 5.0318713 - ID : 1296
+Score : 4.898863 - ID : 625
+Score : 4.7313523 - ID : 28
+Score : 4.5631647 - ID : 828
+Score : 4.5322547 - ID : 968
+Score : 4.397097 - ID : 108
+Score : 4.15687 - ID : 36
+Score : 4.127744 - ID : 746
+Score : 4.0881033 - ID : 77
+Score : 4.0210323 - ID : 575
+Score : 3.9785297 - ID : 1374
+Score : 3.9591396 - ID : 1379
+Score : 3.8748534 - ID : 488
+
+---------------------------------
+
+QueryModel :id='010', query='what theoretical and experimental guides do we have as to turbulent couette flow behaviour . '}
+Score : 5.898925 - ID : 491
+Score : 5.8250966 - ID : 257
+Score : 5.824084 - ID : 315
+Score : 5.3886347 - ID : 1282
+Score : 5.0832553 - ID : 418
+Score : 4.9782615 - ID : 121
+Score : 4.8257794 - ID : 798
+Score : 4.775682 - ID : 651
+Score : 4.693566 - ID : 294
+Score : 4.655911 - ID : 1110
+Score : 4.5358243 - ID : 251
+Score : 4.4467463 - ID : 296
+Score : 4.3948 - ID : 28
+Score : 4.2848005 - ID : 344
+Score : 4.2133956 - ID : 1374
+Score : 4.179436 - ID : 820
+Score : 4.1499033 - ID : 72
+Score : 4.1177826 - ID : 148
+Score : 4.0901804 - ID : 228
+Score : 4.0870876 - ID : 610
+
+---------------------------------
+
+QueryModel :id='012', query='is it possible to relate the available pressure distributions for an ogive forebody at zero angle of attack to the lower surface pressures of an equivalent ogive forebody at angle of attack . '}
+Score : 27.639244 - ID : 492
+Score : 17.70944 - ID : 973
+Score : 16.563656 - ID : 434
+Score : 14.801883 - ID : 57
+Score : 14.065153 - ID : 56
+Score : 13.809383 - ID : 122
+Score : 13.535073 - ID : 124
+Score : 13.202833 - ID : 232
+Score : 11.9964075 - ID : 1040
+Score : 11.767905 - ID : 1381
+Score : 11.544315 - ID : 1231
+Score : 11.472032 - ID : 373
+Score : 11.331469 - ID : 688
+Score : 11.180933 - ID : 234
+Score : 10.297725 - ID : 248
+Score : 9.550684 - ID : 567
+Score : 9.4019 - ID : 1307
+Score : 9.026391 - ID : 1350
+Score : 8.937303 - ID : 225
+Score : 8.8846035 - ID : 801
+
+---------------------------------
+
+QueryModel :id='013', query='what methods -dash exact or approximate -dash are presently available for predicting body pressures at angle of attack. '}
+Score : 9.248392 - ID : 122
+Score : 7.8179474 - ID : 492
+Score : 7.5471168 - ID : 1231
+Score : 7.365143 - ID : 69
+Score : 6.636107 - ID : 234
+Score : 6.605819 - ID : 292
+Score : 6.5546503 - ID : 433
+Score : 6.2238684 - ID : 232
+Score : 6.046473 - ID : 1193
+Score : 6.0291452 - ID : 947
+Score : 5.9728193 - ID : 197
+Score : 5.9121757 - ID : 124
+Score : 5.8872833 - ID : 248
+Score : 5.8856254 - ID : 441
+Score : 5.8064575 - ID : 1307
+Score : 5.729331 - ID : 1352
+Score : 5.503971 - ID : 1104
+Score : 5.4723964 - ID : 688
+Score : 5.454396 - ID : 993
+Score : 5.4160943 - ID : 1248
+
+---------------------------------
+
+QueryModel :id='015', query='papers on internal /slip flow/ heat transfer studies . '}
+Score : 5.666461 - ID : 45
+Score : 4.6542516 - ID : 270
+Score : 4.3374076 - ID : 549
+Score : 4.156234 - ID : 489
+Score : 3.7540183 - ID : 754
+Score : 3.7214787 - ID : 21
+Score : 3.6656735 - ID : 303
+Score : 3.623525 - ID : 398
+Score : 3.5639055 - ID : 983
+Score : 3.4776087 - ID : 707
+Score : 3.462212 - ID : 61
+Score : 3.4103615 - ID : 101
+Score : 3.3797152 - ID : 1200
+Score : 3.3771334 - ID : 1154
+Score : 3.3508334 - ID : 267
+Score : 3.3191373 - ID : 5
+Score : 3.31698 - ID : 207
+Score : 3.2881129 - ID : 144
+Score : 3.2840943 - ID : 119
+Score : 3.2296314 - ID : 102
+
+---------------------------------
+
+QueryModel :id='018', query='are real-gas transport properties for air available over a wide range of enthalpies and densities . '}
+Score : 10.232651 - ID : 493
+Score : 8.163444 - ID : 302
+Score : 7.785152 - ID : 949
+Score : 6.42122 - ID : 1214
+Score : 6.308549 - ID : 1010
+Score : 6.2233615 - ID : 616
+Score : 5.839241 - ID : 1143
+Score : 5.788881 - ID : 1264
+Score : 5.469292 - ID : 332
+Score : 5.361004 - ID : 781
+Score : 5.3590493 - ID : 1009
+Score : 5.312418 - ID : 1286
+Score : 5.183204 - ID : 538
+Score : 5.077656 - ID : 272
+Score : 5.061041 - ID : 522
+Score : 4.82298 - ID : 524
+Score : 4.794923 - ID : 438
+Score : 4.744893 - ID : 101
+Score : 4.714958 - ID : 1355
+Score : 4.6466665 - ID : 69
+
+---------------------------------
+
+QueryModel :id='022', query='is it possible to find an analytical,  similar solution of the strong blast wave problem in the newtonian approximation . '}
+Score : 12.745543 - ID : 495
+Score : 8.10229 - ID : 472
+Score : 6.6700797 - ID : 572
+Score : 6.641674 - ID : 654
+Score : 6.483839 - ID : 1186
+Score : 5.8685617 - ID : 72
+Score : 5.8294854 - ID : 305
+Score : 5.7830324 - ID : 1327
+Score : 5.770862 - ID : 273
+Score : 5.6901903 - ID : 1310
+Score : 5.5869985 - ID : 28
+Score : 5.5655265 - ID : 262
+Score : 5.5116878 - ID : 556
+Score : 5.208694 - ID : 35
+Score : 5.119515 - ID : 304
+Score : 5.048348 - ID : 843
+Score : 5.0068827 - ID : 147
+Score : 4.9316506 - ID : 1157
+Score : 4.918236 - ID : 557
+Score : 4.8895597 - ID : 1356
+
+---------------------------------
+
+QueryModel :id='023', query='how can the aerodynamic performance of channel flow ground effect machines be calculated . '}
+Score : 9.78746 - ID : 624
+Score : 8.180303 - ID : 650
+Score : 6.8951373 - ID : 966
+Score : 6.369548 - ID : 506
+Score : 6.2952685 - ID : 543
+Score : 5.5244455 - ID : 1232
+Score : 5.4829984 - ID : 649
+Score : 5.3267756 - ID : 1221
+Score : 5.3106103 - ID : 704
+Score : 4.9697213 - ID : 941
+Score : 4.690067 - ID : 1164
+Score : 4.5267224 - ID : 39
+Score : 4.4396944 - ID : 270
+Score : 4.4169993 - ID : 939
+Score : 4.391937 - ID : 1209
+Score : 4.3502283 - ID : 652
+Score : 4.325686 - ID : 749
+Score : 4.2642274 - ID : 792
+Score : 4.26249 - ID : 325
+Score : 4.2352276 - ID : 1289
+
+---------------------------------
+
+QueryModel :id='026', query='what is the basic mechanism of the transonic aileron buzz . '}
+Score : 8.267581 - ID : 496
+Score : 5.6090455 - ID : 520
+Score : 5.325329 - ID : 903
+Score : 4.6595664 - ID : 199
+Score : 4.6561823 - ID : 1268
+Score : 3.957762 - ID : 643
+Score : 3.5456696 - ID : 1072
+Score : 3.3589675 - ID : 660
+Score : 3.2195895 - ID : 1099
+Score : 2.9926662 - ID : 1242
+Score : 2.966271 - ID : 313
+Score : 2.9476142 - ID : 961
+Score : 2.9077406 - ID : 1163
+Score : 2.83287 - ID : 440
+Score : 2.8097866 - ID : 38
+Score : 2.7851882 - ID : 262
+Score : 2.7711742 - ID : 880
+Score : 2.7169344 - ID : 36
+Score : 2.636235 - ID : 1037
+Score : 2.526405 - ID : 1079
+
+---------------------------------
+
+QueryModel :id='027', query='papers on shock-sound wave interaction . '}
+Score : 4.774526 - ID : 439
+Score : 4.744449 - ID : 170
+Score : 4.3399916 - ID : 256
+Score : 4.2035694 - ID : 190
+Score : 4.199776 - ID : 798
+Score : 4.1976185 - ID : 64
+Score : 3.9365497 - ID : 1364
+Score : 3.8983607 - ID : 556
+Score : 3.8470666 - ID : 1156
+Score : 3.6725292 - ID : 334
+Score : 3.6681516 - ID : 1157
+Score : 3.597596 - ID : 1252
+Score : 3.5915582 - ID : 568
+Score : 3.531249 - ID : 1202
+Score : 3.4699235 - ID : 630
+Score : 3.4340591 - ID : 308
+Score : 3.3986769 - ID : 903
+Score : 3.388242 - ID : 402
+Score : 3.370666 - ID : 1313
+Score : 3.3511856 - ID : 169
+
+---------------------------------
+
+QueryModel :id='029', query='material properties of photoelastic materials . '}
+Score : 9.038869 - ID : 463
+Score : 8.757573 - ID : 462
+Score : 5.867602 - ID : 1025
+Score : 5.7490373 - ID : 1099
+Score : 5.3697004 - ID : 1340
+Score : 5.3389306 - ID : 1279
+Score : 5.1889515 - ID : 42
+Score : 5.0938725 - ID : 82
+Score : 5.072597 - ID : 542
+Score : 5.070135 - ID : 1043
+Score : 5.0389085 - ID : 1065
+Score : 4.9178486 - ID : 1097
+Score : 4.83893 - ID : 761
+Score : 4.752737 - ID : 1096
+Score : 4.731983 - ID : 817
+Score : 4.629167 - ID : 866
+Score : 4.597763 - ID : 553
+Score : 4.588927 - ID : 1024
+Score : 4.474014 - ID : 1117
+Score : 4.470795 - ID : 1027
+
+---------------------------------
+
+QueryModel :id='031', query='can the transverse potential flow about a body of revolution be calculated efficiently by an electronic computer . '}
+Score : 11.2902155 - ID : 498
+Score : 9.98408 - ID : 1255
+Score : 7.500428 - ID : 106
+Score : 7.2799535 - ID : 927
+Score : 6.997977 - ID : 1328
+Score : 6.750233 - ID : 410
+Score : 6.5935535 - ID : 801
+Score : 6.4851155 - ID : 266
+Score : 6.3647895 - ID : 869
+Score : 6.296393 - ID : 231
+Score : 6.0860233 - ID : 1112
+Score : 6.0264645 - ID : 662
+Score : 6.004042 - ID : 1301
+Score : 5.857702 - ID : 425
+Score : 5.793528 - ID : 1259
+Score : 5.7592955 - ID : 468
+Score : 5.6630454 - ID : 983
+Score : 5.6090198 - ID : 976
+Score : 5.5644646 - ID : 1246
+Score : 5.4661727 - ID : 279
+
+---------------------------------
+
+QueryModel :id='032', query='can the three-dimensional problem of a transverse potential flow about a body of revolution be reduced to a two-dimensional problem . '}
+Score : 8.251116 - ID : 1108
+Score : 8.2467785 - ID : 1301
+Score : 8.027496 - ID : 1255
+Score : 7.7387033 - ID : 410
+Score : 7.5694623 - ID : 498
+Score : 7.500428 - ID : 106
+Score : 7.48872 - ID : 700
+Score : 7.1695466 - ID : 266
+Score : 7.0522456 - ID : 445
+Score : 6.996621 - ID : 577
+Score : 6.962764 - ID : 801
+Score : 6.95177 - ID : 916
+Score : 6.7610598 - ID : 1259
+Score : 6.7296157 - ID : 992
+Score : 6.6497293 - ID : 927
+Score : 6.494491 - ID : 983
+Score : 6.282755 - ID : 336
+Score : 6.2105904 - ID : 662
+Score : 6.177339 - ID : 2
+Score : 5.96834 - ID : 1235
+
+---------------------------------
+
+QueryModel :id='033', query='are experimental pressure distributions on bodies of revolution at angle of attack available . '}
+Score : 8.239898 - ID : 248
+Score : 7.958732 - ID : 498
+Score : 7.746149 - ID : 197
+Score : 7.6287436 - ID : 234
+Score : 7.312788 - ID : 56
+Score : 6.687644 - ID : 492
+Score : 6.668832 - ID : 927
+Score : 6.4682198 - ID : 232
+Score : 6.3884964 - ID : 124
+Score : 6.271243 - ID : 1005
+Score : 6.217851 - ID : 1114
+Score : 6.0553775 - ID : 231
+Score : 6.029602 - ID : 688
+Score : 6.0204816 - ID : 373
+Score : 5.99723 - ID : 57
+Score : 5.8965883 - ID : 225
+Score : 5.8908067 - ID : 122
+Score : 5.8651705 - ID : 1104
+Score : 5.846969 - ID : 360
+Score : 5.6408567 - ID : 1352
+
+---------------------------------
+
+QueryModel :id='034', query='does there exist a good basic treatment of the dynamics of re-entry combining consideration of realistic effects with relative simplicity of results . '}
+Score : 6.894667 - ID : 82
+Score : 6.8400297 - ID : 140
+Score : 6.219152 - ID : 274
+Score : 5.4885435 - ID : 404
+Score : 5.4735193 - ID : 449
+Score : 5.3678665 - ID : 660
+Score : 5.201899 - ID : 1396
+Score : 5.1785417 - ID : 824
+Score : 5.049861 - ID : 1309
+Score : 5.034538 - ID : 706
+Score : 4.9603915 - ID : 1279
+Score : 4.9292064 - ID : 650
+Score : 4.9272513 - ID : 713
+Score : 4.9106097 - ID : 453
+Score : 4.9098973 - ID : 125
+Score : 4.858996 - ID : 85
+Score : 4.847775 - ID : 122
+Score : 4.8324323 - ID : 1295
+Score : 4.6560106 - ID : 210
+Score : 4.6490116 - ID : 395
+
+---------------------------------
+
+QueryModel :id='035', query='has anyone formally determined the influence of joule heating,  produced by the induced current,  in magnetohydrodynamic free convection flows under general conditions . '}
+Score : 13.985145 - ID : 500
+Score : 9.853682 - ID : 270
+Score : 8.279952 - ID : 104
+Score : 7.928539 - ID : 450
+Score : 7.817757 - ID : 1273
+Score : 7.6375904 - ID : 112
+Score : 7.5864253 - ID : 902
+Score : 7.4570293 - ID : 267
+Score : 6.85617 - ID : 132
+Score : 6.7554746 - ID : 190
+Score : 6.5984793 - ID : 123
+Score : 6.50671 - ID : 625
+Score : 6.427867 - ID : 88
+Score : 6.355742 - ID : 268
+Score : 6.3053994 - ID : 87
+Score : 6.265779 - ID : 968
+Score : 6.249752 - ID : 407
+Score : 5.889349 - ID : 1238
+Score : 5.80483 - ID : 300
+Score : 5.7979517 - ID : 158
+
+---------------------------------
+
+QueryModel :id='039', query='why does the compressibility transformation fail to correlate the high speed data for helium and air . '}
+Score : 8.614897 - ID : 502
+Score : 6.2608995 - ID : 68
+Score : 6.103492 - ID : 343
+Score : 6.0198298 - ID : 686
+Score : 5.939751 - ID : 628
+Score : 5.9356713 - ID : 338
+Score : 5.7538524 - ID : 1007
+Score : 5.670162 - ID : 302
+Score : 5.6317415 - ID : 1237
+Score : 5.5014195 - ID : 421
+Score : 5.329268 - ID : 874
+Score : 5.1701984 - ID : 125
+Score : 5.1024094 - ID : 216
+Score : 5.0768886 - ID : 193
+Score : 4.992696 - ID : 1157
+Score : 4.911646 - ID : 1199
+Score : 4.8284984 - ID : 460
+Score : 4.8219085 - ID : 1156
+Score : 4.798799 - ID : 413
+Score : 4.7883377 - ID : 214
+
+---------------------------------
+
+QueryModel :id='040', query='did anyone else discover that the turbulent skin friction is not over sensitive to the nature of the variation of the viscosity with temperature . '}
+Score : 8.451618 - ID : 125
+Score : 7.504161 - ID : 413
+Score : 7.3207173 - ID : 307
+Score : 7.29746 - ID : 560
+Score : 6.7596607 - ID : 120
+Score : 6.33211 - ID : 254
+Score : 6.2659836 - ID : 260
+Score : 6.1135592 - ID : 306
+Score : 6.0147533 - ID : 61
+Score : 5.9242477 - ID : 348
+Score : 5.8659153 - ID : 962
+Score : 5.8364286 - ID : 140
+Score : 5.766871 - ID : 406
+Score : 5.7305255 - ID : 586
+Score : 5.6476245 - ID : 346
+Score : 5.642352 - ID : 1147
+Score : 5.590152 - ID : 1076
+Score : 5.589585 - ID : 72
+Score : 5.433118 - ID : 153
+Score : 5.315362 - ID : 1235
+
+---------------------------------
+
+QueryModel :id='041', query='what progress has been made in research on unsteady aerodynamics . '}
+Score : 6.6757007 - ID : 892
+Score : 6.4591155 - ID : 28
+Score : 6.007658 - ID : 902
+Score : 5.460501 - ID : 453
+Score : 5.30648 - ID : 14
+Score : 5.2940803 - ID : 804
+Score : 5.2000065 - ID : 202
+Score : 5.163712 - ID : 251
+Score : 5.0976253 - ID : 220
+Score : 4.791619 - ID : 718
+Score : 4.781375 - ID : 899
+Score : 4.7695756 - ID : 698
+Score : 4.765261 - ID : 1305
+Score : 4.678556 - ID : 893
+Score : 4.6044626 - ID : 11
+Score : 4.4957423 - ID : 36
+Score : 4.4425077 - ID : 828
+Score : 4.215649 - ID : 1259
+Score : 4.1649384 - ID : 1170
+Score : 4.0982633 - ID : 658
+
+---------------------------------
+
+QueryModel :id='049', query='what are the factors which influence the time required to invert large structural matrices . '}
+Score : 11.074793 - ID : 756
+Score : 9.212367 - ID : 46
+Score : 8.896209 - ID : 47
+Score : 7.2150216 - ID : 1361
+Score : 5.983823 - ID : 1362
+Score : 5.592182 - ID : 1246
+Score : 5.088508 - ID : 92
+Score : 5.041984 - ID : 1034
+Score : 4.9774995 - ID : 833
+Score : 4.95279 - ID : 12
+Score : 4.7357473 - ID : 893
+Score : 4.699908 - ID : 724
+Score : 4.6824093 - ID : 883
+Score : 4.6532965 - ID : 51
+Score : 4.4951053 - ID : 374
+Score : 4.3878245 - ID : 650
+Score : 4.3158865 - ID : 1294
+Score : 4.276618 - ID : 267
+Score : 4.230937 - ID : 993
+Score : 4.1659985 - ID : 1024
+
+---------------------------------
+
+QueryModel :id='050', query='does a practical flow follow the theoretical concepts for the interaction between adjacent blade rows of a supersonic cascade . '}
+Score : 9.809984 - ID : 215
+Score : 9.042861 - ID : 277
+Score : 7.3592014 - ID : 214
+Score : 7.052145 - ID : 1202
+Score : 7.039995 - ID : 212
+Score : 6.9235344 - ID : 121
+Score : 6.8981833 - ID : 211
+Score : 6.8865986 - ID : 772
+Score : 6.7883043 - ID : 216
+Score : 6.779681 - ID : 213
+Score : 6.464034 - ID : 578
+Score : 6.4117365 - ID : 588
+Score : 6.3248463 - ID : 134
+Score : 6.0774903 - ID : 179
+Score : 6.0005007 - ID : 511
+Score : 5.8317275 - ID : 989
+Score : 5.7570934 - ID : 426
+Score : 5.7558374 - ID : 990
+Score : 5.376098 - ID : 37
+Score : 5.3212976 - ID : 798
+
+---------------------------------
+
+QueryModel :id='051', query='what is a single approximate formula for the displacement thickness of a laminar boundary layer in compressible flow on a flat plate . '}
+Score : 9.99676 - ID : 307
+Score : 9.572455 - ID : 382
+Score : 9.482052 - ID : 145
+Score : 9.439978 - ID : 611
+Score : 9.158172 - ID : 305
+Score : 9.120591 - ID : 96
+Score : 8.905361 - ID : 568
+Score : 8.251193 - ID : 629
+Score : 8.164492 - ID : 4
+Score : 8.092385 - ID : 1278
+Score : 8.041152 - ID : 547
+Score : 7.9067736 - ID : 306
+Score : 7.840177 - ID : 1355
+Score : 7.6553636 - ID : 346
+Score : 7.6371 - ID : 348
+Score : 7.343591 - ID : 1200
+Score : 7.117395 - ID : 562
+Score : 7.114635 - ID : 525
+Score : 7.0885034 - ID : 569
+Score : 7.0183806 - ID : 310
+
+---------------------------------
+
+QueryModel :id='052', query='how is the design of ring or part ring wings by linear theory affected by thickness . '}
+Score : 9.79241 - ID : 1035
+Score : 9.377813 - ID : 1031
+Score : 8.249337 - ID : 224
+Score : 8.0595 - ID : 512
+Score : 6.3034573 - ID : 1132
+Score : 6.2419243 - ID : 680
+Score : 6.1395607 - ID : 921
+Score : 5.573438 - ID : 279
+Score : 5.539964 - ID : 679
+Score : 5.3790784 - ID : 1129
+Score : 5.3110175 - ID : 614
+Score : 5.3059597 - ID : 1320
+Score : 5.205478 - ID : 247
+Score : 5.158961 - ID : 42
+Score : 5.0789666 - ID : 674
+Score : 5.0076847 - ID : 548
+Score : 4.9195604 - ID : 752
+Score : 4.877749 - ID : 189
+Score : 4.7567015 - ID : 513
+Score : 4.613045 - ID : 1362
+
+---------------------------------
+
+QueryModel :id='053', query='what application has the linear theory design of curved wings . '}
+Score : 6.911812 - ID : 251
+Score : 6.2207084 - ID : 227
+Score : 5.493142 - ID : 1051
+Score : 5.1450253 - ID : 839
+Score : 5.0789666 - ID : 674
+Score : 5.0527844 - ID : 921
+Score : 4.9381595 - ID : 36
+Score : 4.860187 - ID : 250
+Score : 4.6476 - ID : 762
+Score : 4.625002 - ID : 893
+Score : 4.3546143 - ID : 1068
+Score : 4.354501 - ID : 1012
+Score : 4.2899604 - ID : 901
+Score : 4.1748567 - ID : 700
+Score : 4.161235 - ID : 503
+Score : 4.1304603 - ID : 1018
+Score : 4.0837474 - ID : 367
+Score : 4.0789623 - ID : 752
+Score : 4.0728307 - ID : 28
+Score : 4.068252 - ID : 698
+
+---------------------------------
+
+QueryModel :id='054', query='what is the effect of cross sectional shape on the flow over simple delta wings with sharp leading edges . '}
+Score : 13.439498 - ID : 465
+Score : 12.963252 - ID : 612
+Score : 11.412307 - ID : 513
+Score : 11.270359 - ID : 420
+Score : 10.523866 - ID : 464
+Score : 10.014553 - ID : 514
+Score : 9.829958 - ID : 250
+Score : 9.295076 - ID : 901
+Score : 9.145529 - ID : 222
+Score : 8.802245 - ID : 211
+Score : 8.734268 - ID : 900
+Score : 8.414441 - ID : 683
+Score : 8.139497 - ID : 147
+Score : 8.01633 - ID : 792
+Score : 7.7969637 - ID : 601
+Score : 7.7429404 - ID : 146
+Score : 7.042157 - ID : 797
+Score : 7.0297117 - ID : 796
+Score : 7.0215616 - ID : 686
+Score : 6.941255 - ID : 334
+
+---------------------------------
+
+QueryModel :id='055', query='papers on flow visualization on slender conical wings . '}
+Score : 5.357244 - ID : 513
+Score : 4.9694715 - ID : 683
+Score : 4.679122 - ID : 1197
+Score : 4.549081 - ID : 225
+Score : 4.5156813 - ID : 420
+Score : 4.484682 - ID : 601
+Score : 4.4251585 - ID : 902
+Score : 4.3365736 - ID : 466
+Score : 4.3274794 - ID : 633
+Score : 4.264063 - ID : 465
+Score : 4.1807976 - ID : 247
+Score : 4.1716743 - ID : 147
+Score : 4.1351843 - ID : 921
+Score : 4.0700483 - ID : 229
+Score : 4.0601926 - ID : 464
+Score : 3.9034007 - ID : 602
+Score : 3.895926 - ID : 230
+Score : 3.8839977 - ID : 45
+Score : 3.8471956 - ID : 288
+Score : 3.8300683 - ID : 792
+
+---------------------------------
+
+QueryModel :id='056', query='what size of end plate can be safely used to simulate two-dimensional flow conditions over a bluff cylindrical body of finite aspect ratio . '}
+Score : 9.437708 - ID : 751
+Score : 8.941573 - ID : 1209
+Score : 8.046084 - ID : 1245
+Score : 6.9952507 - ID : 1082
+Score : 6.9098067 - ID : 247
+Score : 6.847463 - ID : 228
+Score : 6.579652 - ID : 895
+Score : 6.5469027 - ID : 1339
+Score : 6.5213785 - ID : 229
+Score : 6.278774 - ID : 1040
+Score : 6.2752824 - ID : 522
+Score : 6.2570095 - ID : 749
+Score : 6.1757927 - ID : 135
+Score : 6.155525 - ID : 1153
+Score : 6.0849905 - ID : 94
+Score : 5.986569 - ID : 799
+Score : 5.9790063 - ID : 704
+Score : 5.9220266 - ID : 381
+Score : 5.8936267 - ID : 1268
+Score : 5.8524323 - ID : 916
+
+---------------------------------
+
+QueryModel :id='057', query='to find an approximate correction for thickness in slender thin-wing theory . '}
+Score : 9.821017 - ID : 752
+Score : 5.1629953 - ID : 802
+Score : 5.004524 - ID : 1259
+Score : 4.953247 - ID : 926
+Score : 4.7974777 - ID : 1039
+Score : 4.6483965 - ID : 1112
+Score : 4.636306 - ID : 472
+Score : 4.4918375 - ID : 898
+Score : 4.475838 - ID : 147
+Score : 4.432116 - ID : 391
+Score : 4.172869 - ID : 1186
+Score : 3.9380503 - ID : 572
+Score : 3.9005895 - ID : 922
+Score : 3.8889432 - ID : 60
+Score : 3.7646093 - ID : 247
+Score : 3.7251246 - ID : 289
+Score : 3.7234073 - ID : 829
+Score : 3.7122667 - ID : 546
+Score : 3.682855 - ID : 842
+Score : 3.673879 - ID : 287
+
+---------------------------------
+
+QueryModel :id='058', query='how do interference-free longitudinal stability measurements (made using free-flight models) compare with similar measurements made in a low-blockage wind tunnel . '}
+Score : 15.93714 - ID : 516
+Score : 12.20821 - ID : 141
+Score : 11.868482 - ID : 431
+Score : 10.677151 - ID : 904
+Score : 10.655863 - ID : 808
+Score : 9.896941 - ID : 546
+Score : 9.684796 - ID : 598
+Score : 9.236216 - ID : 1162
+Score : 9.058436 - ID : 713
+Score : 8.938421 - ID : 755
+Score : 8.788096 - ID : 252
+Score : 8.558182 - ID : 594
+Score : 8.390161 - ID : 608
+Score : 8.075787 - ID : 800
+Score : 8.011259 - ID : 188
+Score : 7.9997582 - ID : 78
+Score : 7.9528136 - ID : 1163
+Score : 7.8436522 - ID : 790
+Score : 7.8387856 - ID : 179
+Score : 7.7095337 - ID : 372
+
+---------------------------------
+
+QueryModel :id='059', query='have wind tunnel interference effects been investigated on a systematic basis . '}
+Score : 7.0351977 - ID : 516
+Score : 6.4250426 - ID : 800
+Score : 6.270918 - ID : 529
+Score : 6.1866026 - ID : 1155
+Score : 6.1835246 - ID : 1153
+Score : 6.1124134 - ID : 907
+Score : 6.0926204 - ID : 280
+Score : 5.673284 - ID : 1341
+Score : 5.5653944 - ID : 1204
+Score : 5.479617 - ID : 828
+Score : 5.4383054 - ID : 431
+Score : 5.4227467 - ID : 1287
+Score : 5.310977 - ID : 904
+Score : 5.241019 - ID : 511
+Score : 5.221701 - ID : 1336
+Score : 5.138369 - ID : 799
+Score : 5.133707 - ID : 968
+Score : 5.066769 - ID : 755
+Score : 4.9755054 - ID : 809
+Score : 4.927506 - ID : 1243
+
+---------------------------------
+
+QueryModel :id='061', query='are there any papers dealing with acoustic wave propagation in reacting gases . '}
+Score : 5.347259 - ID : 1208
+Score : 5.2017984 - ID : 488
+Score : 5.030578 - ID : 1203
+Score : 4.8455153 - ID : 1327
+Score : 4.752215 - ID : 1061
+Score : 4.7218475 - ID : 654
+Score : 4.668971 - ID : 875
+Score : 4.5032086 - ID : 65
+Score : 4.406527 - ID : 1389
+Score : 4.3578258 - ID : 1276
+Score : 4.1328964 - ID : 1374
+Score : 4.0109134 - ID : 319
+Score : 3.980953 - ID : 296
+Score : 3.9676826 - ID : 720
+Score : 3.9123623 - ID : 552
+Score : 3.8849452 - ID : 724
+Score : 3.8095493 - ID : 1156
+Score : 3.7654192 - ID : 1314
+Score : 3.7170162 - ID : 1244
+Score : 3.7146232 - ID : 169
+
+---------------------------------
+
+QueryModel :id='062', query='has anyone investigated relaxation effects on gaseous heat transfer to a suddenly heated wall . '}
+Score : 6.568781 - ID : 1268
+Score : 5.5808268 - ID : 123
+Score : 5.4153943 - ID : 260
+Score : 5.204026 - ID : 552
+Score : 5.0923505 - ID : 168
+Score : 5.0545316 - ID : 274
+Score : 5.029631 - ID : 623
+Score : 5.008632 - ID : 603
+Score : 4.9998264 - ID : 550
+Score : 4.893133 - ID : 975
+Score : 4.836848 - ID : 74
+Score : 4.671004 - ID : 135
+Score : 4.6059 - ID : 1180
+Score : 4.585583 - ID : 319
+Score : 4.527894 - ID : 518
+Score : 4.5224757 - ID : 565
+Score : 4.5088806 - ID : 509
+Score : 4.4778337 - ID : 959
+Score : 4.4364367 - ID : 353
+Score : 4.432028 - ID : 646
+
+---------------------------------
+
+QueryModel :id='066', query='are there any theoretical methods for predicting base pressure . '}
+Score : 5.629237 - ID : 186
+Score : 5.17444 - ID : 242
+Score : 5.071004 - ID : 179
+Score : 4.970121 - ID : 1352
+Score : 4.882049 - ID : 234
+Score : 4.7646823 - ID : 126
+Score : 4.4656305 - ID : 1307
+Score : 4.401847 - ID : 979
+Score : 4.3681464 - ID : 176
+Score : 4.2956514 - ID : 173
+Score : 4.1904306 - ID : 999
+Score : 4.067667 - ID : 409
+Score : 3.985637 - ID : 188
+Score : 3.788887 - ID : 519
+Score : 3.780672 - ID : 282
+Score : 3.6875923 - ID : 189
+Score : 3.6432097 - ID : 232
+Score : 3.6283813 - ID : 174
+Score : 3.594532 - ID : 121
+Score : 3.4899752 - ID : 815
+
+---------------------------------
+
+QueryModel :id='067', query='does transition in the hypersonic wake depend on body geometry and size '}
+Score : 6.1003056 - ID : 536
+Score : 5.8897824 - ID : 433
+Score : 5.523005 - ID : 976
+Score : 5.4902034 - ID : 1238
+Score : 5.11794 - ID : 85
+Score : 4.965173 - ID : 186
+Score : 4.9378448 - ID : 154
+Score : 4.9172916 - ID : 1373
+Score : 4.6530924 - ID : 927
+Score : 4.6454544 - ID : 25
+Score : 4.4711084 - ID : 1310
+Score : 4.3474145 - ID : 556
+Score : 4.257347 - ID : 1262
+Score : 4.207959 - ID : 981
+Score : 4.196721 - ID : 1391
+Score : 4.1552114 - ID : 979
+Score : 4.139411 - ID : 553
+Score : 4.138448 - ID : 1153
+Score : 4.0627766 - ID : 446
+Score : 3.9232562 - ID : 160
+
+---------------------------------
+
+QueryModel :id='068', query='how can one detect transition phenomena in boundary layers . '}
+Score : 5.78129 - ID : 37
+Score : 5.127514 - ID : 346
+Score : 4.92544 - ID : 43
+Score : 4.8468876 - ID : 315
+Score : 4.7594953 - ID : 207
+Score : 4.75861 - ID : 1205
+Score : 4.623487 - ID : 1383
+Score : 4.590609 - ID : 293
+Score : 4.54243 - ID : 281
+Score : 4.425201 - ID : 6
+Score : 4.4138865 - ID : 1257
+Score : 4.3317075 - ID : 24
+Score : 4.3164606 - ID : 536
+Score : 4.307008 - ID : 655
+Score : 4.2914357 - ID : 1199
+Score : 4.254758 - ID : 9
+Score : 4.2246714 - ID : 1185
+Score : 4.202324 - ID : 862
+Score : 4.1922793 - ID : 272
+Score : 4.1918416 - ID : 754
+
+---------------------------------
+
+QueryModel :id='069', query='how can one detect transition phenomena in hypersonic wakes . '}
+Score : 7.955446 - ID : 536
+Score : 5.9276943 - ID : 37
+Score : 5.752259 - ID : 17
+Score : 4.54243 - ID : 281
+Score : 4.202324 - ID : 862
+Score : 4.164681 - ID : 1205
+Score : 4.133136 - ID : 623
+Score : 4.118849 - ID : 1391
+Score : 3.9753058 - ID : 1368
+Score : 3.9549441 - ID : 404
+Score : 3.912617 - ID : 655
+Score : 3.7188206 - ID : 1305
+Score : 3.6985388 - ID : 39
+Score : 3.6861959 - ID : 6
+Score : 3.5581164 - ID : 346
+Score : 3.467129 - ID : 113
+Score : 3.4231195 - ID : 9
+Score : 3.4158952 - ID : 401
+Score : 3.3868606 - ID : 1158
+Score : 3.3714294 - ID : 83
+
+---------------------------------
+
+QueryModel :id='071', query='has anyone investigated and developed a simple model for the vortex wake behind a cruciform wing . '}
+Score : 13.60809 - ID : 289
+Score : 11.374835 - ID : 433
+Score : 7.503621 - ID : 927
+Score : 7.4833474 - ID : 126
+Score : 7.3052278 - ID : 229
+Score : 7.1190763 - ID : 520
+Score : 7.0903964 - ID : 288
+Score : 6.860435 - ID : 1152
+Score : 6.817683 - ID : 1277
+Score : 6.605397 - ID : 432
+Score : 6.0119386 - ID : 222
+Score : 5.9922886 - ID : 464
+Score : 5.961226 - ID : 549
+Score : 5.55193 - ID : 1091
+Score : 5.3844404 - ID : 1141
+Score : 5.1422753 - ID : 825
+Score : 5.1153636 - ID : 225
+Score : 5.055919 - ID : 799
+Score : 5.030257 - ID : 154
+Score : 4.8872633 - ID : 558
+
+---------------------------------
+
+QueryModel :id='072', query='what is a criterion that the transonic flow around an airfoil with a round leading edge be validly analyzed by the linearized transonic flow theory . '}
+Score : 14.647031 - ID : 521
+Score : 11.309892 - ID : 526
+Score : 9.228017 - ID : 440
+Score : 8.918484 - ID : 496
+Score : 8.3301 - ID : 469
+Score : 7.8591833 - ID : 1267
+Score : 7.336376 - ID : 439
+Score : 7.0233564 - ID : 211
+Score : 7.0033255 - ID : 1320
+Score : 6.99414 - ID : 634
+Score : 6.971264 - ID : 468
+Score : 6.966981 - ID : 352
+Score : 6.937603 - ID : 1309
+Score : 6.9056263 - ID : 683
+Score : 6.7928557 - ID : 797
+Score : 6.7353787 - ID : 36
+Score : 6.5919127 - ID : 916
+Score : 6.5384507 - ID : 571
+Score : 6.5216217 - ID : 1198
+Score : 6.5205007 - ID : 363
+
+---------------------------------
+
+QueryModel :id='074', query='can the transonic flow around an arbitrary smooth thin airfoil be analysed in a simple approximate way . '}
+Score : 7.1137085 - ID : 467
+Score : 6.434803 - ID : 496
+Score : 6.30342 - ID : 1194
+Score : 6.2846494 - ID : 201
+Score : 6.1961703 - ID : 1248
+Score : 6.0583625 - ID : 503
+Score : 6.0405703 - ID : 903
+Score : 6.039485 - ID : 39
+Score : 6.0039387 - ID : 469
+Score : 5.794326 - ID : 194
+Score : 5.6359477 - ID : 940
+Score : 5.5765934 - ID : 1074
+Score : 5.5003347 - ID : 404
+Score : 5.4809933 - ID : 1043
+Score : 5.3857574 - ID : 936
+Score : 5.265142 - ID : 193
+Score : 5.1424775 - ID : 1387
+Score : 5.0545306 - ID : 1375
+Score : 4.8962297 - ID : 1081
+Score : 4.855899 - ID : 1384
+
+---------------------------------
+
+QueryModel :id='079', query='what are the details of the rigorous kinetic theory of gases . (chapman-enskog theory) . '}
+Score : 5.6454883 - ID : 1199
+Score : 5.408164 - ID : 103
+Score : 5.203592 - ID : 108
+Score : 4.479175 - ID : 1072
+Score : 4.4170384 - ID : 1160
+Score : 4.294586 - ID : 236
+Score : 4.290346 - ID : 541
+Score : 4.2580643 - ID : 1134
+Score : 4.1912856 - ID : 1374
+Score : 4.1713433 - ID : 357
+Score : 4.1273665 - ID : 943
+Score : 3.9881563 - ID : 1031
+Score : 3.8479905 - ID : 367
+Score : 3.7567842 - ID : 1190
+Score : 3.6858113 - ID : 760
+Score : 3.673374 - ID : 1314
+Score : 3.6654086 - ID : 251
+Score : 3.5269105 - ID : 1148
+Score : 3.4445844 - ID : 1226
+Score : 3.4039721 - ID : 1228
+
+---------------------------------
+
+QueryModel :id='080', query='has anyone investigated the effect of surface mass transfer on hypersonic viscous interactions . '}
+Score : 7.469034 - ID : 305
+Score : 7.276281 - ID : 525
+Score : 7.2156396 - ID : 540
+Score : 6.543141 - ID : 1159
+Score : 5.840646 - ID : 625
+Score : 5.712134 - ID : 123
+Score : 5.6873574 - ID : 84
+Score : 5.4873476 - ID : 274
+Score : 5.366445 - ID : 37
+Score : 5.3233275 - ID : 553
+Score : 5.0492187 - ID : 353
+Score : 5.0300627 - ID : 1185
+Score : 4.9854574 - ID : 1200
+Score : 4.913098 - ID : 1205
+Score : 4.8529444 - ID : 17
+Score : 4.8418627 - ID : 573
+Score : 4.828457 - ID : 310
+Score : 4.797451 - ID : 655
+Score : 4.7089033 - ID : 480
+Score : 4.665511 - ID : 329
+
+---------------------------------
+
+QueryModel :id='081', query='what is the combined effect of surface heat and mass transfer on hypersonic flow . '}
+Score : 6.347124 - ID : 525
+Score : 6.2792745 - ID : 305
+Score : 6.2215877 - ID : 353
+Score : 6.1350155 - ID : 84
+Score : 5.953199 - ID : 123
+Score : 5.904489 - ID : 274
+Score : 5.7885466 - ID : 1159
+Score : 5.757965 - ID : 655
+Score : 5.6997833 - ID : 1185
+Score : 5.5372257 - ID : 623
+Score : 5.43856 - ID : 1241
+Score : 5.4131017 - ID : 36
+Score : 5.381434 - ID : 540
+Score : 5.351948 - ID : 37
+Score : 5.161853 - ID : 344
+Score : 5.1238775 - ID : 333
+Score : 5.029209 - ID : 983
+Score : 5.024545 - ID : 481
+Score : 4.9958234 - ID : 303
+Score : 4.914504 - ID : 645
+
+---------------------------------
+
+QueryModel :id='082', query='what are the existing solutions for hypersonic viscous interactions over an insulated flat plate . '}
+Score : 9.475554 - ID : 525
+Score : 9.435444 - ID : 1200
+Score : 9.343605 - ID : 568
+Score : 8.842862 - ID : 304
+Score : 8.402321 - ID : 310
+Score : 8.357381 - ID : 570
+Score : 7.819303 - ID : 305
+Score : 7.2915497 - ID : 25
+Score : 6.8478117 - ID : 327
+Score : 6.728026 - ID : 180
+Score : 6.727793 - ID : 307
+Score : 6.542103 - ID : 334
+Score : 6.5299573 - ID : 2
+Score : 6.4292316 - ID : 306
+Score : 6.38012 - ID : 309
+Score : 6.321008 - ID : 460
+Score : 6.277472 - ID : 308
+Score : 6.2642426 - ID : 9
+Score : 5.960644 - ID : 28
+Score : 5.897517 - ID : 663
+
+---------------------------------
+
+QueryModel :id='083', query='what controls leading-edge attachment at transonic speeds . '}
+Score : 6.07501 - ID : 526
+Score : 5.4213424 - ID : 440
+Score : 5.31317 - ID : 792
+Score : 4.9115753 - ID : 638
+Score : 4.7115974 - ID : 683
+Score : 4.3614097 - ID : 712
+Score : 4.2824 - ID : 924
+Score : 4.2771916 - ID : 708
+Score : 4.1634593 - ID : 797
+Score : 4.0911107 - ID : 222
+Score : 4.0277634 - ID : 439
+Score : 3.935678 - ID : 1079
+Score : 3.8322942 - ID : 1169
+Score : 3.7045815 - ID : 600
+Score : 3.7029424 - ID : 655
+Score : 3.6261048 - ID : 251
+Score : 3.5926142 - ID : 704
+Score : 3.5844717 - ID : 1300
+Score : 3.5615945 - ID : 36
+Score : 3.5401711 - ID : 1267
+
+---------------------------------
+
+QueryModel :id='084', query='can the three-point boundary-value problem for the blasius equation be integrated numerically,  using suitable transformations,  without iteration on the boundary conditions . '}
+Score : 11.47537 - ID : 349
+Score : 11.123623 - ID : 321
+Score : 11.108581 - ID : 527
+Score : 10.49176 - ID : 322
+Score : 10.3744755 - ID : 585
+Score : 9.76162 - ID : 1108
+Score : 9.700968 - ID : 320
+Score : 9.686915 - ID : 476
+Score : 9.234085 - ID : 1370
+Score : 9.098127 - ID : 72
+Score : 8.9952545 - ID : 1235
+Score : 8.397202 - ID : 150
+Score : 8.29435 - ID : 377
+Score : 8.209482 - ID : 107
+Score : 7.636827 - ID : 1185
+Score : 7.619011 - ID : 540
+Score : 7.561627 - ID : 1154
+Score : 7.3801217 - ID : 916
+Score : 7.3244205 - ID : 1240
+Score : 7.315909 - ID : 1055
+
+---------------------------------
+
+QueryModel :id='085', query='what are the effects of small amounts of gas rarefaction on the characteristics of the boundary layers on slender bodies of revolution . '}
+Score : 7.9369993 - ID : 494
+Score : 7.732752 - ID : 192
+Score : 6.891267 - ID : 124
+Score : 6.87013 - ID : 273
+Score : 6.841282 - ID : 541
+Score : 6.6082044 - ID : 329
+Score : 6.602106 - ID : 1259
+Score : 6.4826255 - ID : 435
+Score : 6.435204 - ID : 22
+Score : 6.322628 - ID : 1319
+Score : 6.322624 - ID : 1274
+Score : 6.231535 - ID : 337
+Score : 6.1760583 - ID : 326
+Score : 5.98783 - ID : 1248
+Score : 5.879804 - ID : 27
+Score : 5.80478 - ID : 25
+Score : 5.793406 - ID : 353
+Score : 5.739292 - ID : 1310
+Score : 5.722862 - ID : 801
+Score : 5.710079 - ID : 1189
+
+---------------------------------
+
+QueryModel :id='086', query='what is the available information pertaining to boundary layers on very slender bodies of revolution in continuum flow (the ?transverse curvature  effect) . '}
+
+---------------------------------
+
+QueryModel :id='087', query='what is the available information pertaining to the effect of slight rarefaction on boundary layer flows (the ?slip? effect) . '}
+
+---------------------------------
+
+QueryModel :id='093', query='what investigations have been made of the flow field about a body moving through a rarefied,  partially ionized gas in the presence of a magnetic field . '}
+Score : 13.4995985 - ID : 208
+Score : 12.375248 - ID : 531
+Score : 11.444895 - ID : 1221
+Score : 10.324342 - ID : 296
+Score : 10.034133 - ID : 1255
+Score : 9.980144 - ID : 437
+Score : 9.89284 - ID : 34
+Score : 9.808929 - ID : 456
+Score : 9.647251 - ID : 270
+Score : 9.621054 - ID : 1282
+Score : 9.289416 - ID : 1253
+Score : 8.995781 - ID : 1194
+Score : 8.696182 - ID : 1222
+Score : 8.576867 - ID : 251
+Score : 8.576183 - ID : 228
+Score : 8.554554 - ID : 85
+Score : 8.486559 - ID : 967
+Score : 8.462216 - ID : 625
+Score : 8.447867 - ID : 370
+Score : 8.360735 - ID : 33
+
+---------------------------------
+
+QueryModel :id='094', query='how is the heat transfer downstream of the mass transfer region effected by mass transfer at the nose of a blunted cone . '}
+Score : 14.67935 - ID : 123
+Score : 11.847685 - ID : 84
+Score : 10.035963 - ID : 44
+Score : 9.977449 - ID : 274
+Score : 9.964298 - ID : 1307
+Score : 9.163851 - ID : 623
+Score : 9.104192 - ID : 525
+Score : 8.932808 - ID : 1213
+Score : 8.907053 - ID : 666
+Score : 8.897179 - ID : 1185
+Score : 8.610956 - ID : 365
+Score : 8.594412 - ID : 1300
+Score : 8.484319 - ID : 553
+Score : 8.399307 - ID : 1241
+Score : 8.214211 - ID : 366
+Score : 8.1195 - ID : 79
+Score : 8.024845 - ID : 754
+Score : 7.9261208 - ID : 303
+Score : 7.872089 - ID : 338
+Score : 7.692322 - ID : 1159
+
+---------------------------------
+
+QueryModel :id='095', query='to what extent can the available information for incompressible boundary layers be applied to problems involving compressible boundary layers . '}
+Score : 11.0363655 - ID : 17
+Score : 9.261199 - ID : 376
+Score : 9.221425 - ID : 1185
+Score : 8.816594 - ID : 798
+Score : 8.473574 - ID : 1301
+Score : 8.025681 - ID : 1214
+Score : 8.020847 - ID : 135
+Score : 7.7410226 - ID : 1302
+Score : 7.7165294 - ID : 460
+Score : 7.5221057 - ID : 1281
+Score : 7.490736 - ID : 251
+Score : 7.485307 - ID : 377
+Score : 7.4371724 - ID : 241
+Score : 7.3613634 - ID : 16
+Score : 7.1735377 - ID : 291
+Score : 7.166561 - ID : 309
+Score : 7.1057367 - ID : 1375
+Score : 7.0517263 - ID : 336
+Score : 7.018603 - ID : 73
+Score : 6.9336524 - ID : 562
+
+---------------------------------
+
+QueryModel :id='097', query='to what extent can readily available steady-state aerodynamic data be utilized to predict lifting-surface flutter characteristics . '}
+Score : 14.225487 - ID : 753
+Score : 8.225566 - ID : 14
+Score : 8.2036915 - ID : 441
+Score : 7.416237 - ID : 1339
+Score : 6.8612595 - ID : 783
+Score : 6.180246 - ID : 685
+Score : 6.080584 - ID : 634
+Score : 6.057138 - ID : 1331
+Score : 5.890579 - ID : 811
+Score : 5.8716245 - ID : 711
+Score : 5.7146764 - ID : 1248
+Score : 5.695005 - ID : 708
+Score : 5.5604296 - ID : 1209
+Score : 5.525871 - ID : 1105
+Score : 5.437296 - ID : 1336
+Score : 5.4118657 - ID : 1057
+Score : 5.3285894 - ID : 1290
+Score : 5.307989 - ID : 391
+Score : 5.2287273 - ID : 30
+Score : 5.1092005 - ID : 202
+
+---------------------------------
+
+QueryModel :id='098', query='what are the significant steady and non-steady flow characteristics which affect the flutter mechanism . '}
+Score : 7.194975 - ID : 753
+Score : 5.5698395 - ID : 1338
+Score : 5.532189 - ID : 916
+Score : 5.488604 - ID : 1268
+Score : 5.0970793 - ID : 1339
+Score : 5.082132 - ID : 1099
+Score : 4.8496766 - ID : 444
+Score : 4.842761 - ID : 810
+Score : 4.6893673 - ID : 856
+Score : 4.4967084 - ID : 747
+Score : 4.189324 - ID : 52
+Score : 4.139402 - ID : 1272
+Score : 4.1207623 - ID : 634
+Score : 4.052481 - ID : 117
+Score : 4.011863 - ID : 1072
+Score : 3.9841845 - ID : 38
+Score : 3.9501135 - ID : 859
+Score : 3.9435248 - ID : 42
+Score : 3.93509 - ID : 857
+Score : 3.884987 - ID : 902
+
+---------------------------------
+
+QueryModel :id='099', query='is it possible to determine rates of forced convective heat transfer from heated cylinders of non-circular cross-section,  (the fluid flow being along the generators) . '}
+Score : 9.5700035 - ID : 754
+Score : 9.109505 - ID : 788
+Score : 8.2940445 - ID : 375
+Score : 8.120985 - ID : 270
+Score : 8.114174 - ID : 873
+Score : 7.9691 - ID : 974
+Score : 7.8581944 - ID : 789
+Score : 7.697244 - ID : 269
+Score : 7.667364 - ID : 1159
+Score : 7.409536 - ID : 927
+Score : 7.0085473 - ID : 661
+Score : 6.8654633 - ID : 158
+Score : 6.842078 - ID : 522
+Score : 6.806225 - ID : 509
+Score : 6.781968 - ID : 599
+Score : 6.7811117 - ID : 387
+Score : 6.7286215 - ID : 564
+Score : 6.7006164 - ID : 603
+Score : 6.576268 - ID : 1104
+Score : 6.574223 - ID : 104
+
+---------------------------------
+
+QueryModel :id='100', query='how much is known about boundary layer flows along non-circular cylinders . '}
+Score : 7.2433677 - ID : 292
+Score : 6.323539 - ID : 381
+Score : 5.778289 - ID : 912
+Score : 5.7329745 - ID : 269
+Score : 5.663855 - ID : 610
+Score : 5.427256 - ID : 646
+Score : 5.424718 - ID : 364
+Score : 5.3496547 - ID : 458
+Score : 5.3427067 - ID : 657
+Score : 5.1805706 - ID : 1181
+Score : 5.055964 - ID : 272
+Score : 5.0106134 - ID : 786
+Score : 4.9050193 - ID : 207
+Score : 4.898225 - ID : 1268
+Score : 4.861968 - ID : 754
+Score : 4.7401204 - ID : 456
+Score : 4.7246423 - ID : 661
+Score : 4.690433 - ID : 375
+Score : 4.38572 - ID : 23
+Score : 4.3108363 - ID : 261
+
+---------------------------------
+
+QueryModel :id='101', query='is there any simple,  but practical,  method for numerical integration of the mixing problem (i.e. the blasius problem with three-point boundary conditions) . '}
+Score : 12.951517 - ID : 527
+Score : 12.62925 - ID : 321
+Score : 11.301513 - ID : 322
+Score : 10.153387 - ID : 320
+Score : 9.049457 - ID : 107
+Score : 8.837791 - ID : 476
+Score : 7.4646096 - ID : 585
+Score : 7.390247 - ID : 1235
+Score : 7.364144 - ID : 1377
+Score : 7.357544 - ID : 365
+Score : 7.2354527 - ID : 72
+Score : 7.221025 - ID : 730
+Score : 7.079767 - ID : 641
+Score : 6.957085 - ID : 364
+Score : 6.9400454 - ID : 366
+Score : 6.910696 - ID : 1240
+Score : 6.81119 - ID : 150
+Score : 6.638016 - ID : 1108
+Score : 6.59723 - ID : 1184
+Score : 6.5198154 - ID : 677
+
+---------------------------------
+
+QueryModel :id='102', query='does there exist a closed-form expression for the local heat transfer around a yawed cylinder . '}
+Score : 8.221038 - ID : 539
+Score : 7.3811517 - ID : 564
+Score : 7.019128 - ID : 566
+Score : 6.6575527 - ID : 333
+Score : 6.0506415 - ID : 1258
+Score : 5.957677 - ID : 435
+Score : 5.94459 - ID : 553
+Score : 5.8959126 - ID : 1213
+Score : 5.3732247 - ID : 1307
+Score : 5.291272 - ID : 1238
+Score : 5.2824507 - ID : 467
+Score : 5.239145 - ID : 460
+Score : 5.089803 - ID : 922
+Score : 5.0133843 - ID : 1359
+Score : 4.9893904 - ID : 789
+Score : 4.973839 - ID : 383
+Score : 4.8648305 - ID : 1104
+Score : 4.863199 - ID : 122
+Score : 4.8196807 - ID : 1081
+Score : 4.804434 - ID : 144
+
+---------------------------------
+
+QueryModel :id='103', query='how far around a cylinder and under what conditions of flow,  if any, is the velocity just outside of the boundary layer a linear function of the distance around the cylinder . '}
+Score : 11.521013 - ID : 459
+Score : 11.0930805 - ID : 1268
+Score : 10.410381 - ID : 1258
+Score : 10.255451 - ID : 148
+Score : 9.690261 - ID : 452
+Score : 9.522754 - ID : 381
+Score : 9.230529 - ID : 788
+Score : 9.179844 - ID : 483
+Score : 8.617463 - ID : 1383
+Score : 8.542083 - ID : 255
+Score : 8.419454 - ID : 533
+Score : 8.35066 - ID : 553
+Score : 8.288868 - ID : 629
+Score : 8.268618 - ID : 785
+Score : 8.132449 - ID : 105
+Score : 7.938319 - ID : 754
+Score : 7.7776866 - ID : 36
+Score : 7.628951 - ID : 787
+Score : 7.400942 - ID : 1178
+Score : 7.238251 - ID : 1384
+
+---------------------------------
+
+QueryModel :id='104', query='where can i find pressure data on surfaces of swept cylinders . '}
+Score : 5.128999 - ID : 843
+Score : 5.0790257 - ID : 548
+Score : 4.86385 - ID : 91
+Score : 4.65838 - ID : 718
+Score : 4.5843377 - ID : 889
+Score : 4.3830304 - ID : 287
+Score : 4.338121 - ID : 1051
+Score : 4.3184156 - ID : 798
+Score : 4.3081646 - ID : 880
+Score : 4.2575407 - ID : 1336
+Score : 4.2408485 - ID : 1104
+Score : 4.0162373 - ID : 1192
+Score : 3.987993 - ID : 435
+Score : 3.9574237 - ID : 1121
+Score : 3.9528928 - ID : 659
+Score : 3.943815 - ID : 839
+Score : 3.942859 - ID : 263
+Score : 3.917179 - ID : 891
+Score : 3.8979177 - ID : 1334
+Score : 3.8584692 - ID : 1135
+
+---------------------------------
+
+QueryModel :id='105', query='can't the static deflection shapes be used in predicting flutter in place of vibrational shapes . if so,  can we provide a justification by means of an example . '}
+Score : 9.066071 - ID : 52
+Score : 8.711857 - ID : 914
+Score : 8.090146 - ID : 730
+Score : 7.831964 - ID : 390
+Score : 7.764405 - ID : 556
+Score : 7.5144057 - ID : 138
+Score : 7.1179576 - ID : 37
+Score : 7.0151124 - ID : 70
+Score : 6.7840037 - ID : 928
+Score : 6.6962214 - ID : 1225
+Score : 6.6761675 - ID : 627
+Score : 6.645834 - ID : 441
+Score : 6.570253 - ID : 1107
+Score : 6.521443 - ID : 719
+Score : 6.36734 - ID : 217
+Score : 6.338906 - ID : 894
+Score : 6.2092705 - ID : 277
+Score : 5.973927 - ID : 1339
+Score : 5.9013886 - ID : 425
+Score : 5.850479 - ID : 410
+
+---------------------------------
+
+QueryModel :id='106', query='does the boundary layer on a flat plate in a shear flow induce a pressure gradient . '}
+Score : 11.862863 - ID : 388
+Score : 9.4012575 - ID : 3
+Score : 8.705215 - ID : 569
+Score : 7.7219415 - ID : 393
+Score : 7.5273366 - ID : 1370
+Score : 7.5115604 - ID : 1355
+Score : 7.4048 - ID : 180
+Score : 7.4026146 - ID : 1106
+Score : 7.400045 - ID : 664
+Score : 7.244383 - ID : 4
+Score : 7.0339456 - ID : 1200
+Score : 7.005324 - ID : 305
+Score : 6.9869184 - ID : 977
+Score : 6.8655825 - ID : 525
+Score : 6.8653674 - ID : 310
+Score : 6.766857 - ID : 1237
+Score : 6.6589975 - ID : 1382
+Score : 6.6081123 - ID : 1107
+Score : 6.5843105 - ID : 1386
+Score : 6.5552044 - ID : 2
+
+---------------------------------
+
+QueryModel :id='107', query='can the procedure of matching inner and outer solutions for a viscous flow problem be applied when the main stream is a shear flow . '}
+Score : 13.046325 - ID : 128
+Score : 9.123246 - ID : 191
+Score : 8.591394 - ID : 664
+Score : 8.540325 - ID : 1206
+Score : 8.2413435 - ID : 1251
+Score : 8.157434 - ID : 366
+Score : 8.106208 - ID : 375
+Score : 8.076911 - ID : 458
+Score : 7.864816 - ID : 1072
+Score : 7.7716093 - ID : 306
+Score : 7.7181606 - ID : 629
+Score : 7.6866565 - ID : 2
+Score : 7.6338186 - ID : 305
+Score : 7.5005007 - ID : 97
+Score : 7.457589 - ID : 329
+Score : 7.3551536 - ID : 131
+Score : 7.1836233 - ID : 1182
+Score : 7.1107254 - ID : 299
+Score : 7.0782814 - ID : 73
+Score : 6.884317 - ID : 576
+
+---------------------------------
+
+QueryModel :id='108', query='can series expansions be found for the boundary layer on a flat plate in a shear flow . '}
+Score : 7.7219415 - ID : 393
+Score : 7.4880605 - ID : 2
+Score : 7.4048 - ID : 180
+Score : 7.244383 - ID : 4
+Score : 7.001233 - ID : 306
+Score : 7.0002184 - ID : 3
+Score : 6.8383694 - ID : 664
+Score : 6.8033276 - ID : 135
+Score : 6.745774 - ID : 388
+Score : 6.6504984 - ID : 72
+Score : 6.559161 - ID : 1107
+Score : 6.404455 - ID : 9
+Score : 6.318157 - ID : 155
+Score : 6.309431 - ID : 944
+Score : 6.277517 - ID : 784
+Score : 6.265185 - ID : 629
+Score : 6.165007 - ID : 1106
+Score : 6.0295224 - ID : 309
+Score : 6.0158577 - ID : 308
+Score : 5.983326 - ID : 116
+
+---------------------------------
+
+QueryModel :id='109', query='what possible techniques are available for computing the injection distribution corresponding to an isothermal transpiration cooled hemisphere . '}
+Score : 11.648431 - ID : 628
+Score : 7.682808 - ID : 689
+Score : 7.150734 - ID : 662
+Score : 6.3607025 - ID : 272
+Score : 5.7417674 - ID : 364
+Score : 5.4507537 - ID : 1191
+Score : 5.4481964 - ID : 365
+Score : 5.386766 - ID : 338
+Score : 5.2957516 - ID : 1104
+Score : 5.2847524 - ID : 195
+Score : 5.231172 - ID : 1248
+Score : 5.2121463 - ID : 81
+Score : 5.199684 - ID : 773
+Score : 5.12245 - ID : 535
+Score : 5.100525 - ID : 481
+Score : 5.0913935 - ID : 690
+Score : 5.0375075 - ID : 84
+Score : 5.018145 - ID : 9
+Score : 4.940593 - ID : 1263
+Score : 4.92087 - ID : 125
+
+---------------------------------
+
+QueryModel :id='110', query='what is known regarding asymptotic solutions to the exact boundary layer equations . '}
+Score : 6.752328 - ID : 128
+Score : 5.9351535 - ID : 306
+Score : 5.8874784 - ID : 131
+Score : 5.8492765 - ID : 540
+Score : 5.6090665 - ID : 111
+Score : 5.560402 - ID : 299
+Score : 5.540024 - ID : 292
+Score : 5.4530063 - ID : 117
+Score : 5.436284 - ID : 458
+Score : 5.0778375 - ID : 1383
+Score : 5.0372586 - ID : 264
+Score : 5.0014315 - ID : 381
+Score : 4.961438 - ID : 28
+Score : 4.939374 - ID : 365
+Score : 4.9372745 - ID : 393
+Score : 4.892796 - ID : 1297
+Score : 4.8871517 - ID : 664
+Score : 4.8314567 - ID : 1375
+Score : 4.8253946 - ID : 1200
+Score : 4.7169666 - ID : 366
+
+---------------------------------
+
+QueryModel :id='111', query='previous solutions to the boundary layer similarity equations . '}
+Score : 6.0610385 - ID : 540
+Score : 5.765086 - ID : 62
+Score : 5.3824654 - ID : 180
+Score : 5.034117 - ID : 300
+Score : 4.8759007 - ID : 349
+Score : 4.741662 - ID : 527
+Score : 4.7143683 - ID : 1149
+Score : 4.5795593 - ID : 104
+Score : 4.5530615 - ID : 305
+Score : 4.480146 - ID : 375
+Score : 4.390804 - ID : 1185
+Score : 4.3209677 - ID : 327
+Score : 4.3152685 - ID : 365
+Score : 4.283364 - ID : 435
+Score : 4.273671 - ID : 1235
+Score : 4.254858 - ID : 292
+Score : 4.2405243 - ID : 1055
+Score : 4.2348485 - ID : 1200
+Score : 4.1062694 - ID : 1236
+Score : 3.999327 - ID : 565
+
+---------------------------------
+
+QueryModel :id='112', query='experimental results on hypersonic viscous interaction . '}
+Score : 4.811249 - ID : 540
+Score : 4.4792476 - ID : 573
+Score : 4.4469256 - ID : 305
+Score : 4.0306587 - ID : 536
+Score : 3.9750125 - ID : 1299
+Score : 3.9685276 - ID : 1374
+Score : 3.9065166 - ID : 329
+Score : 3.8601582 - ID : 494
+Score : 3.7998106 - ID : 572
+Score : 3.7470815 - ID : 1200
+Score : 3.7443364 - ID : 307
+Score : 3.7272968 - ID : 1253
+Score : 3.6818926 - ID : 310
+Score : 3.636459 - ID : 371
+Score : 3.6238666 - ID : 570
+Score : 3.613594 - ID : 63
+Score : 3.5866725 - ID : 25
+Score : 3.5328505 - ID : 688
+Score : 3.4376273 - ID : 1310
+Score : 3.4282327 - ID : 625
+
+---------------------------------
+
+QueryModel :id='113', query='what has been done about viscous interactions in relatively low reynolds number flows,  particularly at high mach numbers . '}
+Score : 8.621746 - ID : 315
+Score : 8.413441 - ID : 193
+Score : 8.063526 - ID : 630
+Score : 7.863493 - ID : 139
+Score : 7.563633 - ID : 799
+Score : 7.4344845 - ID : 657
+Score : 7.212131 - ID : 511
+Score : 7.1673555 - ID : 370
+Score : 7.0552797 - ID : 1082
+Score : 6.917165 - ID : 73
+Score : 6.9095826 - ID : 371
+Score : 6.905367 - ID : 10
+Score : 6.8894944 - ID : 43
+Score : 6.846799 - ID : 360
+Score : 6.828655 - ID : 314
+Score : 6.795351 - ID : 666
+Score : 6.78615 - ID : 373
+Score : 6.731512 - ID : 1157
+Score : 6.7057595 - ID : 187
+Score : 6.693099 - ID : 941
+
+---------------------------------
+
+QueryModel :id='114', query='what role does the effect of chemical reaction (particularly when out of equilibrium) play in the similitude laws governing hypersonic flows over slender aerodynamic bodies . '}
+Score : 17.089762 - ID : 332
+Score : 12.452266 - ID : 541
+Score : 10.6128845 - ID : 1296
+Score : 10.518578 - ID : 625
+Score : 9.906972 - ID : 1374
+Score : 9.52226 - ID : 1295
+Score : 9.348986 - ID : 574
+Score : 9.088511 - ID : 577
+Score : 8.843019 - ID : 401
+Score : 8.332817 - ID : 456
+Score : 8.281379 - ID : 1072
+Score : 8.258307 - ID : 42
+Score : 8.136889 - ID : 1310
+Score : 8.050153 - ID : 552
+Score : 7.88252 - ID : 494
+Score : 7.8218637 - ID : 101
+Score : 7.7828455 - ID : 1010
+Score : 7.4676566 - ID : 556
+Score : 7.365651 - ID : 160
+Score : 7.329765 - ID : 24
+
+---------------------------------
+
+QueryModel :id='116', query='how significant is the possible pressure of a dissociated free stream with respect to the realization of hypersonic simulation in high enthalpy wind tunnels . '}
+Score : 9.92783 - ID : 625
+Score : 8.24372 - ID : 1295
+Score : 8.085682 - ID : 1153
+Score : 7.9696884 - ID : 603
+Score : 7.9407787 - ID : 576
+Score : 7.8838234 - ID : 876
+Score : 7.568897 - ID : 364
+Score : 7.527895 - ID : 68
+Score : 7.0745697 - ID : 185
+Score : 6.8317714 - ID : 656
+Score : 6.649042 - ID : 1204
+Score : 6.5817623 - ID : 1305
+Score : 6.570391 - ID : 1155
+Score : 6.425784 - ID : 272
+Score : 6.4130816 - ID : 1143
+Score : 6.3407087 - ID : 516
+Score : 6.25414 - ID : 26
+Score : 6.2175426 - ID : 1296
+Score : 6.2154965 - ID : 141
+Score : 6.209291 - ID : 167
+
+---------------------------------
+
+QueryModel :id='118', query='do the discrepancies among current analyses of the vorticity effect on stagnation-point heat transfer result primarily from the differences in the viscosity-temperature law assumed . '}
+Score : 8.015274 - ID : 1395
+Score : 7.340686 - ID : 82
+Score : 7.1446004 - ID : 73
+Score : 7.139421 - ID : 630
+Score : 7.1109233 - ID : 1226
+Score : 7.0155387 - ID : 240
+Score : 6.994453 - ID : 645
+Score : 6.7959504 - ID : 324
+Score : 6.687329 - ID : 565
+Score : 6.6596603 - ID : 329
+Score : 6.4626417 - ID : 342
+Score : 6.3988585 - ID : 112
+Score : 6.299691 - ID : 1201
+Score : 6.287067 - ID : 959
+Score : 6.2635016 - ID : 580
+Score : 6.2569757 - ID : 328
+Score : 6.1871715 - ID : 306
+Score : 6.1467795 - ID : 24
+Score : 6.109262 - ID : 951
+Score : 6.089251 - ID : 323
+
+---------------------------------
+
+QueryModel :id='119', query='how far can one trust the linear viscosity-temperature solution assumed in some of the analyses of hypersonic shock layer at low reynolds number . '}
+Score : 10.850924 - ID : 666
+Score : 9.941793 - ID : 667
+Score : 8.666427 - ID : 630
+Score : 8.399008 - ID : 329
+Score : 7.8595157 - ID : 537
+Score : 7.6847405 - ID : 572
+Score : 7.655569 - ID : 1391
+Score : 7.636703 - ID : 315
+Score : 7.139161 - ID : 1076
+Score : 7.1380405 - ID : 1198
+Score : 7.094082 - ID : 328
+Score : 7.0035276 - ID : 255
+Score : 6.9541407 - ID : 1310
+Score : 6.852757 - ID : 1395
+Score : 6.841457 - ID : 562
+Score : 6.7187886 - ID : 570
+Score : 6.704043 - ID : 1394
+Score : 6.6925435 - ID : 1375
+Score : 6.6829834 - ID : 124
+Score : 6.519867 - ID : 307
+
+---------------------------------
+
+QueryModel :id='120', query='how close is the comparison of the shock layer theory with existing experiments in the low reynolds number (merged-layer) regime . '}
+Score : 12.060448 - ID : 329
+Score : 9.309651 - ID : 1264
+Score : 9.106547 - ID : 630
+Score : 8.740225 - ID : 667
+Score : 7.922785 - ID : 315
+Score : 7.900968 - ID : 1391
+Score : 7.5286627 - ID : 537
+Score : 7.201873 - ID : 1395
+Score : 6.9950914 - ID : 170
+Score : 6.6220098 - ID : 668
+Score : 6.2611437 - ID : 1228
+Score : 6.2389445 - ID : 572
+Score : 6.004899 - ID : 345
+Score : 5.995397 - ID : 187
+Score : 5.957425 - ID : 347
+Score : 5.9131866 - ID : 272
+Score : 5.911336 - ID : 139
+Score : 5.7759132 - ID : 346
+Score : 5.7373385 - ID : 504
+Score : 5.6892653 - ID : 207
+
+---------------------------------
+
+QueryModel :id='121', query='has anyone explained the kink in the surge line of a multi-stage axial compressor . '}
+Score : 9.117596 - ID : 589
+Score : 7.0722194 - ID : 588
+Score : 6.786798 - ID : 578
+Score : 5.3040895 - ID : 822
+Score : 5.217697 - ID : 739
+Score : 4.9172354 - ID : 543
+Score : 4.767382 - ID : 1372
+Score : 4.6463723 - ID : 1126
+Score : 4.473678 - ID : 237
+Score : 4.364924 - ID : 769
+Score : 4.07867 - ID : 928
+Score : 3.9954817 - ID : 935
+Score : 3.8545017 - ID : 216
+Score : 3.8165498 - ID : 341
+Score : 3.8019907 - ID : 642
+Score : 3.7239466 - ID : 1118
+Score : 3.612795 - ID : 1122
+Score : 3.5273557 - ID : 138
+Score : 3.5196872 - ID : 764
+Score : 3.470782 - ID : 1051
+
+---------------------------------
+
+QueryModel :id='122', query='have any aerodynamic derivatives been measured at hypersonic mach numbers and comparison been made with theoretical work . '}
+Score : 9.277393 - ID : 196
+Score : 9.2155485 - ID : 544
+Score : 8.74081 - ID : 755
+Score : 8.600717 - ID : 199
+Score : 8.365205 - ID : 567
+Score : 7.720672 - ID : 597
+Score : 7.7095685 - ID : 202
+Score : 7.638135 - ID : 1336
+Score : 7.614374 - ID : 56
+Score : 7.493279 - ID : 748
+Score : 7.25951 - ID : 516
+Score : 7.2103734 - ID : 49
+Score : 7.1275525 - ID : 52
+Score : 7.127258 - ID : 441
+Score : 7.0959935 - ID : 1310
+Score : 6.9577246 - ID : 1066
+Score : 6.806153 - ID : 689
+Score : 6.7762747 - ID : 175
+Score : 6.774528 - ID : 360
+Score : 6.6806965 - ID : 1335
+
+---------------------------------
+
+QueryModel :id='123', query='are methods of measuring aerodynamic derivatives available which could be adopted for use in short running time facilities . '}
+Score : 10.144262 - ID : 544
+Score : 7.1351995 - ID : 1335
+Score : 6.526004 - ID : 546
+Score : 6.390159 - ID : 1336
+Score : 6.1078014 - ID : 602
+Score : 5.939893 - ID : 622
+Score : 5.8425446 - ID : 301
+Score : 5.7356763 - ID : 1019
+Score : 5.5518394 - ID : 441
+Score : 5.502551 - ID : 813
+Score : 5.487368 - ID : 781
+Score : 5.359334 - ID : 606
+Score : 5.309079 - ID : 733
+Score : 5.2454953 - ID : 168
+Score : 5.23203 - ID : 790
+Score : 5.2051964 - ID : 595
+Score : 5.199711 - ID : 1020
+Score : 4.998918 - ID : 1162
+Score : 4.9561343 - ID : 1333
+Score : 4.831993 - ID : 251
+
+---------------------------------
+
+QueryModel :id='126', query='what are wind-tunnel corrections for a two-dimensional aerofoil mounted off-centre in a tunnel . '}
+Score : 7.295144 - ID : 799
+Score : 5.4947505 - ID : 42
+Score : 5.271457 - ID : 631
+Score : 5.01023 - ID : 714
+Score : 4.824617 - ID : 672
+Score : 4.7564955 - ID : 206
+Score : 4.681253 - ID : 809
+Score : 4.338535 - ID : 652
+Score : 4.203461 - ID : 185
+Score : 4.0956097 - ID : 203
+Score : 4.064068 - ID : 78
+Score : 3.9934177 - ID : 205
+Score : 3.9218922 - ID : 597
+Score : 3.8685424 - ID : 561
+Score : 3.8147402 - ID : 245
+Score : 3.7732532 - ID : 722
+Score : 3.6966524 - ID : 1336
+Score : 3.6411324 - ID : 468
+Score : 3.5831656 - ID : 757
+Score : 3.512118 - ID : 1163
+
+---------------------------------
+
+QueryModel :id='128', query='how do kuchemann's and multhopp's methods for calculating lift distributions on swept wings in subsonic flow compare with each other and with experiment . '}
+Score : 11.887562 - ID : 1339
+Score : 11.099609 - ID : 632
+Score : 10.257338 - ID : 678
+Score : 10.146398 - ID : 1334
+Score : 9.532691 - ID : 924
+Score : 9.094175 - ID : 1332
+Score : 9.043461 - ID : 677
+Score : 8.896511 - ID : 247
+Score : 8.864708 - ID : 287
+Score : 8.258767 - ID : 465
+Score : 8.177163 - ID : 679
+Score : 8.059255 - ID : 315
+Score : 8.050146 - ID : 921
+Score : 7.8651104 - ID : 676
+Score : 7.85911 - ID : 704
+Score : 7.5600433 - ID : 712
+Score : 7.4806743 - ID : 1343
+Score : 7.3611317 - ID : 1289
+Score : 7.211716 - ID : 433
+Score : 7.099696 - ID : 674
+
+---------------------------------
+
+QueryModel :id='130', query='what is the present state of the theory of quasi-conical flows . '}
+Score : 5.7038236 - ID : 1275
+Score : 5.388818 - ID : 428
+Score : 5.2220845 - ID : 1196
+Score : 4.755 - ID : 236
+Score : 4.6463523 - ID : 753
+Score : 4.2901964 - ID : 97
+Score : 3.8402877 - ID : 1297
+Score : 3.8226578 - ID : 224
+Score : 3.6927717 - ID : 966
+Score : 3.5370204 - ID : 251
+Score : 3.4062262 - ID : 541
+Score : 3.3726509 - ID : 898
+Score : 3.3284497 - ID : 42
+Score : 3.3098924 - ID : 1295
+Score : 3.278571 - ID : 512
+Score : 3.2656028 - ID : 1134
+Score : 3.1932526 - ID : 1029
+Score : 3.1835828 - ID : 1141
+Score : 3.0080836 - ID : 380
+Score : 3.0021544 - ID : 1060
+
+---------------------------------
+
+QueryModel :id='131', query='references on the methods available for accurately estimating aerodynamic heat transfer to conical bodies for both laminar and turbulent flow . '}
+Score : 11.473259 - ID : 294
+Score : 9.838294 - ID : 522
+Score : 9.273744 - ID : 873
+Score : 8.55771 - ID : 17
+Score : 7.95594 - ID : 546
+Score : 7.672325 - ID : 142
+Score : 7.511646 - ID : 1104
+Score : 7.4984975 - ID : 1281
+Score : 7.3452363 - ID : 872
+Score : 6.9494076 - ID : 337
+Score : 6.926833 - ID : 1310
+Score : 6.7137475 - ID : 378
+Score : 6.64094 - ID : 36
+Score : 6.5059247 - ID : 261
+Score : 6.417384 - ID : 1241
+Score : 6.414131 - ID : 21
+Score : 6.2683115 - ID : 232
+Score : 6.24822 - ID : 344
+Score : 6.2477827 - ID : 553
+Score : 6.2026396 - ID : 554
+
+---------------------------------
+
+QueryModel :id='132', query='what parameters can seriously influence natural transition from laminar to turbulent flow on a model in a wind tunnel . '}
+Score : 8.68614 - ID : 184
+Score : 8.411056 - ID : 798
+Score : 8.216191 - ID : 84
+Score : 7.7704697 - ID : 710
+Score : 7.1632485 - ID : 1155
+Score : 7.001167 - ID : 874
+Score : 6.933564 - ID : 800
+Score : 6.889216 - ID : 1154
+Score : 6.7549 - ID : 244
+Score : 6.7173924 - ID : 553
+Score : 6.7161703 - ID : 294
+Score : 6.7033305 - ID : 314
+Score : 6.6508765 - ID : 719
+Score : 6.597816 - ID : 1350
+Score : 6.5003185 - ID : 80
+Score : 6.432926 - ID : 280
+Score : 6.411781 - ID : 315
+Score : 6.3373046 - ID : 876
+Score : 6.2584825 - ID : 516
+Score : 6.228461 - ID : 625
+
+---------------------------------
+
+QueryModel :id='133', query='can a satisfactory experimental technique be developed for measuring oscillatory derivatives on slender sting-mounted models in supersonic wind tunnels . '}
+Score : 16.447363 - ID : 755
+Score : 11.157295 - ID : 594
+Score : 10.5687475 - ID : 431
+Score : 10.252887 - ID : 188
+Score : 10.24137 - ID : 790
+Score : 10.170814 - ID : 179
+Score : 9.3228 - ID : 544
+Score : 8.666553 - ID : 280
+Score : 8.145367 - ID : 1155
+Score : 7.896577 - ID : 141
+Score : 7.751698 - ID : 719
+Score : 7.426864 - ID : 516
+Score : 7.1863313 - ID : 184
+Score : 6.689668 - ID : 1113
+Score : 6.6831684 - ID : 598
+Score : 6.3147235 - ID : 1066
+Score : 6.311678 - ID : 1290
+Score : 6.267245 - ID : 608
+Score : 6.1914153 - ID : 808
+Score : 6.066195 - ID : 1305
+
+---------------------------------
+
+QueryModel :id='135', query='what effect has the boundary layer in modifying the basic inviscid flow behind the shock,  neglecting effects of leading edge and corner . '}
+Score : 11.740293 - ID : 547
+Score : 9.621523 - ID : 797
+Score : 9.264752 - ID : 1198
+Score : 8.988886 - ID : 439
+Score : 8.711545 - ID : 2
+Score : 8.696154 - ID : 26
+Score : 8.653984 - ID : 334
+Score : 8.548935 - ID : 1309
+Score : 8.432275 - ID : 134
+Score : 8.383471 - ID : 572
+Score : 8.07097 - ID : 1267
+Score : 7.9731045 - ID : 667
+Score : 7.9420924 - ID : 1228
+Score : 7.933381 - ID : 625
+Score : 7.9321694 - ID : 310
+Score : 7.852064 - ID : 788
+Score : 7.8307524 - ID : 191
+Score : 7.6018395 - ID : 1157
+Score : 7.575529 - ID : 25
+Score : 7.3888164 - ID : 1248
+
+---------------------------------
+
+QueryModel :id='136', query='how does a satellite orbit contract under the action of air drag in an atmosphere in which the scale height varies with altitude . '}
+Score : 21.669674 - ID : 548
+Score : 15.700026 - ID : 613
+Score : 15.5315275 - ID : 617
+Score : 15.421075 - ID : 622
+Score : 15.283631 - ID : 615
+Score : 14.938736 - ID : 614
+Score : 13.599853 - ID : 616
+Score : 11.412877 - ID : 618
+Score : 10.063073 - ID : 621
+Score : 9.759059 - ID : 162
+Score : 8.805682 - ID : 163
+Score : 8.175319 - ID : 1150
+Score : 7.943772 - ID : 619
+Score : 7.817975 - ID : 958
+Score : 7.3601503 - ID : 620
+Score : 6.948397 - ID : 1345
+Score : 6.7860637 - ID : 1391
+Score : 6.09772 - ID : 969
+Score : 5.903205 - ID : 275
+Score : 5.816384 - ID : 1163
+
+---------------------------------
+
+QueryModel :id='137', query='how is the flow at transonic speeds about a delta wing different from that on a closely-related tapered sweptback wing . '}
+Score : 9.936809 - ID : 793
+Score : 9.849304 - ID : 420
+Score : 9.52656 - ID : 757
+Score : 9.157986 - ID : 794
+Score : 8.700077 - ID : 638
+Score : 8.639793 - ID : 1338
+Score : 8.627483 - ID : 205
+Score : 8.543986 - ID : 921
+Score : 8.442383 - ID : 200
+Score : 8.351163 - ID : 902
+Score : 8.305236 - ID : 699
+Score : 8.285594 - ID : 52
+Score : 8.102404 - ID : 464
+Score : 7.9621806 - ID : 315
+Score : 7.568226 - ID : 797
+Score : 7.55435 - ID : 1341
+Score : 7.4730644 - ID : 917
+Score : 7.332011 - ID : 916
+Score : 7.3234572 - ID : 222
+Score : 7.2264137 - ID : 601
+
+---------------------------------
+
+QueryModel :id='138', query='recent data on shock-induced boundary-layer separation . '}
+Score : 5.142881 - ID : 265
+Score : 4.8015795 - ID : 1228
+Score : 4.556544 - ID : 1187
+Score : 4.197193 - ID : 358
+Score : 4.056892 - ID : 979
+Score : 3.903222 - ID : 1364
+Score : 3.8142679 - ID : 291
+Score : 3.789558 - ID : 293
+Score : 3.764316 - ID : 294
+Score : 3.661092 - ID : 124
+Score : 3.6539955 - ID : 798
+Score : 3.6272807 - ID : 527
+Score : 3.557451 - ID : 959
+Score : 3.5144122 - ID : 311
+Score : 3.477707 - ID : 1151
+Score : 3.4743273 - ID : 1384
+Score : 3.4678454 - ID : 1264
+Score : 3.4430919 - ID : 256
+Score : 3.3904223 - ID : 892
+Score : 3.3629143 - ID : 1257
+
+---------------------------------
+
+QueryModel :id='139', query='what interference effects are likely at transonic speeds . '}
+Score : 4.732586 - ID : 316
+Score : 4.028253 - ID : 36
+Score : 3.8863766 - ID : 315
+Score : 3.8104436 - ID : 252
+Score : 3.6261048 - ID : 251
+Score : 3.493878 - ID : 1093
+Score : 3.402628 - ID : 924
+Score : 3.382465 - ID : 649
+Score : 3.360587 - ID : 792
+Score : 3.2027247 - ID : 1362
+Score : 3.1559558 - ID : 41
+Score : 3.0716908 - ID : 100
+Score : 3.033741 - ID : 431
+Score : 2.9529078 - ID : 42
+Score : 2.9503996 - ID : 236
+Score : 2.9378612 - ID : 799
+Score : 2.9161088 - ID : 34
+Score : 2.87606 - ID : 885
+Score : 2.7893903 - ID : 28
+Score : 2.7801785 - ID : 1111
+
+---------------------------------
+
+QueryModel :id='140', query='given complete freedom in the design of an airplane,  what procedure would be used in order to minimize sonic boom intensity,  and is there a limit to the degree of minimizing that can be accomplished . '}
+Score : 13.879804 - ID : 1247
+Score : 11.899892 - ID : 810
+Score : 9.190638 - ID : 1124
+Score : 8.8694515 - ID : 804
+Score : 8.354425 - ID : 1331
+Score : 8.083824 - ID : 807
+Score : 7.780878 - ID : 317
+Score : 7.774538 - ID : 683
+Score : 7.6917787 - ID : 1147
+Score : 7.6694746 - ID : 806
+Score : 7.661973 - ID : 758
+Score : 7.5863576 - ID : 1252
+Score : 7.496634 - ID : 1093
+Score : 7.413753 - ID : 235
+Score : 7.239244 - ID : 92
+Score : 7.2213283 - ID : 246
+Score : 6.945037 - ID : 1280
+Score : 6.9059596 - ID : 811
+Score : 6.8562784 - ID : 417
+Score : 6.73656 - ID : 1388
+
+---------------------------------
+
+QueryModel :id='141', query='can methane-air combustion product be used as a hypersonic test medium and predict, within experimental accuracies, the results obtained in air . '}
+Score : 18.867783 - ID : 635
+Score : 11.672596 - ID : 691
+Score : 8.337795 - ID : 1241
+Score : 8.28852 - ID : 1143
+Score : 7.9231653 - ID : 1157
+Score : 7.854582 - ID : 68
+Score : 6.817081 - ID : 552
+Score : 6.4379916 - ID : 461
+Score : 6.4009933 - ID : 232
+Score : 6.298197 - ID : 1336
+Score : 6.058505 - ID : 628
+Score : 5.957215 - ID : 36
+Score : 5.834168 - ID : 804
+Score : 5.7724915 - ID : 421
+Score : 5.54527 - ID : 262
+Score : 5.463921 - ID : 1374
+Score : 5.3624516 - ID : 37
+Score : 5.3250155 - ID : 1204
+Score : 5.3014665 - ID : 497
+Score : 5.2697463 - ID : 1231
+
+---------------------------------
+
+QueryModel :id='142', query='what is the theoretical heat transfer rate at the stagnation point of a blunt body . '}
+Score : 10.004332 - ID : 1393
+Score : 8.835492 - ID : 983
+Score : 8.050346 - ID : 438
+Score : 7.7278895 - ID : 1161
+Score : 7.721387 - ID : 283
+Score : 7.3203177 - ID : 559
+Score : 7.1814017 - ID : 101
+Score : 6.824697 - ID : 1394
+Score : 6.7804446 - ID : 1104
+Score : 6.58871 - ID : 35
+Score : 6.537354 - ID : 84
+Score : 6.4200745 - ID : 555
+Score : 6.30644 - ID : 36
+Score : 6.2968388 - ID : 662
+Score : 6.2062716 - ID : 24
+Score : 6.045268 - ID : 553
+Score : 5.9661865 - ID : 522
+Score : 5.920434 - ID : 1040
+Score : 5.880949 - ID : 689
+Score : 5.7599673 - ID : 1307
+
+---------------------------------
+
+QueryModel :id='143', query='what is the theoretical heat transfer distribution around a hemisphere . '}
+Score : 7.229641 - ID : 635
+Score : 6.0257335 - ID : 1002
+Score : 5.877669 - ID : 553
+Score : 5.771999 - ID : 36
+Score : 5.7076817 - ID : 662
+Score : 5.692931 - ID : 628
+Score : 5.3538237 - ID : 1191
+Score : 5.280311 - ID : 1258
+Score : 5.131596 - ID : 690
+Score : 5.111944 - ID : 689
+Score : 4.8002186 - ID : 1395
+Score : 4.588379 - ID : 1104
+Score : 4.561268 - ID : 554
+Score : 4.252125 - ID : 1106
+Score : 4.2071853 - ID : 535
+Score : 4.163748 - ID : 101
+Score : 4.066339 - ID : 272
+Score : 4.0400605 - ID : 468
+Score : 3.991774 - ID : 1204
+Score : 3.9787688 - ID : 283
+
+---------------------------------
+
+QueryModel :id='145', query='has anyone investigated the unsteady lift distributions on finite wings in subsonic flow . '}
+Score : 10.248802 - ID : 637
+Score : 9.009821 - ID : 698
+Score : 8.864946 - ID : 699
+Score : 8.099722 - ID : 1339
+Score : 7.5633388 - ID : 779
+Score : 6.933151 - ID : 705
+Score : 6.9060116 - ID : 465
+Score : 6.7223043 - ID : 700
+Score : 6.4549575 - ID : 712
+Score : 6.331299 - ID : 1289
+Score : 6.275313 - ID : 247
+Score : 6.2721887 - ID : 1332
+Score : 6.234371 - ID : 1334
+Score : 5.9510756 - ID : 1272
+Score : 5.8573647 - ID : 704
+Score : 5.708318 - ID : 1333
+Score : 5.6838655 - ID : 288
+Score : 5.594003 - ID : 902
+Score : 5.395422 - ID : 250
+Score : 5.351866 - ID : 1280
+
+---------------------------------
+
+QueryModel :id='146', query='what information is available for dynamic response of airplanes to gusts  or blasts in the subsonic regime . '}
+Score : 12.769312 - ID : 1331
+Score : 7.142756 - ID : 779
+Score : 6.379294 - ID : 251
+Score : 6.296505 - ID : 1270
+Score : 5.6964555 - ID : 783
+Score : 5.6848745 - ID : 1289
+Score : 5.0463524 - ID : 790
+Score : 4.9609294 - ID : 781
+Score : 4.535051 - ID : 1214
+Score : 4.4993653 - ID : 187
+Score : 4.4346585 - ID : 36
+Score : 4.2057505 - ID : 953
+Score : 4.1238503 - ID : 1391
+Score : 4.1053286 - ID : 810
+Score : 4.0730314 - ID : 262
+Score : 4.0273166 - ID : 728
+Score : 3.9943922 - ID : 78
+Score : 3.9620953 - ID : 948
+Score : 3.940345 - ID : 906
+Score : 3.799257 - ID : 440
+
+---------------------------------
+
+QueryModel :id='147', query='will forward or apex located controls be effective at low subsonic speeds and how do they compare with conventional trailing-edge flaps . '}
+Score : 14.3555355 - ID : 638
+Score : 9.105153 - ID : 673
+Score : 7.7231116 - ID : 792
+Score : 7.292503 - ID : 315
+Score : 7.284998 - ID : 1343
+Score : 6.6150727 - ID : 433
+Score : 6.322614 - ID : 924
+Score : 6.1507673 - ID : 1095
+Score : 5.8253727 - ID : 288
+Score : 5.687285 - ID : 757
+Score : 5.6678505 - ID : 1091
+Score : 5.6194296 - ID : 85
+Score : 5.566372 - ID : 1328
+Score : 5.4525905 - ID : 222
+Score : 5.450449 - ID : 1169
+Score : 5.303722 - ID : 1385
+Score : 5.2678695 - ID : 631
+Score : 5.2487025 - ID : 1338
+Score : 5.0399313 - ID : 704
+Score : 5.014341 - ID : 747
+
+---------------------------------
+
+QueryModel :id='148', query='given that an uncontrolled vehicle will tumble as it enters an atmosphere, is it possible to predict when and how it will stop tumbling and its subsequent motion . '}
+Score : 21.721289 - ID : 639
+Score : 14.620787 - ID : 715
+Score : 13.1896 - ID : 719
+Score : 9.872018 - ID : 717
+Score : 8.81018 - ID : 716
+Score : 7.719129 - ID : 1000
+Score : 7.4020534 - ID : 164
+Score : 7.0365543 - ID : 682
+Score : 6.8178887 - ID : 67
+Score : 6.6034656 - ID : 1348
+Score : 6.549164 - ID : 944
+Score : 6.4807606 - ID : 163
+Score : 6.394365 - ID : 1391
+Score : 6.36063 - ID : 32
+Score : 5.962028 - ID : 1362
+Score : 5.883556 - ID : 982
+Score : 5.773658 - ID : 83
+Score : 5.765529 - ID : 1379
+Score : 5.298418 - ID : 207
+Score : 5.2890525 - ID : 77
+
+---------------------------------
+
+QueryModel :id='149', query='what are the effects of initial imperfections on the elastic buckling of cylindrical shells under axial compression . '}
+Score : 14.550585 - ID : 822
+Score : 13.880677 - ID : 1122
+Score : 12.740935 - ID : 760
+Score : 11.902135 - ID : 1068
+Score : 11.607066 - ID : 1126
+Score : 11.131019 - ID : 897
+Score : 10.979894 - ID : 1051
+Score : 10.956474 - ID : 739
+Score : 10.922873 - ID : 885
+Score : 10.603287 - ID : 1172
+Score : 10.337242 - ID : 740
+Score : 10.248074 - ID : 1171
+Score : 9.924379 - ID : 1119
+Score : 9.911898 - ID : 928
+Score : 9.67706 - ID : 741
+Score : 9.42785 - ID : 1069
+Score : 9.323475 - ID : 1131
+Score : 9.302424 - ID : 1067
+Score : 9.302096 - ID : 956
+Score : 9.177998 - ID : 743
+
+---------------------------------
+
+QueryModel :id='150', query='why does the incremental theory and the deformation theory of plastic stress-strain relationship differ greatly when applied to stability problems . '}
+Score : 12.314021 - ID : 819
+Score : 11.237069 - ID : 1119
+Score : 10.08156 - ID : 820
+Score : 9.538546 - ID : 760
+Score : 9.520463 - ID : 818
+Score : 9.189572 - ID : 817
+Score : 9.079388 - ID : 826
+Score : 8.980511 - ID : 767
+Score : 8.294401 - ID : 825
+Score : 8.265664 - ID : 823
+Score : 8.165778 - ID : 1122
+Score : 8.075574 - ID : 837
+Score : 7.231815 - ID : 195
+Score : 6.976468 - ID : 187
+Score : 6.9715514 - ID : 1023
+Score : 6.8826046 - ID : 284
+Score : 6.6825075 - ID : 928
+Score : 6.3352847 - ID : 1067
+Score : 6.2713585 - ID : 1320
+Score : 6.248131 - ID : 1013
+
+---------------------------------
+
+QueryModel :id='152', query='basic dynamic characteristics of structures continuous over many spans . '}
+Score : 6.11487 - ID : 910
+Score : 4.589315 - ID : 729
+Score : 4.4712715 - ID : 1024
+Score : 4.453682 - ID : 516
+Score : 4.398319 - ID : 913
+Score : 4.335116 - ID : 446
+Score : 4.2469916 - ID : 650
+Score : 4.0932355 - ID : 1007
+Score : 3.9878902 - ID : 827
+Score : 3.844131 - ID : 948
+Score : 3.8363018 - ID : 720
+Score : 3.8269262 - ID : 728
+Score : 3.7102695 - ID : 1389
+Score : 3.6471238 - ID : 1006
+Score : 3.6471238 - ID : 67
+Score : 3.5405462 - ID : 713
+Score : 3.5383818 - ID : 1001
+Score : 3.4906914 - ID : 1260
+Score : 3.4749963 - ID : 1268
+Score : 3.444584 - ID : 654
+
+---------------------------------
+
+QueryModel :id='153', query='is the information on the buckling of sandwich sphere available . '}
+Score : 8.0173855 - ID : 761
+Score : 6.390192 - ID : 1214
+Score : 5.1783977 - ID : 1050
+Score : 5.124617 - ID : 1048
+Score : 5.068251 - ID : 1127
+Score : 4.884898 - ID : 956
+Score : 4.5317197 - ID : 1126
+Score : 4.4667535 - ID : 826
+Score : 4.2834053 - ID : 951
+Score : 3.995456 - ID : 827
+Score : 3.969384 - ID : 251
+Score : 3.940345 - ID : 906
+Score : 3.884874 - ID : 1053
+Score : 3.8057709 - ID : 720
+Score : 3.7390993 - ID : 1049
+Score : 3.7350862 - ID : 1027
+Score : 3.6449344 - ID : 1174
+Score : 3.6008844 - ID : 831
+Score : 3.5507367 - ID : 739
+Score : 3.5457654 - ID : 1119
+
+---------------------------------
+
+QueryModel :id='154', query='can the load deformation characteristics of a beam be obtained with the material being inelastic and a non uniform temperature being present . '}
+Score : 13.265207 - ID : 762
+Score : 9.494854 - ID : 1024
+Score : 7.150548 - ID : 462
+Score : 6.822948 - ID : 1019
+Score : 6.627948 - ID : 837
+Score : 6.4155693 - ID : 840
+Score : 6.2553406 - ID : 819
+Score : 6.244076 - ID : 1042
+Score : 6.2328477 - ID : 913
+Score : 6.08193 - ID : 644
+Score : 5.981905 - ID : 952
+Score : 5.9528623 - ID : 754
+Score : 5.894277 - ID : 1023
+Score : 5.7722135 - ID : 1035
+Score : 5.700272 - ID : 760
+Score : 5.6678085 - ID : 29
+Score : 5.6476607 - ID : 777
+Score : 5.631376 - ID : 1217
+Score : 5.5693088 - ID : 1025
+Score : 5.566651 - ID : 821
+
+---------------------------------
+
+QueryModel :id='155', query='what is the effect of an internal liquid column on the breathing vibrations of a cylindrical shell . '}
+Score : 13.896555 - ID : 764
+Score : 12.634119 - ID : 848
+Score : 7.2211843 - ID : 847
+Score : 6.708704 - ID : 846
+Score : 6.0550213 - ID : 953
+Score : 5.6647663 - ID : 1067
+Score : 5.599657 - ID : 1068
+Score : 5.5785317 - ID : 739
+Score : 5.4240804 - ID : 117
+Score : 5.4133463 - ID : 1037
+Score : 5.389478 - ID : 42
+Score : 5.24636 - ID : 1036
+Score : 5.152405 - ID : 844
+Score : 5.1014223 - ID : 1038
+Score : 4.9152117 - ID : 1134
+Score : 4.8415155 - ID : 828
+Score : 4.835043 - ID : 763
+Score : 4.8120737 - ID : 1126
+Score : 4.7145863 - ID : 1039
+Score : 4.583243 - ID : 1029
+
+---------------------------------
+
+QueryModel :id='156', query='experimental techniques in shell vibration . '}
+Score : 4.9738803 - ID : 847
+Score : 4.8491645 - ID : 764
+Score : 4.4708776 - ID : 1036
+Score : 4.113833 - ID : 844
+Score : 4.093598 - ID : 848
+Score : 4.048673 - ID : 953
+Score : 3.9427366 - ID : 739
+Score : 3.8856416 - ID : 846
+Score : 3.6907527 - ID : 1042
+Score : 3.6057441 - ID : 1038
+Score : 3.487377 - ID : 1043
+Score : 3.3187256 - ID : 1037
+Score : 3.303123 - ID : 42
+Score : 3.2592518 - ID : 1126
+Score : 3.1296082 - ID : 728
+Score : 3.1108017 - ID : 890
+Score : 3.110681 - ID : 845
+Score : 3.046287 - ID : 1298
+Score : 2.9782913 - ID : 849
+Score : 2.9638443 - ID : 1066
+
+---------------------------------
+
+QueryModel :id='157', query='in summarizing theoretical and experimental work on the behaviour of a typical aircraft structure in a noise environment is it possible to develop a design procedure . '}
+Score : 14.150467 - ID : 640
+Score : 10.073963 - ID : 725
+Score : 9.798057 - ID : 220
+Score : 9.106896 - ID : 883
+Score : 8.740287 - ID : 102
+Score : 8.434465 - ID : 12
+Score : 8.260142 - ID : 870
+Score : 8.26007 - ID : 724
+Score : 8.175718 - ID : 720
+Score : 8.164637 - ID : 909
+Score : 7.6260777 - ID : 908
+Score : 7.375281 - ID : 29
+Score : 7.132022 - ID : 729
+Score : 7.1217527 - ID : 219
+Score : 7.120016 - ID : 658
+Score : 7.032334 - ID : 836
+Score : 6.952168 - ID : 811
+Score : 6.820451 - ID : 137
+Score : 6.5743523 - ID : 951
+Score : 6.3359427 - ID : 911
+
+---------------------------------
+
+QueryModel :id='158', query='what data is there on the fatigue of structures under acoustic loading . '}
+Score : 10.8112755 - ID : 75
+Score : 10.666072 - ID : 724
+Score : 8.284133 - ID : 884
+Score : 8.243363 - ID : 726
+Score : 7.8075566 - ID : 720
+Score : 7.795658 - ID : 727
+Score : 6.792856 - ID : 640
+Score : 6.500444 - ID : 881
+Score : 6.222775 - ID : 883
+Score : 5.33223 - ID : 951
+Score : 5.1624007 - ID : 860
+Score : 5.037612 - ID : 909
+Score : 4.858847 - ID : 723
+Score : 4.845783 - ID : 721
+Score : 4.672974 - ID : 866
+Score : 4.440832 - ID : 932
+Score : 4.157624 - ID : 100
+Score : 4.144251 - ID : 13
+Score : 4.125821 - ID : 1171
+Score : 3.9966965 - ID : 47
+
+---------------------------------
+
+QueryModel :id='160', query='panels subjected to aerodynamic heating . '}
+Score : 5.9184074 - ID : 859
+Score : 5.857921 - ID : 1008
+Score : 5.7120647 - ID : 391
+Score : 5.6291876 - ID : 711
+Score : 5.613755 - ID : 51
+Score : 5.1337824 - ID : 5
+Score : 5.1219044 - ID : 627
+Score : 4.5816026 - ID : 886
+Score : 4.4640594 - ID : 31
+Score : 4.437455 - ID : 982
+Score : 4.4343143 - ID : 658
+Score : 4.1052895 - ID : 390
+Score : 4.0629935 - ID : 66
+Score : 3.861294 - ID : 729
+Score : 3.8182824 - ID : 29
+Score : 3.7734969 - ID : 877
+Score : 3.6338444 - ID : 894
+Score : 3.6171858 - ID : 726
+Score : 3.60896 - ID : 715
+Score : 3.600067 - ID : 434
+
+---------------------------------
+
+QueryModel :id='161', query='can increasing the edge loading of a plate beyond the critical value for buckling change the buckling mode . '}
+Score : 9.508885 - ID : 1387
+Score : 8.721671 - ID : 1117
+Score : 8.07402 - ID : 1172
+Score : 7.90851 - ID : 642
+Score : 7.8750596 - ID : 15
+Score : 7.8142743 - ID : 1013
+Score : 7.707699 - ID : 1131
+Score : 7.3654265 - ID : 1173
+Score : 7.356326 - ID : 894
+Score : 7.300927 - ID : 825
+Score : 7.2384763 - ID : 889
+Score : 7.2240567 - ID : 1119
+Score : 7.0746546 - ID : 1396
+Score : 7.0372677 - ID : 1032
+Score : 7.019061 - ID : 1071
+Score : 6.964154 - ID : 820
+Score : 6.917479 - ID : 862
+Score : 6.8346534 - ID : 1398
+Score : 6.748655 - ID : 412
+Score : 6.66556 - ID : 1053
+
+---------------------------------
+
+QueryModel :id='163', query='have the effects of an elastic edge restraint been considered in previous papers on panel flutter . '}
+Score : 10.794208 - ID : 894
+Score : 9.663726 - ID : 627
+Score : 7.971705 - ID : 858
+Score : 7.6975727 - ID : 857
+Score : 7.6746254 - ID : 658
+Score : 7.4830832 - ID : 856
+Score : 7.1352954 - ID : 828
+Score : 7.0008173 - ID : 285
+Score : 6.9567094 - ID : 766
+Score : 6.9263897 - ID : 1008
+Score : 6.9237704 - ID : 202
+Score : 6.7797203 - ID : 633
+Score : 6.4960938 - ID : 392
+Score : 6.4918456 - ID : 859
+Score : 6.392824 - ID : 390
+Score : 6.1134844 - ID : 442
+Score : 6.061109 - ID : 593
+Score : 6.0319724 - ID : 822
+Score : 5.9835777 - ID : 874
+Score : 5.9821835 - ID : 15
+
+---------------------------------
+
+QueryModel :id='164', query='has the solution of the clamped plate problem,  in the classical theory of bending,  been reduced to two successive membrane boundary value problems . '}
+Score : 19.660692 - ID : 641
+Score : 14.472974 - ID : 730
+Score : 11.329192 - ID : 734
+Score : 10.622055 - ID : 733
+Score : 10.383669 - ID : 422
+Score : 9.303132 - ID : 736
+Score : 8.813663 - ID : 735
+Score : 8.620768 - ID : 648
+Score : 8.50991 - ID : 644
+Score : 8.430217 - ID : 831
+Score : 8.163679 - ID : 342
+Score : 8.055364 - ID : 826
+Score : 8.010883 - ID : 936
+Score : 7.9321723 - ID : 647
+Score : 7.651288 - ID : 627
+Score : 7.346867 - ID : 264
+Score : 7.2948017 - ID : 731
+Score : 7.2651215 - ID : 1198
+Score : 7.2025566 - ID : 840
+Score : 7.1834655 - ID : 700
+
+---------------------------------
+
+QueryModel :id='165', query='what data exists on oscillatory aerodynamic forces on control surfaces at transonic mach numbers . '}
+Score : 7.380385 - ID : 704
+Score : 6.7297544 - ID : 441
+Score : 6.3222594 - ID : 1115
+Score : 6.3204174 - ID : 687
+Score : 6.0950236 - ID : 748
+Score : 6.0521216 - ID : 658
+Score : 5.93328 - ID : 202
+Score : 5.787236 - ID : 1162
+Score : 5.7087684 - ID : 917
+Score : 5.615333 - ID : 52
+Score : 5.5789514 - ID : 14
+Score : 5.513821 - ID : 708
+Score : 5.4380083 - ID : 204
+Score : 5.379032 - ID : 1163
+Score : 5.364224 - ID : 1237
+Score : 5.3442273 - ID : 815
+Score : 5.2418184 - ID : 347
+Score : 5.1965513 - ID : 812
+Score : 5.1879644 - ID : 947
+Score : 5.145921 - ID : 514
+
+---------------------------------
+
+QueryModel :id='167', query='it is not likely that the airforces on a wing of general planform oscillating in transonic flow can be determined by purely analytical methods . is it possible to determine the airforces on a single particular planform, such as the rectangular one by such method . '}
+Score : 13.748854 - ID : 685
+Score : 12.591165 - ID : 712
+Score : 12.360582 - ID : 895
+Score : 11.622774 - ID : 1266
+Score : 11.4258375 - ID : 201
+Score : 11.128632 - ID : 703
+Score : 10.545951 - ID : 39
+Score : 10.467021 - ID : 503
+Score : 10.3954115 - ID : 1333
+Score : 10.383602 - ID : 467
+Score : 10.235424 - ID : 521
+Score : 10.170721 - ID : 1207
+Score : 10.015419 - ID : 193
+Score : 9.693247 - ID : 624
+Score : 9.6429 - ID : 634
+Score : 9.516784 - ID : 395
+Score : 9.405668 - ID : 702
+Score : 9.291672 - ID : 917
+Score : 9.286639 - ID : 676
+Score : 9.028686 - ID : 1188
+
+---------------------------------
+
+QueryModel :id='168', query='is the problem of similarity for representative investigations of aeroelastic effects in heated flow as intractable as previous investigations imply . '}
+Score : 5.925295 - ID : 552
+Score : 5.885437 - ID : 540
+Score : 5.805733 - ID : 51
+Score : 5.40477 - ID : 13
+Score : 5.3860006 - ID : 486
+Score : 5.370608 - ID : 371
+Score : 5.1712074 - ID : 875
+Score : 5.09218 - ID : 662
+Score : 5.045899 - ID : 365
+Score : 5.036726 - ID : 746
+Score : 5.0311565 - ID : 527
+Score : 4.9590607 - ID : 284
+Score : 4.7227 - ID : 390
+Score : 4.631297 - ID : 422
+Score : 4.591385 - ID : 14
+Score : 4.549095 - ID : 782
+Score : 4.211961 - ID : 1190
+Score : 4.1883664 - ID : 933
+Score : 4.0108795 - ID : 826
+Score : 4.010504 - ID : 260
+
+---------------------------------
+
+QueryModel :id='169', query='what is the magnitude and distribution of lift over the cone and the cylindrical portion of a cone-cylinder configuration . '}
+Score : 8.890197 - ID : 522
+Score : 7.733384 - ID : 605
+Score : 6.1573863 - ID : 1351
+Score : 6.062987 - ID : 1218
+Score : 5.8532343 - ID : 186
+Score : 5.3332896 - ID : 1106
+Score : 5.232564 - ID : 423
+Score : 5.026544 - ID : 1319
+Score : 5.0265403 - ID : 1274
+Score : 4.996721 - ID : 759
+Score : 4.962641 - ID : 272
+Score : 4.865313 - ID : 48
+Score : 4.834122 - ID : 123
+Score : 4.7614055 - ID : 1038
+Score : 4.4756384 - ID : 1074
+Score : 4.4521995 - ID : 801
+Score : 4.448122 - ID : 56
+Score : 4.4455843 - ID : 1343
+Score : 4.2776637 - ID : 758
+Score : 4.268402 - ID : 954
+
+---------------------------------
+
+QueryModel :id='170', query='is there any information on how the addition of a /boat-tail/ affects the normal force on the body of various angles of incidence . '}
+Score : 8.126411 - ID : 196
+Score : 7.3818517 - ID : 122
+Score : 7.24824 - ID : 1304
+Score : 7.0196714 - ID : 927
+Score : 6.637177 - ID : 1162
+Score : 6.495232 - ID : 440
+Score : 5.881735 - ID : 999
+Score : 5.5619125 - ID : 907
+Score : 5.451233 - ID : 925
+Score : 5.343381 - ID : 1115
+Score : 5.31423 - ID : 1001
+Score : 5.248229 - ID : 688
+Score : 5.122888 - ID : 197
+Score : 5.0818605 - ID : 434
+Score : 5.0500035 - ID : 947
+Score : 5.0291533 - ID : 360
+Score : 4.978199 - ID : 229
+Score : 4.884559 - ID : 1328
+Score : 4.823726 - ID : 1285
+Score : 4.818763 - ID : 64
+
+---------------------------------
+
+QueryModel :id='171', query='what are the aerodynamic interference effects on the fin lift and body lift of a fin-body combination . '}
+Score : 7.941523 - ID : 923
+Score : 6.7170734 - ID : 1239
+Score : 6.484417 - ID : 360
+Score : 6.379089 - ID : 230
+Score : 6.2335277 - ID : 815
+Score : 6.207689 - ID : 924
+Score : 6.1928525 - ID : 638
+Score : 6.1824617 - ID : 279
+Score : 6.030117 - ID : 811
+Score : 6.005731 - ID : 809
+Score : 5.9692097 - ID : 1265
+Score : 5.8778205 - ID : 229
+Score : 5.7548065 - ID : 1259
+Score : 5.6398387 - ID : 1243
+Score : 5.447455 - ID : 204
+Score : 5.352237 - ID : 1
+Score : 5.257126 - ID : 225
+Score : 5.2189236 - ID : 246
+Score : 5.2020507 - ID : 1164
+Score : 5.141321 - ID : 698
+
+---------------------------------
+
+QueryModel :id='173', query='what is the effect of initial axisymmetric deviations from circularity on the non linear (large-deflection) load-deflection response of cylinders under hydrostatic pressure . '}
+Score : 10.791302 - ID : 1068
+Score : 10.566108 - ID : 897
+Score : 9.128568 - ID : 953
+Score : 8.594074 - ID : 1034
+Score : 8.526513 - ID : 926
+Score : 7.9959354 - ID : 1145
+Score : 7.8027415 - ID : 846
+Score : 7.685212 - ID : 928
+Score : 7.4502044 - ID : 1033
+Score : 7.432825 - ID : 765
+Score : 6.9394546 - ID : 1129
+Score : 6.913658 - ID : 1070
+Score : 6.8672175 - ID : 1122
+Score : 6.6962776 - ID : 1132
+Score : 6.46773 - ID : 1131
+Score : 6.3575854 - ID : 789
+Score : 6.236527 - ID : 1024
+Score : 6.2263627 - ID : 1051
+Score : 6.153938 - ID : 952
+Score : 5.9000945 - ID : 1173
+
+---------------------------------
+
+QueryModel :id='175', query='are previous analyses of circumferential thermal buckling of circular cylindrical shells unnecessarily involved or even inaccurate due to the assumed forms of buckling mode . '}
+Score : 14.787812 - ID : 887
+Score : 14.776873 - ID : 769
+Score : 12.396307 - ID : 1172
+Score : 11.8701935 - ID : 888
+Score : 11.80098 - ID : 642
+Score : 11.381324 - ID : 1146
+Score : 11.127319 - ID : 1117
+Score : 10.857737 - ID : 890
+Score : 10.8246765 - ID : 937
+Score : 10.670212 - ID : 1123
+Score : 10.626551 - ID : 740
+Score : 10.405548 - ID : 897
+Score : 10.3534975 - ID : 1068
+Score : 10.341136 - ID : 1051
+Score : 10.323741 - ID : 1145
+Score : 10.115274 - ID : 932
+Score : 10.048377 - ID : 1122
+Score : 10.046597 - ID : 885
+Score : 10.005592 - ID : 763
+Score : 9.973338 - ID : 1177
+
+---------------------------------
+
+QueryModel :id='176', query='what papers are there dealing with circumferential buckling either thermal buckling or due to mechanical loading . '}
+Score : 9.723027 - ID : 769
+Score : 9.182904 - ID : 887
+Score : 9.155877 - ID : 888
+Score : 8.546708 - ID : 1146
+Score : 8.312544 - ID : 1172
+Score : 7.565502 - ID : 1056
+Score : 7.2678123 - ID : 932
+Score : 7.25759 - ID : 1017
+Score : 7.0967274 - ID : 1178
+Score : 6.8332925 - ID : 642
+Score : 6.5159826 - ID : 1127
+Score : 6.4987683 - ID : 897
+Score : 6.433021 - ID : 1117
+Score : 6.3620853 - ID : 935
+Score : 6.1806474 - ID : 1068
+Score : 5.9956307 - ID : 885
+Score : 5.9235888 - ID : 31
+Score : 5.8719425 - ID : 936
+Score : 5.867505 - ID : 1052
+Score : 5.861609 - ID : 1037
+
+---------------------------------
+
+QueryModel :id='177', query='what analytical investigations have been made of the stability of conical shells . how do the results compare with experiment . '}
+Score : 8.430144 - ID : 1070
+Score : 8.138339 - ID : 251
+Score : 8.131907 - ID : 898
+Score : 7.860136 - ID : 1068
+Score : 7.361139 - ID : 828
+Score : 7.350711 - ID : 935
+Score : 7.2172394 - ID : 78
+Score : 7.0813355 - ID : 1118
+Score : 6.8924193 - ID : 1171
+Score : 6.7047453 - ID : 934
+Score : 6.6707664 - ID : 1059
+Score : 6.63533 - ID : 1145
+Score : 6.518156 - ID : 893
+Score : 6.2909746 - ID : 931
+Score : 6.242024 - ID : 516
+Score : 6.199149 - ID : 315
+Score : 6.061511 - ID : 1134
+Score : 6.0174723 - ID : 1268
+Score : 5.914593 - ID : 514
+Score : 5.87391 - ID : 207
+
+---------------------------------
+
+QueryModel :id='181', query='has any work been done on determining the nature of compressible viscous flow in a straight channel . '}
+Score : 9.309459 - ID : 1360
+Score : 7.5374675 - ID : 941
+Score : 6.605856 - ID : 742
+Score : 6.57807 - ID : 740
+Score : 6.5460625 - ID : 112
+Score : 6.34808 - ID : 375
+Score : 6.217917 - ID : 917
+Score : 6.027919 - ID : 775
+Score : 5.904273 - ID : 147
+Score : 5.8481536 - ID : 270
+Score : 5.731184 - ID : 131
+Score : 5.615197 - ID : 186
+Score : 5.586328 - ID : 1221
+Score : 5.5059314 - ID : 196
+Score : 5.3402853 - ID : 387
+Score : 5.3386383 - ID : 911
+Score : 5.3159313 - ID : 1078
+Score : 5.0984387 - ID : 1270
+Score : 5.0866227 - ID : 206
+Score : 4.9979835 - ID : 910
+
+---------------------------------
+
+QueryModel :id='182', query='in what areas, other than low density wind tunnel flows, is viscous compressible flow in slender channels a problem . what analytical investigations have been made of the stability of conical shells . how do the results compare with experiment . '}
+Score : 13.313763 - ID : 941
+Score : 11.377041 - ID : 516
+Score : 10.901675 - ID : 1068
+Score : 10.625536 - ID : 73
+Score : 10.548545 - ID : 251
+Score : 10.094824 - ID : 828
+Score : 9.873393 - ID : 171
+Score : 9.822609 - ID : 1072
+Score : 9.798293 - ID : 893
+Score : 9.51663 - ID : 364
+Score : 9.489478 - ID : 657
+Score : 9.452994 - ID : 792
+Score : 9.3859215 - ID : 1070
+Score : 9.155832 - ID : 1305
+Score : 9.106286 - ID : 625
+Score : 9.08564 - ID : 514
+Score : 9.03052 - ID : 934
+Score : 8.973415 - ID : 1134
+Score : 8.869262 - ID : 442
+Score : 8.805042 - ID : 236
+
+---------------------------------
+
+QueryModel :id='183', query='jet interference with supersonic flow  -dash experimental papers . '}
+Score : 5.6136537 - ID : 176
+Score : 5.4260883 - ID : 1195
+Score : 5.1014605 - ID : 131
+Score : 5.050266 - ID : 409
+Score : 4.988202 - ID : 973
+Score : 4.9312835 - ID : 997
+Score : 4.770805 - ID : 969
+Score : 4.701375 - ID : 993
+Score : 4.595263 - ID : 173
+Score : 4.4482155 - ID : 243
+Score : 4.2115493 - ID : 1265
+Score : 4.075704 - ID : 798
+Score : 3.9861987 - ID : 772
+Score : 3.954773 - ID : 245
+Score : 3.9363139 - ID : 970
+Score : 3.9288552 - ID : 1352
+Score : 3.874555 - ID : 519
+Score : 3.8100963 - ID : 1209
+Score : 3.7563992 - ID : 335
+Score : 3.734558 - ID : 1151
+
+---------------------------------
+
+QueryModel :id='184', query='thrust vector control by fluid injection -dash papers . '}
+Score : 10.774218 - ID : 1326
+Score : 9.883993 - ID : 1288
+Score : 8.556515 - ID : 974
+Score : 6.7390175 - ID : 1095
+Score : 6.681384 - ID : 773
+Score : 5.132279 - ID : 1265
+Score : 4.6126103 - ID : 397
+Score : 4.485619 - ID : 1169
+Score : 4.1657104 - ID : 308
+Score : 4.0141354 - ID : 1237
+Score : 3.9052129 - ID : 387
+Score : 3.765323 - ID : 1328
+Score : 3.6219141 - ID : 1163
+Score : 3.4801753 - ID : 1329
+Score : 3.285234 - ID : 162
+Score : 3.247781 - ID : 1283
+Score : 3.1889307 - ID : 374
+Score : 3.1412706 - ID : 994
+Score : 3.0873096 - ID : 1200
+Score : 3.079739 - ID : 368
+
+---------------------------------
+
+QueryModel :id='187', query='is it possible to obtain a reasonably simple analytical solution to the heat equation for an exponential (in time) heat input . '}
+Score : 10.208737 - ID : 869
+Score : 9.393618 - ID : 5
+Score : 8.714549 - ID : 6
+Score : 8.169963 - ID : 587
+Score : 8.155608 - ID : 981
+Score : 7.735648 - ID : 582
+Score : 7.4680696 - ID : 395
+Score : 6.668506 - ID : 944
+Score : 6.2880993 - ID : 1375
+Score : 6.2575345 - ID : 267
+Score : 5.820298 - ID : 1024
+Score : 5.7504506 - ID : 294
+Score : 5.699271 - ID : 144
+Score : 5.610462 - ID : 101
+Score : 5.5450416 - ID : 585
+Score : 5.3538938 - ID : 1192
+Score : 5.3097425 - ID : 586
+Score : 5.3067374 - ID : 158
+Score : 5.264103 - ID : 29
+Score : 5.2246275 - ID : 1207
+
+---------------------------------
+
+QueryModel :id='189', query='has anyone programmed a pump design method for a high-speed digital computer . '}
+Score : 11.379804 - ID : 945
+Score : 7.4103284 - ID : 1063
+Score : 7.4053493 - ID : 92
+Score : 7.116872 - ID : 745
+Score : 7.047905 - ID : 1087
+Score : 6.1178713 - ID : 1246
+Score : 5.494256 - ID : 762
+Score : 5.1787543 - ID : 493
+Score : 5.0348997 - ID : 248
+Score : 5.019583 - ID : 987
+Score : 4.9520464 - ID : 988
+Score : 4.7894797 - ID : 989
+Score : 4.7179794 - ID : 111
+Score : 4.685526 - ID : 1388
+Score : 4.6286545 - ID : 1113
+Score : 4.478118 - ID : 648
+Score : 4.3107815 - ID : 1043
+Score : 4.3067684 - ID : 266
+Score : 4.2996163 - ID : 374
+Score : 4.2782216 - ID : 896
+
+---------------------------------
+
+QueryModel :id='190', query='has anyone derived simplified pump design equation from the fundamental three-dimensional equations for incompressible nonviscous flow . '}
+Score : 13.988658 - ID : 945
+Score : 10.238674 - ID : 988
+Score : 9.02245 - ID : 989
+Score : 7.731534 - ID : 985
+Score : 7.068124 - ID : 987
+Score : 6.704116 - ID : 278
+Score : 6.382864 - ID : 527
+Score : 6.3035235 - ID : 36
+Score : 5.6926956 - ID : 314
+Score : 5.538929 - ID : 1279
+Score : 5.4757085 - ID : 1310
+Score : 5.261067 - ID : 916
+Score : 5.241864 - ID : 135
+Score : 5.1909127 - ID : 828
+Score : 5.1711173 - ID : 476
+Score : 5.1630926 - ID : 1036
+Score : 5.157765 - ID : 73
+Score : 5.105843 - ID : 323
+Score : 5.103655 - ID : 1392
+Score : 5.061657 - ID : 872
+
+---------------------------------
+
+QueryModel :id='196', query='what are the flutter characteristics of the exposed skin panels of the x-15 vertical stabilizer when subjected to aerodynamic heating . '}
+Score : 15.551081 - ID : 859
+Score : 15.379009 - ID : 948
+Score : 9.567549 - ID : 1008
+Score : 9.321488 - ID : 766
+Score : 8.458173 - ID : 391
+Score : 8.144024 - ID : 729
+Score : 8.019396 - ID : 251
+Score : 7.8952117 - ID : 5
+Score : 7.8514457 - ID : 858
+Score : 7.462342 - ID : 627
+Score : 7.3904004 - ID : 856
+Score : 7.243426 - ID : 894
+Score : 6.731438 - ID : 658
+Score : 6.6802697 - ID : 857
+Score : 6.583553 - ID : 1162
+Score : 6.5359783 - ID : 66
+Score : 6.534502 - ID : 711
+Score : 6.5050607 - ID : 390
+Score : 6.395756 - ID : 51
+Score : 6.314607 - ID : 634
+
+---------------------------------
+
+QueryModel :id='200', query='what agreement is found between theoretically predicted instability times and experimentally measured collapse times for compressed columns in creep . '}
+Score : 20.306776 - ID : 950
+Score : 12.031753 - ID : 1023
+Score : 11.597787 - ID : 1021
+Score : 9.877669 - ID : 1019
+Score : 9.77503 - ID : 1012
+Score : 9.417374 - ID : 1025
+Score : 9.094246 - ID : 1022
+Score : 8.953944 - ID : 1028
+Score : 8.810252 - ID : 866
+Score : 8.779105 - ID : 928
+Score : 8.568126 - ID : 1024
+Score : 8.348729 - ID : 1018
+Score : 8.192843 - ID : 1026
+Score : 8.152251 - ID : 1014
+Score : 8.084284 - ID : 952
+Score : 7.9882493 - ID : 951
+Score : 7.809958 - ID : 330
+Score : 7.745304 - ID : 169
+Score : 7.64295 - ID : 1032
+Score : 7.326558 - ID : 544
+
+---------------------------------
+
+QueryModel :id='201', query='theoretical studies of creep buckling . '}
+Score : 5.745315 - ID : 1013
+Score : 5.496444 - ID : 1017
+Score : 5.36924 - ID : 1023
+Score : 5.3531666 - ID : 951
+Score : 5.2992916 - ID : 1015
+Score : 5.26838 - ID : 1014
+Score : 5.2442694 - ID : 1025
+Score : 5.2353897 - ID : 1029
+Score : 5.1572585 - ID : 1012
+Score : 5.1442337 - ID : 1021
+Score : 5.042638 - ID : 1026
+Score : 4.89368 - ID : 1028
+Score : 4.697519 - ID : 1020
+Score : 4.613539 - ID : 1052
+Score : 4.584831 - ID : 950
+Score : 4.514577 - ID : 1031
+Score : 4.3892217 - ID : 1018
+Score : 4.1808786 - ID : 1035
+Score : 4.177461 - ID : 1027
+Score : 4.0535703 - ID : 1024
+
+---------------------------------
+
+QueryModel :id='202', query='experimental studies of creep buckling . '}
+Score : 5.276017 - ID : 951
+Score : 5.146434 - ID : 1013
+Score : 5.042638 - ID : 1026
+Score : 4.949745 - ID : 950
+Score : 4.8594117 - ID : 1025
+Score : 4.846111 - ID : 1017
+Score : 4.830736 - ID : 1023
+Score : 4.699381 - ID : 1028
+Score : 4.659504 - ID : 1015
+Score : 4.572351 - ID : 1024
+Score : 4.529782 - ID : 1014
+Score : 4.5002317 - ID : 1029
+Score : 4.496026 - ID : 1012
+Score : 4.3863964 - ID : 1021
+Score : 4.2542944 - ID : 1020
+Score : 4.1808786 - ID : 1035
+Score : 4.177461 - ID : 1027
+Score : 4.146229 - ID : 1016
+Score : 4.108531 - ID : 856
+Score : 4.1053877 - ID : 1214
+
+---------------------------------
+
+QueryModel :id='203', query='is it possible to correlate the results on the creep buckling of widely different structures within the framework of a single theory . '}
+Score : 9.2810545 - ID : 951
+Score : 9.213337 - ID : 866
+Score : 7.849493 - ID : 1012
+Score : 7.519591 - ID : 1028
+Score : 6.906565 - ID : 1015
+Score : 6.868491 - ID : 1017
+Score : 6.675463 - ID : 1024
+Score : 6.1008153 - ID : 1013
+Score : 6.095886 - ID : 725
+Score : 5.799542 - ID : 950
+Score : 5.721604 - ID : 1035
+Score : 5.7019 - ID : 1014
+Score : 5.6598263 - ID : 766
+Score : 5.556226 - ID : 1021
+Score : 5.5537066 - ID : 400
+Score : 5.416822 - ID : 640
+Score : 5.36924 - ID : 1023
+Score : 5.2974677 - ID : 1119
+Score : 5.2353897 - ID : 1029
+Score : 5.210111 - ID : 313
+
+---------------------------------
+
+QueryModel :id='204', query='what are the experimental results for the creep buckling of columns . '}
+Score : 8.324526 - ID : 1017
+Score : 8.076814 - ID : 1026
+Score : 7.950635 - ID : 1013
+Score : 7.8725157 - ID : 951
+Score : 7.7618103 - ID : 1024
+Score : 7.576383 - ID : 1023
+Score : 7.5462437 - ID : 950
+Score : 7.5061393 - ID : 1029
+Score : 7.455057 - ID : 1019
+Score : 7.447724 - ID : 1020
+Score : 7.415486 - ID : 1018
+Score : 7.386466 - ID : 1012
+Score : 7.2754617 - ID : 1015
+Score : 7.211152 - ID : 1014
+Score : 7.190682 - ID : 1016
+Score : 7.0981765 - ID : 1025
+Score : 6.934615 - ID : 1021
+Score : 6.523099 - ID : 1028
+Score : 6.2956758 - ID : 1030
+Score : 6.2566147 - ID : 1031
+
+---------------------------------
+
+QueryModel :id='205', query='what are the results for the creep buckling of round tubes under external pressure . '}
+Score : 8.340015 - ID : 951
+Score : 8.059045 - ID : 1021
+Score : 7.2492642 - ID : 1125
+Score : 7.0356417 - ID : 1033
+Score : 6.716069 - ID : 140
+Score : 6.3343606 - ID : 1031
+Score : 5.9327106 - ID : 1068
+Score : 5.862807 - ID : 831
+Score : 5.8585362 - ID : 1034
+Score : 5.7231884 - ID : 761
+Score : 5.7013617 - ID : 550
+Score : 5.66045 - ID : 1012
+Score : 5.656159 - ID : 829
+Score : 5.6474423 - ID : 1070
+Score : 5.608927 - ID : 891
+Score : 5.5821767 - ID : 1029
+Score : 5.5768714 - ID : 1119
+Score : 5.5453644 - ID : 1131
+Score : 5.501934 - ID : 1013
+Score : 5.4736285 - ID : 893
+
+---------------------------------
+
+QueryModel :id='206', query='have any analytical studies been conducted on the time-to-failure mechanism associated with creep collapse for a long circular cylindrical shell which exhibits both primary and secondary creep as well as elastic deformations under various distributed force systems . '}
+Score : 25.161287 - ID : 952
+Score : 15.163019 - ID : 1023
+Score : 14.533614 - ID : 1034
+Score : 13.927887 - ID : 1052
+Score : 13.809397 - ID : 1021
+Score : 13.72256 - ID : 1026
+Score : 13.599255 - ID : 1024
+Score : 13.46484 - ID : 837
+Score : 13.195551 - ID : 1025
+Score : 12.75148 - ID : 1068
+Score : 12.5083685 - ID : 1035
+Score : 12.508299 - ID : 1017
+Score : 11.555145 - ID : 826
+Score : 11.405485 - ID : 955
+Score : 11.092702 - ID : 870
+Score : 10.827919 - ID : 767
+Score : 10.632207 - ID : 1027
+Score : 10.581932 - ID : 1013
+Score : 10.186318 - ID : 1145
+Score : 10.1568365 - ID : 836
+
+---------------------------------
+
+QueryModel :id='208', query='has the effect of initial stresses,  on the frequencies of vibration of circular cylindrical shells,  been investigated . '}
+Score : 12.03865 - ID : 953
+Score : 10.733227 - ID : 764
+Score : 10.302369 - ID : 846
+Score : 10.155465 - ID : 847
+Score : 9.747343 - ID : 897
+Score : 9.009176 - ID : 844
+Score : 8.57023 - ID : 740
+Score : 8.411211 - ID : 1038
+Score : 8.211927 - ID : 826
+Score : 8.131521 - ID : 887
+Score : 7.990512 - ID : 1068
+Score : 7.964172 - ID : 845
+Score : 7.9488745 - ID : 848
+Score : 7.582122 - ID : 841
+Score : 7.31883 - ID : 839
+Score : 7.260364 - ID : 760
+Score : 7.1513715 - ID : 722
+Score : 7.0363455 - ID : 1039
+Score : 6.952025 - ID : 769
+Score : 6.93861 - ID : 852
+
+---------------------------------
+
+QueryModel :id='209', query='has the effect of the change of initial pressure due to deformation,  on the frequencies of vibration of circular cylindrical shells been investigated . '}
+Score : 11.20074 - ID : 826
+Score : 11.105669 - ID : 846
+Score : 11.093574 - ID : 897
+Score : 10.733227 - ID : 764
+Score : 10.680288 - ID : 847
+Score : 10.450556 - ID : 1038
+Score : 10.214578 - ID : 953
+Score : 9.943329 - ID : 844
+Score : 9.522054 - ID : 763
+Score : 8.654606 - ID : 848
+Score : 8.290594 - ID : 887
+Score : 8.230089 - ID : 1122
+Score : 8.002868 - ID : 760
+Score : 7.964172 - ID : 845
+Score : 7.6412516 - ID : 1039
+Score : 7.631032 - ID : 1068
+Score : 7.5135927 - ID : 956
+Score : 7.390612 - ID : 955
+Score : 7.379107 - ID : 1172
+Score : 7.3639646 - ID : 926
+
+---------------------------------
+
+QueryModel :id='210', query='what are the discontinuity stresses at junctions in pressurized structures . '}
+Score : 8.450004 - ID : 954
+Score : 6.2436028 - ID : 1038
+Score : 6.04745 - ID : 890
+Score : 4.922914 - ID : 1202
+Score : 4.4482465 - ID : 1039
+Score : 4.4040155 - ID : 887
+Score : 4.1633673 - ID : 720
+Score : 4.067795 - ID : 729
+Score : 3.844861 - ID : 1068
+Score : 3.78855 - ID : 726
+Score : 3.7865622 - ID : 1134
+Score : 3.6589386 - ID : 769
+Score : 3.5804038 - ID : 922
+Score : 3.5614777 - ID : 837
+Score : 3.521087 - ID : 722
+Score : 3.4960005 - ID : 1195
+Score : 3.4459405 - ID : 31
+Score : 3.417925 - ID : 75
+Score : 3.2978559 - ID : 870
+Score : 3.2421212 - ID : 909
+
+---------------------------------
+
+QueryModel :id='211', query='what analytical solutions are available for stresses in edge-loaded shells of revolution . '}
+Score : 6.9224186 - ID : 1038
+Score : 6.56575 - ID : 1043
+Score : 6.251891 - ID : 732
+Score : 5.8850846 - ID : 1134
+Score : 5.836439 - ID : 1068
+Score : 5.8325243 - ID : 828
+Score : 5.5135436 - ID : 930
+Score : 5.1276574 - ID : 889
+Score : 5.0321455 - ID : 852
+Score : 5.022485 - ID : 1294
+Score : 4.953929 - ID : 843
+Score : 4.911098 - ID : 851
+Score : 4.8663044 - ID : 1041
+Score : 4.8478804 - ID : 1135
+Score : 4.5675235 - ID : 117
+Score : 4.5619073 - ID : 887
+Score : 4.5109096 - ID : 885
+Score : 4.3871884 - ID : 1071
+Score : 4.3751507 - ID : 765
+Score : 4.360575 - ID : 1042
+
+---------------------------------
+
+QueryModel :id='212', query='what dome contours minimize discontinuity stresses when used as closures on cylindrical pressure vessels . '}
+Score : 13.247561 - ID : 954
+Score : 8.278615 - ID : 1134
+Score : 6.31053 - ID : 1136
+Score : 6.112273 - ID : 765
+Score : 6.0414834 - ID : 1068
+Score : 5.9286523 - ID : 890
+Score : 5.7242885 - ID : 887
+Score : 5.654096 - ID : 1039
+Score : 5.401775 - ID : 1135
+Score : 5.259064 - ID : 741
+Score : 5.212749 - ID : 1038
+Score : 5.204312 - ID : 1042
+Score : 5.1951847 - ID : 1125
+Score : 5.098216 - ID : 827
+Score : 5.0659313 - ID : 1175
+Score : 5.0534925 - ID : 1247
+Score : 4.994959 - ID : 769
+Score : 4.76578 - ID : 531
+Score : 4.7002134 - ID : 1201
+Score : 4.540971 - ID : 891
+
+---------------------------------
+
+QueryModel :id='213', query='what general solutions for the stresses in pressurized shells of revolution are available . '}
+Score : 7.1252675 - ID : 1043
+Score : 6.6343555 - ID : 1068
+Score : 6.5903654 - ID : 930
+Score : 6.045696 - ID : 1134
+Score : 5.7147856 - ID : 828
+Score : 5.1218734 - ID : 826
+Score : 5.101153 - ID : 1171
+Score : 4.9984 - ID : 765
+Score : 4.9955177 - ID : 1044
+Score : 4.807617 - ID : 953
+Score : 4.802435 - ID : 1129
+Score : 4.739503 - ID : 1294
+Score : 4.730773 - ID : 1137
+Score : 4.685487 - ID : 889
+Score : 4.5765357 - ID : 1135
+Score : 4.5675235 - ID : 117
+Score : 4.5390663 - ID : 852
+Score : 4.479864 - ID : 1071
+Score : 4.461584 - ID : 1145
+Score : 4.4540753 - ID : 1070
+
+---------------------------------
+
+QueryModel :id='214', query='can studies of pure membrane cylinders having no wall bending stiffness but maintaining their shape by virtue of internal pressure provide any insight into the behaviour of pressurized cylinders with finite wall stiffness . '}
+Score : 14.961916 - ID : 955
+Score : 12.023127 - ID : 1130
+Score : 10.960347 - ID : 1126
+Score : 10.1535845 - ID : 1034
+Score : 10.148129 - ID : 1045
+Score : 9.920493 - ID : 1360
+Score : 9.574788 - ID : 743
+Score : 9.46663 - ID : 1116
+Score : 9.2758 - ID : 1340
+Score : 9.165544 - ID : 730
+Score : 9.11624 - ID : 840
+Score : 9.105667 - ID : 740
+Score : 8.961149 - ID : 1363
+Score : 8.66756 - ID : 1359
+Score : 8.662064 - ID : 1070
+Score : 8.433215 - ID : 841
+Score : 8.400522 - ID : 1400
+Score : 8.348297 - ID : 1175
+Score : 8.30011 - ID : 839
+Score : 8.272434 - ID : 763
+
+---------------------------------
+
+QueryModel :id='215', query='what are the best experimental data and classical small deflection theory analyses available for pressurized cylinders in bending . '}
+Score : 9.312121 - ID : 1051
+Score : 8.585478 - ID : 1126
+Score : 7.2676835 - ID : 1068
+Score : 7.2047296 - ID : 1045
+Score : 7.157989 - ID : 827
+Score : 7.127786 - ID : 641
+Score : 6.8045835 - ID : 839
+Score : 6.7949085 - ID : 928
+Score : 6.37526 - ID : 1130
+Score : 6.3247333 - ID : 838
+Score : 6.2651725 - ID : 520
+Score : 6.2604294 - ID : 1046
+Score : 6.2529635 - ID : 1117
+Score : 6.0294986 - ID : 1118
+Score : 5.937754 - ID : 852
+Score : 5.8336244 - ID : 1048
+Score : 5.80956 - ID : 329
+Score : 5.809486 - ID : 1121
+Score : 5.804469 - ID : 955
+Score : 5.73299 - ID : 1024
+
+---------------------------------
+
+QueryModel :id='216', query='does a membrane theory exist by which the behaviour of pressurized membrane cylinders in bending can be predicted . '}
+Score : 14.8669 - ID : 955
+Score : 11.82286 - ID : 1045
+Score : 11.013478 - ID : 1175
+Score : 10.475987 - ID : 840
+Score : 10.077732 - ID : 730
+Score : 9.266517 - ID : 641
+Score : 8.48506 - ID : 854
+Score : 6.991916 - ID : 1134
+Score : 6.7709026 - ID : 1034
+Score : 6.0568724 - ID : 1130
+Score : 5.9514804 - ID : 928
+Score : 5.8327036 - ID : 929
+Score : 5.6646166 - ID : 1137
+Score : 5.6034803 - ID : 760
+Score : 5.3276243 - ID : 839
+Score : 5.31493 - ID : 926
+Score : 5.276053 - ID : 1178
+Score : 5.231308 - ID : 763
+Score : 5.2166314 - ID : 740
+Score : 5.1828666 - ID : 1122
+
+---------------------------------
+
+QueryModel :id='217', query='what are the equations which define the stability of simply supported corrugated core sandwich cylinders . '}
+Score : 16.863287 - ID : 956
+Score : 12.114388 - ID : 1050
+Score : 10.133266 - ID : 1049
+Score : 7.2868237 - ID : 1171
+Score : 7.082621 - ID : 1128
+Score : 7.066132 - ID : 1127
+Score : 6.5857515 - ID : 1126
+Score : 6.574399 - ID : 1034
+Score : 6.3908243 - ID : 826
+Score : 6.368944 - ID : 1172
+Score : 6.2227926 - ID : 889
+Score : 6.21847 - ID : 843
+Score : 6.1481485 - ID : 1145
+Score : 6.1108875 - ID : 1119
+Score : 5.9058886 - ID : 852
+Score : 5.8554153 - ID : 1068
+Score : 5.812866 - ID : 761
+Score : 5.7387977 - ID : 1129
+Score : 5.7131705 - ID : 1069
+Score : 5.5245867 - ID : 844
+
+---------------------------------
+
+QueryModel :id='218', query='papers on small deflection theory for buckling of sandwich cylinders . '}
+Score : 10.195489 - ID : 1048
+Score : 9.919824 - ID : 956
+Score : 9.190246 - ID : 1126
+Score : 8.598336 - ID : 1050
+Score : 6.754019 - ID : 1127
+Score : 6.543209 - ID : 826
+Score : 6.4241047 - ID : 928
+Score : 6.2937717 - ID : 743
+Score : 6.2887545 - ID : 739
+Score : 6.1657095 - ID : 827
+Score : 6.0720363 - ID : 761
+Score : 5.9727592 - ID : 926
+Score : 5.752732 - ID : 642
+Score : 5.728833 - ID : 740
+Score : 5.465662 - ID : 852
+Score : 5.3757877 - ID : 1044
+Score : 5.3350973 - ID : 823
+Score : 5.281325 - ID : 1051
+Score : 5.2638774 - ID : 720
+Score : 5.025213 - ID : 951
+
+---------------------------------
+
+QueryModel :id='219', query='has anyone developed an analysis which accurately establishes the large deflection behaviour of conical shells . '}
+Score : 8.811569 - ID : 930
+Score : 8.285142 - ID : 1058
+Score : 6.9543433 - ID : 1070
+Score : 6.5594387 - ID : 1059
+Score : 6.5444865 - ID : 926
+Score : 6.249696 - ID : 1053
+Score : 6.153416 - ID : 1068
+Score : 6.035721 - ID : 889
+Score : 5.8383074 - ID : 743
+Score : 5.754031 - ID : 931
+Score : 5.5628037 - ID : 826
+Score : 5.5269523 - ID : 957
+Score : 5.5221653 - ID : 760
+Score : 5.294827 - ID : 852
+Score : 5.2125382 - ID : 1051
+Score : 5.1965995 - ID : 744
+Score : 5.1555576 - ID : 1360
+Score : 5.135617 - ID : 830
+Score : 5.1137166 - ID : 136
+Score : 5.0906906 - ID : 1361
+
+---------------------------------
+
+QueryModel :id='223', query='what is the magnitude of second-order wing-body interference at high supersonic mach number . '}
+Score : 8.490892 - ID : 1074
+Score : 8.397816 - ID : 1062
+Score : 7.847946 - ID : 1075
+Score : 6.8185687 - ID : 1202
+Score : 5.3562484 - ID : 924
+Score : 5.0859375 - ID : 1243
+Score : 4.8586903 - ID : 663
+Score : 4.8400865 - ID : 124
+Score : 4.815469 - ID : 799
+Score : 4.7673583 - ID : 991
+Score : 4.619596 - ID : 809
+Score : 4.551704 - ID : 970
+Score : 4.5318017 - ID : 60
+Score : 4.4628277 - ID : 792
+Score : 4.368793 - ID : 1300
+Score : 4.3298507 - ID : 571
+Score : 4.2907286 - ID : 923
+Score : 4.2571135 - ID : 235
+Score : 4.252832 - ID : 1228
+Score : 4.234428 - ID : 1079
+
+---------------------------------
+
+QueryModel :id='224', query='what is the best theoretical method for calculating pressure on the surface of a wing alone . '}
+Score : 5.753691 - ID : 433
+Score : 5.44757 - ID : 251
+Score : 4.740856 - ID : 676
+Score : 4.657836 - ID : 1246
+Score : 4.5197077 - ID : 52
+Score : 4.4896345 - ID : 1248
+Score : 4.4493012 - ID : 677
+Score : 4.373593 - ID : 101
+Score : 4.370684 - ID : 1333
+Score : 4.3047075 - ID : 42
+Score : 4.2089133 - ID : 1289
+Score : 4.2013297 - ID : 924
+Score : 4.1787715 - ID : 569
+Score : 4.155726 - ID : 36
+Score : 4.103036 - ID : 206
+Score : 4.0800962 - ID : 1188
+Score : 4.046876 - ID : 289
+Score : 4.006508 - ID : 470
+Score : 3.8694506 - ID : 783
+Score : 3.8614485 - ID : 917
+
+---------------------------------
+
+QueryModel :id='225', query='how can the effect of the boundary-layer on wing pressure be calculated, and what is its magnitude . '}
+Score : 7.204235 - ID : 1362
+Score : 6.505395 - ID : 42
+Score : 5.8963747 - ID : 1273
+Score : 5.711243 - ID : 671
+Score : 5.473412 - ID : 1079
+Score : 5.3349895 - ID : 36
+Score : 4.961316 - ID : 921
+Score : 4.7077456 - ID : 1062
+Score : 4.648987 - ID : 94
+Score : 4.6424484 - ID : 39
+Score : 4.5107555 - ID : 311
+Score : 4.50672 - ID : 783
+Score : 4.4674635 - ID : 1248
+Score : 4.450326 - ID : 448
+Score : 4.3970346 - ID : 917
+Score : 4.320437 - ID : 1225
+Score : 4.224532 - ID : 236
+Score : 4.0997953 - ID : 191
+Score : 4.04789 - ID : 696
+Score : 4.004252 - ID : 828
+
+---------------------------------
+
+QueryModel :id='226', query='how should the navier-stokes difference equations be solved . '}
+Score : 9.340154 - ID : 1063
+Score : 4.814257 - ID : 1082
+Score : 4.3332677 - ID : 281
+Score : 4.103742 - ID : 1085
+Score : 4.0316296 - ID : 543
+Score : 3.9794948 - ID : 329
+Score : 3.8891215 - ID : 1321
+Score : 3.862797 - ID : 1273
+Score : 3.857961 - ID : 117
+Score : 3.8186786 - ID : 364
+Score : 3.8102257 - ID : 1391
+Score : 3.793038 - ID : 1081
+Score : 3.7460046 - ID : 300
+Score : 3.6379066 - ID : 299
+Score : 3.6378992 - ID : 1389
+Score : 3.5961459 - ID : 614
+Score : 3.5301166 - ID : 1053
+Score : 3.5187845 - ID : 394
+Score : 3.4857776 - ID : 962
+Score : 3.4843419 - ID : 103
+
+---------------------------------
+
+QueryModel :id='227', query='which  iterative method for solving linear elliptic difference equations is most rapidly convergent . '}
+Score : 13.530495 - ID : 1088
+Score : 8.426589 - ID : 1086
+Score : 8.297016 - ID : 111
+Score : 7.8068404 - ID : 1087
+Score : 6.8882923 - ID : 832
+Score : 6.7714763 - ID : 1054
+Score : 6.698181 - ID : 159
+Score : 6.571544 - ID : 827
+Score : 6.059639 - ID : 863
+Score : 5.98325 - ID : 479
+Score : 5.87287 - ID : 1375
+Score : 5.818157 - ID : 1389
+Score : 5.733952 - ID : 367
+Score : 5.664957 - ID : 916
+Score : 5.6305213 - ID : 300
+Score : 5.6123805 - ID : 351
+Score : 5.465514 - ID : 777
+Score : 5.446473 - ID : 1108
+Score : 5.388831 - ID : 15
+Score : 5.337972 - ID : 1063
+
+---------------------------------
+
+QueryModel :id='230', query='technical report on measurement of ablation during flight . '}
+Score : 6.1743093 - ID : 1101
+Score : 5.779567 - ID : 805
+Score : 5.6536136 - ID : 1065
+Score : 5.4712987 - ID : 804
+Score : 5.2714734 - ID : 595
+Score : 4.9038177 - ID : 553
+Score : 4.7033362 - ID : 1279
+Score : 4.6263328 - ID : 810
+Score : 4.180589 - ID : 1170
+Score : 4.153326 - ID : 1096
+Score : 4.136953 - ID : 806
+Score : 4.0791683 - ID : 1226
+Score : 4.0598474 - ID : 1270
+Score : 3.9476144 - ID : 76
+Score : 3.8267958 - ID : 1099
+Score : 3.7457461 - ID : 1299
+Score : 3.7201402 - ID : 587
+Score : 3.6995833 - ID : 813
+Score : 3.6702495 - ID : 1097
+Score : 3.569684 - ID : 1100
+
+---------------------------------
+
+QueryModel :id='231', query='what qualitative and quantitative material is available on ablation materials research . '}
+Score : 9.865649 - ID : 1096
+Score : 8.860744 - ID : 1065
+Score : 8.587794 - ID : 1097
+Score : 8.418538 - ID : 553
+Score : 8.284655 - ID : 1099
+Score : 7.8327413 - ID : 1279
+Score : 7.559356 - ID : 1098
+Score : 7.531341 - ID : 1100
+Score : 5.877867 - ID : 82
+Score : 5.8635945 - ID : 1117
+Score : 5.0962954 - ID : 1015
+Score : 4.840901 - ID : 274
+Score : 4.83893 - ID : 761
+Score : 4.7308855 - ID : 403
+Score : 4.7191515 - ID : 818
+Score : 4.629167 - ID : 866
+Score : 4.5391426 - ID : 1025
+Score : 4.474014 - ID : 462
+Score : 4.4110603 - ID : 42
+Score : 4.3527975 - ID : 1322
+
+---------------------------------
+
+QueryModel :id='232', query='have flow fields been calculated for blunt-nosed bodies and compared with experiment for a wide range of free stream conditions and body shapes . '}
+Score : 10.293313 - ID : 456
+Score : 9.602522 - ID : 556
+Score : 9.467341 - ID : 626
+Score : 9.440897 - ID : 25
+Score : 9.434966 - ID : 1151
+Score : 9.181106 - ID : 160
+Score : 8.711834 - ID : 1006
+Score : 8.556265 - ID : 1204
+Score : 8.402589 - ID : 318
+Score : 8.364561 - ID : 1179
+Score : 8.153149 - ID : 369
+Score : 8.127456 - ID : 1319
+Score : 7.8742375 - ID : 186
+Score : 7.845255 - ID : 122
+Score : 7.8190975 - ID : 625
+Score : 7.802773 - ID : 1391
+Score : 7.782678 - ID : 657
+Score : 7.754071 - ID : 1274
+Score : 7.671011 - ID : 688
+Score : 7.608978 - ID : 370
+
+---------------------------------
+
+QueryModel :id='233', query='what are the available properties of high-temperature air . '}
+Score : 4.682923 - ID : 302
+Score : 4.042027 - ID : 42
+Score : 3.953206 - ID : 251
+Score : 3.6491892 - ID : 12
+Score : 3.6267824 - ID : 328
+Score : 3.546569 - ID : 421
+Score : 3.5370216 - ID : 185
+Score : 3.530372 - ID : 1143
+Score : 3.3194642 - ID : 1269
+Score : 3.3029797 - ID : 502
+Score : 3.302275 - ID : 117
+Score : 3.2393756 - ID : 1230
+Score : 3.2206435 - ID : 691
+Score : 3.2056954 - ID : 262
+Score : 3.1382349 - ID : 616
+Score : 3.1367233 - ID : 949
+Score : 3.0540063 - ID : 195
+Score : 3.045688 - ID : 236
+Score : 3.0307057 - ID : 1263
+Score : 3.003213 - ID : 998
+
+---------------------------------
+
+QueryModel :id='234', query='what is the magnitude of aerodynamic damping in flexible vibration modes of a slender body of revolution characteristic of launch vehicles . '}
+Score : 13.751189 - ID : 1066
+Score : 8.552992 - ID : 42
+Score : 7.955329 - ID : 1339
+Score : 7.885207 - ID : 1197
+Score : 7.728295 - ID : 1259
+Score : 7.2854476 - ID : 1112
+Score : 7.1378875 - ID : 801
+Score : 6.6374564 - ID : 846
+Score : 5.970433 - ID : 969
+Score : 5.916099 - ID : 468
+Score : 5.858332 - ID : 1035
+Score : 5.684504 - ID : 52
+Score : 5.6729193 - ID : 716
+Score : 5.667983 - ID : 802
+Score : 5.645983 - ID : 494
+Score : 5.548574 - ID : 1345
+Score : 5.5375495 - ID : 1115
+Score : 5.4944386 - ID : 958
+Score : 5.457786 - ID : 749
+Score : 5.335415 - ID : 598
+
+---------------------------------
+
+QueryModel :id='241', query='compressive circumferential stresses in a torispherical shell reveal the possibility of buckling under internal pressure . has anyone investigated for which ranges of shell parameters these stresses are sufficiently large to cause elastic buckling . '}
+Score : 23.182447 - ID : 1071
+Score : 19.013575 - ID : 1134
+Score : 17.338236 - ID : 885
+Score : 16.75602 - ID : 1172
+Score : 16.527689 - ID : 741
+Score : 16.32993 - ID : 740
+Score : 15.834777 - ID : 897
+Score : 15.461779 - ID : 763
+Score : 15.348993 - ID : 887
+Score : 14.985314 - ID : 1068
+Score : 14.678726 - ID : 889
+Score : 14.624454 - ID : 1173
+Score : 14.568679 - ID : 826
+Score : 14.406175 - ID : 839
+Score : 14.387535 - ID : 830
+Score : 14.351935 - ID : 769
+Score : 14.086308 - ID : 739
+Score : 13.906216 - ID : 890
+Score : 13.782509 - ID : 1037
+Score : 13.536307 - ID : 1123
+
+---------------------------------
+
+QueryModel :id='245', query='is there an integral method to give a single and sufficiently accurate method of calculating the laminar separate point for various incompressible and compressible boundary layers with zero heat transfer . '}
+Score : 14.666021 - ID : 1386
+Score : 13.475959 - ID : 54
+Score : 11.44789 - ID : 55
+Score : 10.8611 - ID : 240
+Score : 10.680811 - ID : 460
+Score : 10.337596 - ID : 145
+Score : 10.089086 - ID : 314
+Score : 9.971863 - ID : 1384
+Score : 9.874709 - ID : 366
+Score : 9.807542 - ID : 461
+Score : 9.762095 - ID : 292
+Score : 9.593927 - ID : 150
+Score : 9.582147 - ID : 1182
+Score : 9.544063 - ID : 1192
+Score : 9.462149 - ID : 784
+Score : 9.440245 - ID : 1375
+Score : 9.296487 - ID : 72
+Score : 9.191348 - ID : 1382
+Score : 9.147911 - ID : 1366
+Score : 9.116166 - ID : 62
+
+---------------------------------
+
+QueryModel :id='246', query='what accurate or exact solutions of the laminar separation point for various incompressible and compressible boundary layers with zero heat transfer are available . '}
+Score : 11.131349 - ID : 460
+Score : 10.486867 - ID : 292
+Score : 10.330266 - ID : 55
+Score : 10.251971 - ID : 54
+Score : 9.841178 - ID : 240
+Score : 9.554149 - ID : 1182
+Score : 9.440444 - ID : 366
+Score : 9.3255005 - ID : 62
+Score : 9.296712 - ID : 1386
+Score : 8.823062 - ID : 489
+Score : 8.818994 - ID : 559
+Score : 8.810081 - ID : 145
+Score : 8.790647 - ID : 562
+Score : 8.591389 - ID : 16
+Score : 8.551632 - ID : 461
+Score : 8.539003 - ID : 348
+Score : 8.244559 - ID : 306
+Score : 8.216665 - ID : 1302
+Score : 8.192151 - ID : 1383
+Score : 8.187251 - ID : 365
+
+---------------------------------
+
+QueryModel :id='247', query='can the hypersonic similarity results be applied to the technique of predicting surface pressures of an ogive forebody at angle of attack . '}
+Score : 13.512578 - ID : 492
+Score : 11.2702265 - ID : 57
+Score : 11.254742 - ID : 232
+Score : 10.085522 - ID : 373
+Score : 9.842907 - ID : 56
+Score : 9.399462 - ID : 434
+Score : 8.854868 - ID : 973
+Score : 8.765633 - ID : 688
+Score : 8.613396 - ID : 124
+Score : 8.595233 - ID : 37
+Score : 7.8685136 - ID : 1231
+Score : 7.4476533 - ID : 234
+Score : 7.010647 - ID : 27
+Score : 6.8323193 - ID : 567
+Score : 6.813834 - ID : 1040
+Score : 6.512821 - ID : 1307
+Score : 6.1086717 - ID : 1262
+Score : 6.0234203 - ID : 25
+Score : 5.960141 - ID : 122
+Score : 5.8629375 - ID : 305
+
+---------------------------------
+
+QueryModel :id='250', query='what determines the onset of shock-induced boundary-layer separation . '}
+Score : 6.6694613 - ID : 503
+Score : 5.5504813 - ID : 311
+Score : 5.126872 - ID : 316
+Score : 5.0652776 - ID : 415
+Score : 4.197193 - ID : 358
+Score : 3.9374292 - ID : 439
+Score : 3.903222 - ID : 1364
+Score : 3.8142679 - ID : 291
+Score : 3.8000352 - ID : 1228
+Score : 3.6993253 - ID : 1287
+Score : 3.6539955 - ID : 798
+Score : 3.6263218 - ID : 526
+Score : 3.6122658 - ID : 265
+Score : 3.5893319 - ID : 1187
+Score : 3.4981346 - ID : 416
+Score : 3.4430919 - ID : 256
+Score : 3.380046 - ID : 996
+Score : 3.2216527 - ID : 155
+Score : 3.1923153 - ID : 1248
+Score : 3.185778 - ID : 455
+
+---------------------------------
+
+QueryModel :id='251', query='are the stable profiles of a compressible boundary layer induced by a moving wave known . '}
+Score : 9.05141 - ID : 504
+Score : 7.564384 - ID : 71
+Score : 6.5643964 - ID : 72
+Score : 6.001991 - ID : 569
+Score : 5.744977 - ID : 1276
+Score : 5.2513895 - ID : 209
+Score : 5.1769123 - ID : 417
+Score : 5.0587583 - ID : 663
+Score : 4.990074 - ID : 1375
+Score : 4.929677 - ID : 978
+Score : 4.8221684 - ID : 1268
+Score : 4.818353 - ID : 104
+Score : 4.8033247 - ID : 1220
+Score : 4.703808 - ID : 334
+Score : 4.5968146 - ID : 1225
+Score : 4.5126934 - ID : 112
+Score : 4.508228 - ID : 890
+Score : 4.4876204 - ID : 54
+Score : 4.446562 - ID : 308
+Score : 4.407128 - ID : 1154
+
+---------------------------------
+
+QueryModel :id='252', query='are there experimental results on the stability of a compressible boundary layer induced by a moving wave . '}
+Score : 9.625342 - ID : 504
+Score : 6.109774 - ID : 71
+Score : 6.1077476 - ID : 209
+Score : 5.9671116 - ID : 569
+Score : 5.866039 - ID : 663
+Score : 5.744977 - ID : 1276
+Score : 5.665691 - ID : 334
+Score : 5.625772 - ID : 72
+Score : 5.281227 - ID : 207
+Score : 5.212032 - ID : 448
+Score : 5.116337 - ID : 1228
+Score : 5.1046634 - ID : 55
+Score : 4.806914 - ID : 1321
+Score : 4.671402 - ID : 256
+Score : 4.5301533 - ID : 1220
+Score : 4.513397 - ID : 78
+Score : 4.41201 - ID : 1349
+Score : 4.385378 - ID : 170
+Score : 4.3641944 - ID : 1303
+Score : 4.3304253 - ID : 1356
+
+---------------------------------
+
+QueryModel :id='253', query='exact solution methods for calculating the ablative mass loss of a material ablating at high temperatures in a hypersonic flight environment . '}
+Score : 14.186718 - ID : 553
+Score : 12.658758 - ID : 1279
+Score : 12.106213 - ID : 82
+Score : 12.021457 - ID : 274
+Score : 10.366288 - ID : 1100
+Score : 9.986294 - ID : 1096
+Score : 9.882217 - ID : 1099
+Score : 9.848946 - ID : 1065
+Score : 9.798967 - ID : 1097
+Score : 9.647457 - ID : 1226
+Score : 9.559135 - ID : 1098
+Score : 9.26537 - ID : 1101
+Score : 8.726542 - ID : 1241
+Score : 6.744954 - ID : 1043
+Score : 6.0608816 - ID : 981
+Score : 5.986863 - ID : 540
+Score : 5.84966 - ID : 1147
+Score : 5.824656 - ID : 77
+Score : 5.7482295 - ID : 1157
+Score : 5.695513 - ID : 587
+
+---------------------------------
+
+QueryModel :id='254', query='what approximate solutions are known to the direct problem of transonic flow in the throat of a nozzle,  i.e. finding the flow in a given nozzle . '}
+Score : 12.754594 - ID : 750
+Score : 10.43663 - ID : 118
+Score : 10.356049 - ID : 341
+Score : 10.259842 - ID : 965
+Score : 9.176755 - ID : 157
+Score : 8.62704 - ID : 217
+Score : 7.5201306 - ID : 1072
+Score : 7.2876678 - ID : 696
+Score : 7.1311407 - ID : 942
+Score : 7.0697074 - ID : 127
+Score : 6.7348547 - ID : 575
+Score : 6.6866784 - ID : 166
+Score : 6.655927 - ID : 236
+Score : 6.546941 - ID : 213
+Score : 6.5222373 - ID : 656
+Score : 6.517164 - ID : 172
+Score : 6.443807 - ID : 1230
+Score : 6.419413 - ID : 136
+Score : 6.2250977 - ID : 774
+Score : 6.1950974 - ID : 1187
+
+---------------------------------
+
+QueryModel :id='255', query='what approximate solutions are known to the indirect problem of transonic flow in the throat of a nozzle,  i.e. finding a nozzle which has a given axial velocity distribution . '}
+Score : 14.8214655 - ID : 750
+Score : 12.051566 - ID : 118
+Score : 11.52365 - ID : 341
+Score : 10.621867 - ID : 157
+Score : 10.531713 - ID : 965
+Score : 10.2659235 - ID : 217
+Score : 9.229075 - ID : 127
+Score : 7.953459 - ID : 1072
+Score : 7.774661 - ID : 166
+Score : 7.740739 - ID : 213
+Score : 7.7387133 - ID : 1280
+Score : 7.610894 - ID : 1366
+Score : 7.550667 - ID : 131
+Score : 7.509106 - ID : 97
+Score : 7.397159 - ID : 236
+Score : 7.221772 - ID : 36
+Score : 7.0163693 - ID : 575
+Score : 6.9718347 - ID : 1230
+Score : 6.910252 - ID : 276
+Score : 6.9046693 - ID : 136
+
+---------------------------------
+
+QueryModel :id='257', query='why do users of orthodox pitot-static tubes often find that the calibrations appear to be,. - (a) significantly different from those formerly specified,  (b) wildly variable at low reynolds numbers . '}
+Score : 11.447754 - ID : 238
+Score : 9.947673 - ID : 1082
+Score : 9.716755 - ID : 893
+Score : 9.358766 - ID : 904
+Score : 9.150866 - ID : 139
+Score : 8.851457 - ID : 315
+Score : 8.569691 - ID : 239
+Score : 7.7006764 - ID : 140
+Score : 7.456956 - ID : 165
+Score : 7.078419 - ID : 906
+Score : 6.984678 - ID : 1264
+Score : 6.3182144 - ID : 213
+Score : 6.2401767 - ID : 187
+Score : 6.155829 - ID : 905
+Score : 6.1211605 - ID : 802
+Score : 6.081357 - ID : 670
+Score : 5.6897106 - ID : 604
+Score : 5.6445866 - ID : 311
+Score : 5.641765 - ID : 443
+Score : 5.5292416 - ID : 185
+
+---------------------------------
+
+QueryModel :id='259', query='has a comparison been made between interference-free drag measurements using free-flight models and similar measurements made in a low-blockage wind tunnel . '}
+Score : 15.142582 - ID : 431
+Score : 13.011999 - ID : 516
+Score : 11.39635 - ID : 904
+Score : 10.49317 - ID : 755
+Score : 10.405431 - ID : 141
+Score : 10.384349 - ID : 808
+Score : 10.370372 - ID : 1155
+Score : 9.454648 - ID : 800
+Score : 9.190512 - ID : 631
+Score : 8.984017 - ID : 188
+Score : 8.909465 - ID : 1204
+Score : 8.788096 - ID : 252
+Score : 8.786061 - ID : 179
+Score : 8.595391 - ID : 794
+Score : 8.558182 - ID : 594
+Score : 8.390161 - ID : 608
+Score : 8.305127 - ID : 184
+Score : 8.273412 - ID : 546
+Score : 8.26835 - ID : 280
+Score : 8.259682 - ID : 1151
+
+---------------------------------
+
+QueryModel :id='261', query='solution of the blasius problem with three-point boundary conditions . '}
+Score : 8.8363905 - ID : 527
+Score : 8.61575 - ID : 320
+Score : 7.758938 - ID : 322
+Score : 7.6099925 - ID : 321
+Score : 7.2687626 - ID : 476
+Score : 6.569082 - ID : 478
+Score : 6.1235003 - ID : 107
+Score : 5.589371 - ID : 1370
+Score : 5.4619737 - ID : 1235
+Score : 4.6412487 - ID : 1251
+Score : 4.4673853 - ID : 540
+Score : 4.122516 - ID : 1281
+Score : 3.9811969 - ID : 336
+Score : 3.9412632 - ID : 23
+Score : 3.883198 - ID : 641
+Score : 3.8801513 - ID : 72
+Score : 3.872479 - ID : 837
+Score : 3.8370702 - ID : 1149
+Score : 3.7935858 - ID : 425
+Score : 3.7839763 - ID : 734
+
+---------------------------------
+
+QueryModel :id='264', query='references on lyapunov's method on the stability of linear differential equations with periodic coefficients . '}
+Score : 10.384818 - ID : 367
+Score : 8.824819 - ID : 451
+Score : 8.188978 - ID : 532
+Score : 6.58735 - ID : 917
+Score : 5.086043 - ID : 767
+Score : 4.7649775 - ID : 1320
+Score : 4.6608896 - ID : 1067
+Score : 4.564933 - ID : 155
+Score : 4.560003 - ID : 916
+Score : 4.5512314 - ID : 813
+Score : 4.475626 - ID : 759
+Score : 4.382158 - ID : 548
+Score : 4.3255086 - ID : 934
+Score : 4.3193173 - ID : 873
+Score : 4.284315 - ID : 1392
+Score : 4.197758 - ID : 913
+Score : 4.1799874 - ID : 1375
+Score : 4.028135 - ID : 1047
+Score : 3.9688947 - ID : 956
+Score : 3.9682007 - ID : 538
+
+---------------------------------
+
+QueryModel :id='265', query='obtain all papers and reports that contain shock detachment distance data . '}
+Score : 7.816111 - ID : 35
+Score : 7.225232 - ID : 1319
+Score : 7.0292683 - ID : 1157
+Score : 6.9445415 - ID : 483
+Score : 6.8293533 - ID : 523
+Score : 6.797591 - ID : 1274
+Score : 6.659738 - ID : 1390
+Score : 6.6417584 - ID : 411
+Score : 6.585462 - ID : 501
+Score : 5.9369354 - ID : 1151
+Score : 5.208073 - ID : 1264
+Score : 4.652497 - ID : 552
+Score : 4.6406975 - ID : 1313
+Score : 4.630655 - ID : 1389
+Score : 4.5932603 - ID : 1257
+Score : 4.446962 - ID : 572
+Score : 4.425611 - ID : 1198
+Score : 4.3174844 - ID : 482
+Score : 4.2808924 - ID : 1216
+Score : 4.246394 - ID : 178
+
+---------------------------------
+
+QueryModel :id='266', query='work on flow in channels at low reynolds numbers . '}
+Score : 6.0194616 - ID : 941
+Score : 5.88745 - ID : 1221
+Score : 5.3987126 - ID : 139
+Score : 4.9513125 - ID : 34
+Score : 4.757694 - ID : 491
+Score : 4.385477 - ID : 1222
+Score : 4.340328 - ID : 1394
+Score : 4.329284 - ID : 666
+Score : 4.1797676 - ID : 351
+Score : 4.128775 - ID : 668
+Score : 4.1210775 - ID : 1082
+Score : 4.071845 - ID : 238
+Score : 4.060914 - ID : 270
+Score : 3.8905213 - ID : 630
+Score : 3.842811 - ID : 315
+Score : 3.6688654 - ID : 112
+Score : 3.656187 - ID : 537
+Score : 3.5844967 - ID : 147
+Score : 3.5269456 - ID : 670
+Score : 3.5138073 - ID : 1395
+
+---------------------------------
+
+QueryModel :id='267', query='some approximate analytical heat conduction solutions using methods other than biot's principle . '}
+Score : 9.276529 - ID : 542
+Score : 7.743686 - ID : 869
+Score : 6.8730807 - ID : 1185
+Score : 6.8203764 - ID : 6
+Score : 6.2410364 - ID : 767
+Score : 6.01939 - ID : 586
+Score : 5.7537766 - ID : 93
+Score : 5.5495434 - ID : 1015
+Score : 5.497524 - ID : 390
+Score : 5.4551005 - ID : 495
+Score : 5.3761353 - ID : 872
+Score : 5.2460046 - ID : 1221
+Score : 5.1177697 - ID : 454
+Score : 5.077271 - ID : 1235
+Score : 5.0131173 - ID : 1222
+Score : 5.005308 - ID : 1375
+Score : 4.976588 - ID : 1182
+Score : 4.975669 - ID : 292
+Score : 4.969012 - ID : 396
+Score : 4.937591 - ID : 395
+
+---------------------------------
+
+QueryModel :id='268', query='what mode of stalling can be expected for each stage of an axial compressor . '}
+Score : 10.196142 - ID : 588
+Score : 9.607016 - ID : 589
+Score : 8.687942 - ID : 576
+Score : 7.0237746 - ID : 578
+Score : 6.3875275 - ID : 138
+Score : 6.387081 - ID : 590
+Score : 6.1596518 - ID : 543
+Score : 6.153388 - ID : 426
+Score : 5.3214216 - ID : 592
+Score : 5.271829 - ID : 642
+Score : 4.9154854 - ID : 772
+Score : 4.64034 - ID : 28
+Score : 4.590645 - ID : 214
+Score : 4.4149194 - ID : 1034
+Score : 4.337322 - ID : 42
+Score : 4.3308525 - ID : 216
+Score : 4.290246 - ID : 1117
+Score : 4.239564 - ID : 1024
+Score : 4.1512623 - ID : 213
+Score : 4.0786734 - ID : 1371
+
+---------------------------------
+
+QueryModel :id='269', query='has a criterion been established for determining the axial compressor choking line . '}
+Score : 6.711054 - ID : 511
+Score : 5.99075 - ID : 1155
+Score : 5.41216 - ID : 1171
+Score : 4.739745 - ID : 216
+Score : 4.685658 - ID : 1301
+Score : 4.6662116 - ID : 31
+Score : 4.6586843 - ID : 1118
+Score : 4.609115 - ID : 827
+Score : 4.554276 - ID : 642
+Score : 4.519359 - ID : 839
+Score : 4.422968 - ID : 73
+Score : 4.415446 - ID : 1151
+Score : 4.3879533 - ID : 138
+Score : 4.3791223 - ID : 822
+Score : 4.364924 - ID : 769
+Score : 4.3511486 - ID : 968
+Score : 4.3142166 - ID : 1209
+Score : 4.2661395 - ID : 387
+Score : 4.219799 - ID : 1183
+Score : 4.1252775 - ID : 589
+
+---------------------------------
+
+QueryModel :id='272', query='has a theory of quasi-conical flows been developed, in supersonic linearised theory, for which the upwash distribution on the lifting surface, apart from being a homogeneous function in the co-ordinate, is permitted to have a quite general functional form . '}
+Score : 15.774069 - ID : 633
+Score : 13.509929 - ID : 428
+Score : 12.370095 - ID : 680
+Score : 11.735673 - ID : 682
+Score : 10.776265 - ID : 753
+Score : 10.662037 - ID : 379
+Score : 9.84285 - ID : 677
+Score : 9.621572 - ID : 1330
+Score : 9.495305 - ID : 1343
+Score : 9.431465 - ID : 1080
+Score : 9.252277 - ID : 811
+Score : 9.03175 - ID : 183
+Score : 8.8932085 - ID : 659
+Score : 8.885597 - ID : 1383
+Score : 8.7291765 - ID : 224
+Score : 8.685467 - ID : 1280
+Score : 8.6755085 - ID : 49
+Score : 8.517458 - ID : 369
+Score : 8.494918 - ID : 706
+Score : 8.4159155 - ID : 325
+
+---------------------------------
+
+QueryModel :id='273', query='how does scale height vary with altitude in an atmosphere . '}
+Score : 11.542352 - ID : 548
+Score : 8.477454 - ID : 616
+Score : 6.8816824 - ID : 622
+Score : 6.754275 - ID : 617
+Score : 6.2893677 - ID : 1391
+Score : 6.055725 - ID : 218
+Score : 5.813207 - ID : 614
+Score : 5.403962 - ID : 85
+Score : 4.591314 - ID : 315
+Score : 4.5752783 - ID : 615
+Score : 4.4754305 - ID : 882
+Score : 4.295103 - ID : 1103
+Score : 4.1054783 - ID : 613
+Score : 4.05088 - ID : 969
+Score : 4.025418 - ID : 620
+Score : 3.9889271 - ID : 1150
+Score : 3.9657729 - ID : 404
+Score : 3.9564075 - ID : 1324
+Score : 3.952062 - ID : 716
+Score : 3.8517249 - ID : 618
+
+---------------------------------
+
+QueryModel :id='274', query='jet interference with supersonic flows theoretical papers . '}
+Score : 5.716491 - ID : 1195
+Score : 5.461676 - ID : 131
+Score : 5.0555005 - ID : 176
+Score : 5.015698 - ID : 409
+Score : 4.9082274 - ID : 97
+Score : 4.718978 - ID : 997
+Score : 4.549438 - ID : 1374
+Score : 4.532219 - ID : 243
+Score : 4.3401556 - ID : 706
+Score : 4.335775 - ID : 973
+Score : 4.282698 - ID : 993
+Score : 4.282498 - ID : 1265
+Score : 4.146701 - ID : 1181
+Score : 4.1194186 - ID : 1151
+Score : 4.093449 - ID : 969
+Score : 4.0172715 - ID : 657
+Score : 3.7558982 - ID : 1352
+Score : 3.7466235 - ID : 467
+Score : 3.6593316 - ID : 455
+Score : 3.6245663 - ID : 173
+
+---------------------------------
+
+QueryModel :id='275', query='effects of leading-edge bluntness on the flutter characteristics of some square-planform double-wedge airfoils at mach numbers less than 15.4. '}
+Score : 16.917217 - ID : 634
+Score : 15.238892 - ID : 685
+Score : 11.561242 - ID : 686
+Score : 9.907205 - ID : 593
+Score : 7.9362793 - ID : 856
+Score : 7.4429736 - ID : 193
+Score : 7.4023614 - ID : 1338
+Score : 7.208589 - ID : 1218
+Score : 6.8110003 - ID : 25
+Score : 6.7891493 - ID : 701
+Score : 6.733817 - ID : 1319
+Score : 6.733817 - ID : 1274
+Score : 6.684097 - ID : 1157
+Score : 6.5810056 - ID : 857
+Score : 6.451316 - ID : 70
+Score : 6.4102306 - ID : 597
+Score : 6.391773 - ID : 204
+Score : 6.391306 - ID : 211
+Score : 6.3431325 - ID : 440
+Score : 6.3349833 - ID : 1300
+
+---------------------------------
+
+QueryModel :id='277', query='what factors have been shown to have a primary influence on sonic boom strength . '}
+Score : 7.242093 - ID : 1068
+Score : 6.8094835 - ID : 893
+Score : 6.143783 - ID : 1226
+Score : 6.1022434 - ID : 1247
+Score : 6.071104 - ID : 811
+Score : 5.721975 - ID : 997
+Score : 5.6803594 - ID : 808
+Score : 5.6322484 - ID : 1243
+Score : 5.6018972 - ID : 88
+Score : 5.391101 - ID : 199
+Score : 5.338955 - ID : 804
+Score : 5.2514873 - ID : 1177
+Score : 5.141721 - ID : 455
+Score : 5.114146 - ID : 251
+Score : 5.093474 - ID : 555
+Score : 5.0629354 - ID : 374
+Score : 4.953476 - ID : 568
+Score : 4.904973 - ID : 822
+Score : 4.8236246 - ID : 127
+Score : 4.7219615 - ID : 1079
+
+---------------------------------
+
+QueryModel :id='283', query='work on small-oscillation re-entry motions . '}
+Score : 4.14603 - ID : 716
+Score : 4.1298122 - ID : 82
+Score : 3.4716008 - ID : 509
+Score : 3.332313 - ID : 207
+Score : 3.2899513 - ID : 553
+Score : 3.0919528 - ID : 554
+Score : 2.8833454 - ID : 274
+Score : 2.8795905 - ID : 715
+Score : 2.6920981 - ID : 353
+Score : 2.6898499 - ID : 1217
+Score : 2.659574 - ID : 1219
+Score : 2.6084104 - ID : 713
+Score : 2.6002414 - ID : 245
+Score : 2.5519118 - ID : 740
+Score : 2.531233 - ID : 1046
+Score : 2.4666018 - ID : 77
+Score : 2.3712726 - ID : 515
+Score : 2.370184 - ID : 978
+Score : 2.3312507 - ID : 703
+Score : 2.3200047 - ID : 788
+
+---------------------------------
+
+QueryModel :id='284', query='experimental studies on panel flutter . '}
+Score : 8.125557 - ID : 856
+Score : 7.3032627 - ID : 857
+Score : 6.4187026 - ID : 766
+Score : 6.4003425 - ID : 1008
+Score : 6.348699 - ID : 390
+Score : 6.238241 - ID : 858
+Score : 5.7181044 - ID : 658
+Score : 5.6652837 - ID : 859
+Score : 5.5955534 - ID : 391
+Score : 5.4805527 - ID : 864
+Score : 5.3434134 - ID : 948
+Score : 5.23022 - ID : 627
+Score : 5.028717 - ID : 285
+Score : 4.969538 - ID : 15
+Score : 4.6379304 - ID : 894
+Score : 4.3258214 - ID : 686
+Score : 4.232406 - ID : 753
+Score : 4.027878 - ID : 711
+Score : 3.7513075 - ID : 914
+Score : 3.702133 - ID : 726
+
+---------------------------------
+
+QueryModel :id='285', query='how can wing-body,  flow field interference effects be approximated rationally . '}
+Score : 6.176601 - ID : 230
+Score : 5.7536206 - ID : 1074
+Score : 5.668635 - ID : 1243
+Score : 5.628751 - ID : 1062
+Score : 5.577657 - ID : 1239
+Score : 5.4829984 - ID : 60
+Score : 5.108884 - ID : 1273
+Score : 4.880445 - ID : 433
+Score : 4.7561417 - ID : 921
+Score : 4.72672 - ID : 723
+Score : 4.6190004 - ID : 1224
+Score : 4.589689 - ID : 432
+Score : 4.5609856 - ID : 754
+Score : 4.548881 - ID : 229
+Score : 4.527672 - ID : 297
+Score : 4.5132866 - ID : 456
+Score : 4.497568 - ID : 803
+Score : 4.4810514 - ID : 520
+Score : 4.4789987 - ID : 924
+Score : 4.437346 - ID : 809
+
+---------------------------------
+
+QueryModel :id='288', query='has anyone analytically or experimentally investigated the effects of internal pressure on the buckling of circular-cylindrical shells under bending . '}
+Score : 11.441372 - ID : 763
+Score : 9.959244 - ID : 839
+Score : 9.632313 - ID : 1068
+Score : 8.676543 - ID : 1051
+Score : 8.63679 - ID : 1145
+Score : 8.622143 - ID : 1070
+Score : 8.419819 - ID : 841
+Score : 8.384931 - ID : 953
+Score : 8.379993 - ID : 1126
+Score : 8.3776245 - ID : 897
+Score : 8.351297 - ID : 887
+Score : 8.241286 - ID : 1071
+Score : 8.213639 - ID : 1117
+Score : 8.158169 - ID : 936
+Score : 8.100205 - ID : 955
+Score : 8.019802 - ID : 831
+Score : 7.941755 - ID : 826
+Score : 7.636537 - ID : 1172
+Score : 7.619624 - ID : 926
+Score : 7.125162 - ID : 1171
+
+---------------------------------
+
+QueryModel :id='291', query='what theoretical and experimental work has been done on the excitation and response of typical structures in a noise environment . '}
+Score : 12.9867735 - ID : 725
+Score : 11.7050905 - ID : 722
+Score : 11.244117 - ID : 640
+Score : 9.975724 - ID : 908
+Score : 9.691512 - ID : 720
+Score : 9.053369 - ID : 911
+Score : 8.662276 - ID : 1360
+Score : 7.8430114 - ID : 764
+Score : 7.7687964 - ID : 220
+Score : 7.5081534 - ID : 909
+Score : 6.6414957 - ID : 740
+Score : 6.5694566 - ID : 729
+Score : 6.3400073 - ID : 186
+Score : 6.308406 - ID : 102
+Score : 5.9769173 - ID : 724
+Score : 5.96225 - ID : 209
+Score : 5.7099385 - ID : 29
+Score : 5.7038064 - ID : 1270
+Score : 5.684541 - ID : 251
+Score : 5.586492 - ID : 202
+
+---------------------------------
+
+QueryModel :id='292', query='is there a design method for calculating thermal fatigue endurances of components of various types and sizes in a variety of circumstances . '}
+Score : 11.775087 - ID : 767
+Score : 7.390299 - ID : 640
+Score : 6.2517047 - ID : 870
+Score : 6.2436748 - ID : 727
+Score : 5.898771 - ID : 881
+Score : 5.5193286 - ID : 246
+Score : 5.327992 - ID : 314
+Score : 5.241899 - ID : 883
+Score : 5.084275 - ID : 833
+Score : 4.9807363 - ID : 878
+Score : 4.9796395 - ID : 925
+Score : 4.9017224 - ID : 1362
+Score : 4.806962 - ID : 726
+Score : 4.787223 - ID : 907
+Score : 4.7696238 - ID : 952
+Score : 4.7683573 - ID : 399
+Score : 4.737372 - ID : 769
+Score : 4.7291336 - ID : 909
+Score : 4.725999 - ID : 906
+Score : 4.673479 - ID : 762
+
+---------------------------------
+
+QueryModel :id='293', query='will an analysis of panel flutter based on arbitrarily assumed modes of deformation prove satisfactory,  and if so,  what is the minimum number of modes that need be considered . '}
+Score : 12.901728 - ID : 390
+Score : 10.461904 - ID : 856
+Score : 9.985905 - ID : 1339
+Score : 9.462471 - ID : 15
+Score : 9.428386 - ID : 627
+Score : 9.099598 - ID : 52
+Score : 9.041736 - ID : 391
+Score : 8.534096 - ID : 14
+Score : 8.391427 - ID : 728
+Score : 7.71725 - ID : 948
+Score : 7.5745378 - ID : 1008
+Score : 7.5685983 - ID : 518
+Score : 7.475973 - ID : 723
+Score : 7.1837087 - ID : 1111
+Score : 7.052583 - ID : 1069
+Score : 6.819601 - ID : 1122
+Score : 6.7731624 - ID : 766
+Score : 6.757803 - ID : 858
+Score : 6.7527742 - ID : 760
+Score : 6.6887226 - ID : 769
+
+---------------------------------
+
+QueryModel :id='294', query='what is the criterion for true panel flutter,  as opposed to small amplitude vibration arising from acoustic disturbances . '}
+Score : 7.9504404 - ID : 899
+Score : 7.8864474 - ID : 1392
+Score : 7.5373225 - ID : 627
+Score : 7.524748 - ID : 236
+Score : 7.146745 - ID : 894
+Score : 6.7104397 - ID : 766
+Score : 6.6776657 - ID : 15
+Score : 6.486808 - ID : 658
+Score : 6.337467 - ID : 73
+Score : 6.234686 - ID : 75
+Score : 6.1127467 - ID : 857
+Score : 6.066601 - ID : 827
+Score : 6.0219955 - ID : 541
+Score : 6.00835 - ID : 858
+Score : 5.8335924 - ID : 948
+Score : 5.810331 - ID : 856
+Score : 5.768084 - ID : 1242
+Score : 5.743798 - ID : 914
+Score : 5.7229867 - ID : 1008
+Score : 5.6950703 - ID : 1387
+
+---------------------------------
+
+QueryModel :id='295', query='papers dealing with uniformly loaded sectors . '}
+Score : 10.511601 - ID : 735
+Score : 8.390734 - ID : 733
+Score : 7.2229815 - ID : 641
+Score : 6.990897 - ID : 734
+Score : 4.668971 - ID : 875
+Score : 4.473337 - ID : 647
+Score : 4.119059 - ID : 642
+Score : 3.5300584 - ID : 743
+Score : 3.368655 - ID : 648
+Score : 3.205433 - ID : 1398
+Score : 3.1336799 - ID : 851
+Score : 3.0280957 - ID : 744
+Score : 3.0162694 - ID : 745
+Score : 2.8032055 - ID : 215
+Score : 2.792815 - ID : 1173
+Score : 2.7850351 - ID : 1057
+Score : 2.7017074 - ID : 950
+Score : 2.6694949 - ID : 819
+Score : 2.6663604 - ID : 1125
+Score : 2.6090055 - ID : 828
+
+---------------------------------
+
+QueryModel :id='296', query='general methods of solving clamped plate problems . '}
+Score : 8.169696 - ID : 733
+Score : 7.3198557 - ID : 734
+Score : 6.833783 - ID : 730
+Score : 6.2547092 - ID : 641
+Score : 6.1080556 - ID : 736
+Score : 5.981258 - ID : 648
+Score : 5.6180444 - ID : 145
+Score : 5.436094 - ID : 735
+Score : 5.1417966 - ID : 1392
+Score : 5.077509 - ID : 424
+Score : 4.870123 - ID : 400
+Score : 4.601005 - ID : 422
+Score : 4.5260544 - ID : 647
+Score : 4.4662614 - ID : 863
+Score : 4.462721 - ID : 1088
+Score : 4.1868544 - ID : 1054
+Score : 4.1144304 - ID : 1387
+Score : 4.078533 - ID : 1396
+Score : 4.0326533 - ID : 454
+Score : 3.9657993 - ID : 703
+
+---------------------------------
+
+QueryModel :id='297', query='how can the analytical solution of the buckling strength of a uniform circular cylinder loaded in axial compression be refined so as to lower the buckling load . '}
+Score : 16.472406 - ID : 642
+Score : 14.628171 - ID : 744
+Score : 14.138265 - ID : 1178
+Score : 13.498589 - ID : 932
+Score : 12.290105 - ID : 1173
+Score : 11.891561 - ID : 740
+Score : 11.689001 - ID : 1172
+Score : 11.440886 - ID : 769
+Score : 11.358928 - ID : 888
+Score : 11.242663 - ID : 1117
+Score : 10.885838 - ID : 1122
+Score : 10.771315 - ID : 739
+Score : 10.548128 - ID : 1126
+Score : 10.411348 - ID : 1051
+Score : 10.409175 - ID : 741
+Score : 10.193329 - ID : 760
+Score : 10.173293 - ID : 885
+Score : 10.150773 - ID : 887
+Score : 10.036935 - ID : 1123
+Score : 10.012902 - ID : 1177
+
+---------------------------------
+
+QueryModel :id='298', query='in the problem of the buckling strength of uniform circular cylinders loaded in axial compression,  does the linear solution help with improving the non-linear one . '}
+Score : 16.418013 - ID : 642
+Score : 11.462922 - ID : 1173
+Score : 11.038954 - ID : 1122
+Score : 10.584035 - ID : 744
+Score : 9.825759 - ID : 769
+Score : 9.753066 - ID : 932
+Score : 9.738657 - ID : 1172
+Score : 9.26534 - ID : 888
+Score : 9.23882 - ID : 457
+Score : 9.129352 - ID : 1145
+Score : 8.980152 - ID : 739
+Score : 8.849196 - ID : 1055
+Score : 8.678961 - ID : 1178
+Score : 8.631758 - ID : 1126
+Score : 8.403409 - ID : 741
+Score : 8.311392 - ID : 887
+Score : 8.197087 - ID : 1359
+Score : 8.126521 - ID : 743
+Score : 8.096223 - ID : 777
+Score : 8.076789 - ID : 1067
+
+---------------------------------
+
+QueryModel :id='299', query='the problem of similarity for representative investigation of aeroelastic effects in a flow with the absence of heating effects . '}
+Score : 7.103704 - ID : 746
+Score : 6.2599654 - ID : 1361
+Score : 6.122968 - ID : 51
+Score : 6.0025134 - ID : 486
+Score : 5.1839786 - ID : 966
+Score : 5.1746964 - ID : 1237
+Score : 5.1000843 - ID : 102
+Score : 5.0766306 - ID : 1323
+Score : 5.0180955 - ID : 1008
+Score : 4.916579 - ID : 875
+Score : 4.87202 - ID : 14
+Score : 4.525996 - ID : 390
+Score : 4.374557 - ID : 123
+Score : 4.34257 - ID : 29
+Score : 4.3390794 - ID : 342
+Score : 4.212337 - ID : 284
+Score : 4.196945 - ID : 1177
+Score : 4.103789 - ID : 715
+Score : 4.1000705 - ID : 1097
+Score : 4.048487 - ID : 1281
+
+---------------------------------
+
+QueryModel :id='300', query='how is fatigue damage estimated using the normal long-hand method . '}
+Score : 10.04111 - ID : 884
+Score : 9.689502 - ID : 723
+Score : 8.373975 - ID : 881
+Score : 7.1753187 - ID : 726
+Score : 5.767739 - ID : 768
+Score : 5.6584554 - ID : 865
+Score : 5.459154 - ID : 720
+Score : 5.0585923 - ID : 909
+Score : 4.5227065 - ID : 767
+Score : 4.235912 - ID : 640
+Score : 4.211954 - ID : 882
+Score : 4.175745 - ID : 1168
+Score : 4.129975 - ID : 1236
+Score : 4.024557 - ID : 883
+Score : 3.8898978 - ID : 6
+Score : 3.8119 - ID : 724
+Score : 3.723016 - ID : 1162
+Score : 3.6933777 - ID : 1312
+Score : 3.5379086 - ID : 454
+Score : 3.3860905 - ID : 958
+
+---------------------------------
+
+QueryModel :id='301', query='is there any information available on the difference in the effects of various edge conditions on the buckling of cylindrical shells . '}
+Score : 7.880486 - ID : 889
+Score : 7.183936 - ID : 1117
+Score : 7.1216207 - ID : 1126
+Score : 6.8466 - ID : 743
+Score : 6.8299313 - ID : 1068
+Score : 6.744348 - ID : 1174
+Score : 6.658268 - ID : 1051
+Score : 6.599293 - ID : 740
+Score : 6.5586314 - ID : 843
+Score : 6.49153 - ID : 851
+Score : 6.232046 - ID : 1119
+Score : 6.164346 - ID : 897
+Score : 6.127235 - ID : 765
+Score : 6.1137195 - ID : 739
+Score : 6.0065928 - ID : 887
+Score : 5.920016 - ID : 1172
+Score : 5.8913746 - ID : 1067
+Score : 5.823149 - ID : 1146
+Score : 5.7846336 - ID : 956
+Score : 5.695637 - ID : 280
+
+---------------------------------
+
+QueryModel :id='303', query='have non-linear large deflection analyses been conducted for shell shapes other than conical . '}
+Score : 8.490694 - ID : 1059
+Score : 7.6929436 - ID : 930
+Score : 7.664442 - ID : 739
+Score : 7.1151223 - ID : 1294
+Score : 6.844385 - ID : 928
+Score : 6.742209 - ID : 1058
+Score : 6.4547443 - ID : 1051
+Score : 6.0892153 - ID : 1362
+Score : 6.020224 - ID : 852
+Score : 5.801279 - ID : 744
+Score : 5.754031 - ID : 931
+Score : 5.747468 - ID : 1070
+Score : 5.591831 - ID : 428
+Score : 5.550911 - ID : 833
+Score : 5.520463 - ID : 337
+Score : 5.496781 - ID : 936
+Score : 5.474188 - ID : 1055
+Score : 5.433886 - ID : 826
+Score : 5.3910165 - ID : 232
+Score : 5.3400655 - ID : 514
+
+---------------------------------
+
+QueryModel :id='304', query='are asymptotic methods sufficiently accurate in the determination of pre-buckling stresses in torispherical shells,  or must we resort to numerical methods . '}
+Score : 10.823622 - ID : 1071
+Score : 9.220986 - ID : 1134
+Score : 8.267768 - ID : 1053
+Score : 7.5186925 - ID : 1043
+Score : 6.820642 - ID : 889
+Score : 6.7838798 - ID : 851
+Score : 6.6781645 - ID : 54
+Score : 6.618976 - ID : 843
+Score : 6.487263 - ID : 1137
+Score : 6.4855843 - ID : 1375
+Score : 6.248695 - ID : 730
+Score : 6.088812 - ID : 934
+Score : 5.8804092 - ID : 322
+Score : 5.824579 - ID : 929
+Score : 5.544078 - ID : 128
+Score : 5.536465 - ID : 1362
+Score : 5.521668 - ID : 1138
+Score : 5.5195885 - ID : 923
+Score : 5.4573116 - ID : 775
+Score : 5.41957 - ID : 165
+
+---------------------------------
+
+QueryModel :id='306', query='what are the nonequilibrium chemical constituents in the viscous shock layer ahead of a blunt re-entry vehicle . '}
+Score : 9.348199 - ID : 625
+Score : 8.445532 - ID : 401
+Score : 6.82428 - ID : 1297
+Score : 6.699699 - ID : 576
+Score : 6.4112353 - ID : 1296
+Score : 6.319562 - ID : 541
+Score : 6.256963 - ID : 1217
+Score : 6.2168093 - ID : 1189
+Score : 6.175256 - ID : 983
+Score : 6.1131525 - ID : 410
+Score : 5.9711833 - ID : 1295
+Score : 5.686774 - ID : 82
+Score : 5.598627 - ID : 1219
+Score : 5.482635 - ID : 24
+Score : 5.466381 - ID : 1241
+Score : 5.3140516 - ID : 1319
+Score : 5.314048 - ID : 1274
+Score : 5.267771 - ID : 274
+Score : 5.2621307 - ID : 1279
+Score : 5.165635 - ID : 574
+
+---------------------------------
+
+QueryModel :id='314', query='how accurate are existing analytical theories in estimating pressure distributions on cones at incidence,  at hypersonic speeds . '}
+Score : 9.875 - ID : 1285
+Score : 8.769528 - ID : 1310
+Score : 6.748842 - ID : 232
+Score : 6.3053985 - ID : 122
+Score : 6.198044 - ID : 70
+Score : 6.0546236 - ID : 252
+Score : 5.8950524 - ID : 19
+Score : 5.881721 - ID : 56
+Score : 5.868905 - ID : 186
+Score : 5.8506217 - ID : 36
+Score : 5.845767 - ID : 411
+Score : 5.834021 - ID : 226
+Score : 5.5906343 - ID : 1356
+Score : 5.568827 - ID : 626
+Score : 5.5348005 - ID : 927
+Score : 5.4636846 - ID : 1311
+Score : 5.379633 - ID : 1312
+Score : 5.3680005 - ID : 467
+Score : 5.21662 - ID : 723
+Score : 5.2083592 - ID : 605
+
+---------------------------------
+
+QueryModel :id='315', query='are simple empirical methods of any use for estimating pressure distribution in cones . '}
+Score : 6.366103 - ID : 1285
+Score : 6.3220596 - ID : 58
+Score : 5.6193647 - ID : 122
+Score : 4.994321 - ID : 1310
+Score : 4.97805 - ID : 225
+Score : 4.904319 - ID : 38
+Score : 4.8427525 - ID : 370
+Score : 4.834865 - ID : 927
+Score : 4.7262316 - ID : 1333
+Score : 4.708567 - ID : 1206
+Score : 4.646309 - ID : 109
+Score : 4.645601 - ID : 1262
+Score : 4.560494 - ID : 54
+Score : 4.513228 - ID : 56
+Score : 4.4815707 - ID : 359
+Score : 4.372038 - ID : 814
+Score : 4.3062687 - ID : 49
+Score : 4.2708197 - ID : 626
+Score : 4.227283 - ID : 147
+Score : 4.22651 - ID : 234
+
+---------------------------------
+
+QueryModel :id='316', query='do viscous effects seriously modify pressure distributions . '}
+Score : 5.572829 - ID : 443
+Score : 5.305379 - ID : 679
+Score : 5.2941637 - ID : 147
+Score : 4.2152987 - ID : 580
+Score : 3.9020233 - ID : 664
+Score : 3.8961024 - ID : 133
+Score : 3.875657 - ID : 1080
+Score : 3.8366768 - ID : 562
+Score : 3.760993 - ID : 573
+Score : 3.582502 - ID : 783
+Score : 3.5727954 - ID : 208
+Score : 3.4859145 - ID : 371
+Score : 3.4821076 - ID : 1229
+Score : 3.459553 - ID : 671
+Score : 3.3615623 - ID : 1261
+Score : 3.3527925 - ID : 1310
+Score : 3.339873 - ID : 112
+Score : 3.3110666 - ID : 496
+Score : 3.3089573 - ID : 1375
+Score : 3.2667716 - ID : 874
+
+---------------------------------
+
+QueryModel :id='317', query='has anyone investigated theoretically whether surface flexibility can stabilize a laminar boundary layer . '}
+Score : 9.116932 - ID : 1321
+Score : 8.02468 - ID : 1323
+Score : 7.846482 - ID : 1287
+Score : 6.8663726 - ID : 135
+Score : 6.7521367 - ID : 78
+Score : 6.7246323 - ID : 933
+Score : 6.6696734 - ID : 1322
+Score : 6.5774136 - ID : 73
+Score : 6.361007 - ID : 337
+Score : 6.2476788 - ID : 131
+Score : 5.7474403 - ID : 207
+Score : 5.7253604 - ID : 1364
+Score : 5.714827 - ID : 334
+Score : 5.421486 - ID : 134
+Score : 5.420683 - ID : 80
+Score : 5.4118514 - ID : 55
+Score : 5.321043 - ID : 667
+Score : 5.2845154 - ID : 1185
+Score : 5.232145 - ID : 547
+Score : 5.183324 - ID : 1268
+
+---------------------------------
+
+QueryModel :id='321', query='how do subsonic and transonic flutter data measured in the new langley transonic dynamics tunnel compare with similar data obtained in other facilities . '}
+Score : 18.380295 - ID : 1290
+Score : 8.9335165 - ID : 1336
+Score : 8.493402 - ID : 598
+Score : 8.424666 - ID : 1338
+Score : 8.062919 - ID : 516
+Score : 7.9118724 - ID : 567
+Score : 7.9045873 - ID : 790
+Score : 7.561304 - ID : 435
+Score : 7.4990845 - ID : 812
+Score : 7.438636 - ID : 441
+Score : 7.390432 - ID : 315
+Score : 7.1992335 - ID : 859
+Score : 7.148654 - ID : 948
+Score : 7.1075473 - ID : 1161
+Score : 7.0901523 - ID : 766
+Score : 7.0883517 - ID : 293
+Score : 7.0097113 - ID : 879
+Score : 6.9968915 - ID : 252
+Score : 6.9592757 - ID : 572
+Score : 6.6489396 - ID : 809
+
+---------------------------------
+
+QueryModel :id='323', query='how do large changes in new mass ratio quantitatively affect wing-flutter boundaries . '}
+Score : 6.454205 - ID : 365
+Score : 5.2522125 - ID : 315
+Score : 4.786907 - ID : 1188
+Score : 4.7753353 - ID : 189
+Score : 4.741797 - ID : 679
+Score : 4.692522 - ID : 174
+Score : 4.546788 - ID : 230
+Score : 4.4769697 - ID : 458
+Score : 4.4523573 - ID : 39
+Score : 4.435559 - ID : 432
+Score : 4.4015822 - ID : 308
+Score : 4.3635793 - ID : 281
+Score : 4.3129516 - ID : 439
+Score : 4.30755 - ID : 490
+Score : 4.3039317 - ID : 1257
+Score : 4.299811 - ID : 121
+Score : 4.296034 - ID : 274
+Score : 4.267289 - ID : 834
+Score : 4.238934 - ID : 434
+Score : 4.2291203 - ID : 1362
+
+---------------------------------
+
+QueryModel :id='327', query='what is the effect of the shape of the drag polar of a lifting spacecraft on the amount of reduction in maximum deceleration obtainable by continuously varying the aerodynamic coefficients during re-entry . '}
+Score : 20.551157 - ID : 1291
+Score : 12.751042 - ID : 1344
+Score : 11.534992 - ID : 163
+Score : 7.998544 - ID : 566
+Score : 7.7620387 - ID : 1345
+Score : 7.654123 - ID : 1289
+Score : 7.6076984 - ID : 1217
+Score : 7.424205 - ID : 716
+Score : 7.3734484 - ID : 1348
+Score : 7.083999 - ID : 1346
+Score : 6.804505 - ID : 707
+Score : 6.797556 - ID : 815
+Score : 6.743847 - ID : 274
+Score : 6.5434237 - ID : 1279
+Score : 6.489652 - ID : 1092
+Score : 6.392146 - ID : 624
+Score : 6.3130145 - ID : 1239
+Score : 6.3125844 - ID : 164
+Score : 6.273527 - ID : 1352
+Score : 6.166938 - ID : 262
+
+---------------------------------
+
+QueryModel :id='331', query='what are the physical significance and characteristics of separated laminar and turbulent boundary layer flows . '}
+Score : 8.156429 - ID : 959
+Score : 7.400864 - ID : 798
+Score : 7.1570034 - ID : 651
+Score : 6.969986 - ID : 187
+Score : 6.9254756 - ID : 996
+Score : 6.855273 - ID : 526
+Score : 6.7507205 - ID : 240
+Score : 6.5148406 - ID : 1383
+Score : 6.4447517 - ID : 1364
+Score : 6.4389043 - ID : 563
+Score : 6.4112554 - ID : 418
+Score : 6.3957863 - ID : 799
+Score : 6.3312407 - ID : 455
+Score : 6.133025 - ID : 1268
+Score : 6.0250845 - ID : 135
+Score : 5.93958 - ID : 38
+Score : 5.9288287 - ID : 487
+Score : 5.841891 - ID : 292
+Score : 5.838519 - ID : 89
+Score : 5.8369665 - ID : 461
+
+---------------------------------
+
+QueryModel :id='332', query='has anyone analytically investigated the stabilizing influence of soft elastic cores on the buckling strength of cylindrical shells subjected to non-uniform external pressure . '}
+Score : 15.947477 - ID : 1172
+Score : 15.466277 - ID : 1145
+Score : 12.169052 - ID : 1171
+Score : 10.776503 - ID : 1068
+Score : 10.64558 - ID : 743
+Score : 10.296885 - ID : 1132
+Score : 10.0334835 - ID : 1130
+Score : 9.951661 - ID : 1133
+Score : 9.733835 - ID : 1126
+Score : 9.712848 - ID : 1070
+Score : 9.678065 - ID : 1071
+Score : 9.614087 - ID : 760
+Score : 9.552157 - ID : 1118
+Score : 9.04987 - ID : 889
+Score : 9.024257 - ID : 956
+Score : 8.962702 - ID : 1119
+Score : 8.803794 - ID : 1122
+Score : 8.714967 - ID : 843
+Score : 8.65887 - ID : 1067
+Score : 8.651541 - ID : 891
+
+---------------------------------
+
+QueryModel :id='333', query='what papers are available on the buckling of empty cylindrical shells under non-uniform pressure . '}
+Score : 8.979709 - ID : 1068
+Score : 8.97292 - ID : 1117
+Score : 8.44154 - ID : 1051
+Score : 8.024649 - ID : 897
+Score : 7.400254 - ID : 1145
+Score : 7.3601866 - ID : 739
+Score : 7.310567 - ID : 1119
+Score : 7.2999253 - ID : 1171
+Score : 7.2016635 - ID : 839
+Score : 7.094792 - ID : 935
+Score : 7.0724463 - ID : 1070
+Score : 6.9267936 - ID : 743
+Score : 6.920521 - ID : 891
+Score : 6.912483 - ID : 763
+Score : 6.904651 - ID : 1126
+Score : 6.865536 - ID : 740
+Score : 6.8647337 - ID : 889
+Score : 6.8632927 - ID : 1122
+Score : 6.8208036 - ID : 1067
+Score : 6.6708345 - ID : 885
+
+---------------------------------
+
+QueryModel :id='335', query='what effect do thermal stresses have on the compressive buckling strength of ring-stiffened cylinders . '}
+Score : 12.588255 - ID : 1177
+Score : 12.344064 - ID : 1178
+Score : 11.465608 - ID : 888
+Score : 8.528109 - ID : 838
+Score : 8.481962 - ID : 885
+Score : 8.11169 - ID : 760
+Score : 8.029827 - ID : 769
+Score : 7.8545346 - ID : 822
+Score : 7.669866 - ID : 1172
+Score : 7.553951 - ID : 823
+Score : 7.4557705 - ID : 642
+Score : 7.4316435 - ID : 887
+Score : 7.2896833 - ID : 839
+Score : 7.1503224 - ID : 1176
+Score : 7.1140165 - ID : 1070
+Score : 7.0009427 - ID : 1121
+Score : 6.9173875 - ID : 740
+Score : 6.853087 - ID : 1126
+Score : 6.823387 - ID : 1068
+Score : 6.757061 - ID : 1146
+
+---------------------------------
+
+QueryModel :id='336', query='what is the effect on cylinder buckling of a circumferential stress system that varies in the axial direction . '}
+Score : 9.644135 - ID : 1173
+Score : 9.556159 - ID : 769
+Score : 8.726862 - ID : 885
+Score : 8.535306 - ID : 887
+Score : 8.391995 - ID : 897
+Score : 8.189542 - ID : 888
+Score : 8.13263 - ID : 1068
+Score : 8.0246105 - ID : 1178
+Score : 8.004618 - ID : 741
+Score : 7.955555 - ID : 642
+Score : 7.622577 - ID : 1146
+Score : 7.5674543 - ID : 1172
+Score : 7.4210596 - ID : 1116
+Score : 7.2832937 - ID : 1123
+Score : 7.2518997 - ID : 765
+Score : 6.988435 - ID : 839
+Score : 6.5275035 - ID : 932
+Score : 6.393598 - ID : 760
+Score : 6.388145 - ID : 740
+Score : 6.353638 - ID : 763
+
+---------------------------------
+
+QueryModel :id='338', query='can non-linear shallow shell analysis be reduced to an engineering technique by use of the matrix . '}
+Score : 12.370055 - ID : 1294
+Score : 7.530265 - ID : 1043
+Score : 7.092455 - ID : 1362
+Score : 6.6625934 - ID : 828
+Score : 6.055447 - ID : 739
+Score : 6.0453615 - ID : 1044
+Score : 5.86163 - ID : 1036
+Score : 5.5387335 - ID : 968
+Score : 5.472908 - ID : 833
+Score : 5.4242954 - ID : 744
+Score : 5.3835216 - ID : 1154
+Score : 5.3295097 - ID : 1126
+Score : 5.322001 - ID : 231
+Score : 4.9839106 - ID : 1042
+Score : 4.936097 - ID : 831
+Score : 4.599533 - ID : 92
+Score : 4.5832796 - ID : 1059
+Score : 4.4839816 - ID : 100
+Score : 4.434367 - ID : 1037
+Score : 4.4308543 - ID : 930
+
+---------------------------------
+
+QueryModel :id='339', query='is it possible to predict the shape of a shroud which will allow simulation of the nose region flow field for a sphere in hypersonic flow . '}
+Score : 12.760569 - ID : 535
+Score : 9.627159 - ID : 1234
+Score : 9.18888 - ID : 1205
+Score : 8.427127 - ID : 25
+Score : 8.340821 - ID : 294
+Score : 8.165828 - ID : 423
+Score : 7.3909235 - ID : 1204
+Score : 7.383323 - ID : 1198
+Score : 7.2756414 - ID : 666
+Score : 7.1217527 - ID : 1253
+Score : 6.518573 - ID : 574
+Score : 6.4632635 - ID : 625
+Score : 6.4067364 - ID : 540
+Score : 6.360494 - ID : 1391
+Score : 6.30489 - ID : 456
+Score : 6.2407727 - ID : 35
+Score : 6.217457 - ID : 44
+Score : 6.1667223 - ID : 626
+Score : 6.0561647 - ID : 536
+Score : 6.013081 - ID : 295
+
+---------------------------------
+
+QueryModel :id='340', query='what investigations have been made of the wave system created by a static pressure distribution over a liquid surface . '}
+Score : 9.362666 - ID : 175
+Score : 7.4630923 - ID : 612
+Score : 7.36279 - ID : 893
+Score : 7.306957 - ID : 1225
+Score : 7.293911 - ID : 958
+Score : 7.0956945 - ID : 1319
+Score : 6.545299 - ID : 39
+Score : 6.5407357 - ID : 693
+Score : 6.464269 - ID : 407
+Score : 6.424043 - ID : 974
+Score : 6.3478127 - ID : 1274
+Score : 6.2764697 - ID : 800
+Score : 6.258535 - ID : 1156
+Score : 6.207689 - ID : 514
+Score : 6.1222916 - ID : 692
+Score : 6.1190805 - ID : 1151
+Score : 6.1013427 - ID : 1364
+Score : 6.030321 - ID : 695
+Score : 5.878199 - ID : 117
+Score : 5.8459644 - ID : 72
+
+---------------------------------
+
+QueryModel :id='347', query='has anyone investigated the effect of shock generated vorticity on heat transfer to a blunt body . '}
+Score : 7.215482 - ID : 323
+Score : 7.031398 - ID : 1213
+Score : 6.84497 - ID : 1395
+Score : 6.8332 - ID : 1161
+Score : 6.8150477 - ID : 666
+Score : 6.2534432 - ID : 1393
+Score : 6.1774454 - ID : 1319
+Score : 6.1774416 - ID : 1274
+Score : 6.156802 - ID : 44
+Score : 6.0732245 - ID : 983
+Score : 6.0605383 - ID : 553
+Score : 5.79504 - ID : 433
+Score : 5.736525 - ID : 2
+Score : 5.7019105 - ID : 334
+Score : 5.690295 - ID : 1159
+Score : 5.650289 - ID : 1318
+Score : 5.4915686 - ID : 1309
+Score : 5.4827957 - ID : 1002
+Score : 5.4572663 - ID : 79
+Score : 5.416438 - ID : 329
+
+---------------------------------
+
+QueryModel :id='348', query='what is the heat transfer to a blunt body in the absence of vorticity . '}
+Score : 5.7208905 - ID : 36
+Score : 5.1668315 - ID : 323
+Score : 5.0325646 - ID : 1393
+Score : 4.8035307 - ID : 666
+Score : 4.6774306 - ID : 295
+Score : 4.569433 - ID : 983
+Score : 4.529341 - ID : 1395
+Score : 4.5128784 - ID : 35
+Score : 4.4320517 - ID : 1281
+Score : 4.2874823 - ID : 433
+Score : 4.255786 - ID : 438
+Score : 4.221754 - ID : 1161
+Score : 4.1766434 - ID : 553
+Score : 4.1571527 - ID : 101
+Score : 4.009538 - ID : 559
+Score : 3.9432256 - ID : 154
+Score : 3.9375439 - ID : 1394
+Score : 3.9119923 - ID : 655
+Score : 3.891946 - ID : 1204
+Score : 3.8268247 - ID : 1106
+
+---------------------------------
+
+QueryModel :id='349', query='what are the general effects on flow fields when the reynolds number is small . '}
+Score : 6.063226 - ID : 208
+Score : 5.778718 - ID : 299
+Score : 5.7636604 - ID : 1222
+Score : 5.542582 - ID : 1221
+Score : 5.2691345 - ID : 992
+Score : 5.1977205 - ID : 236
+Score : 5.127376 - ID : 117
+Score : 4.8061266 - ID : 7
+Score : 4.7804418 - ID : 319
+Score : 4.708621 - ID : 1082
+Score : 4.693596 - ID : 710
+Score : 4.593523 - ID : 993
+Score : 4.489131 - ID : 197
+Score : 4.45177 - ID : 828
+Score : 4.424617 - ID : 25
+Score : 4.3842025 - ID : 530
+Score : 4.3757544 - ID : 174
+Score : 4.3082547 - ID : 371
+Score : 4.2598515 - ID : 53
+Score : 4.2594666 - ID : 267
+
+---------------------------------
+
+QueryModel :id='352', query='find a calculation procedure applicable to all incompressible laminar boundary layer flow problems having good accuracy and reasonable computation time . '}
+Score : 8.439926 - ID : 458
+Score : 8.318715 - ID : 111
+Score : 8.21908 - ID : 1375
+Score : 7.9709873 - ID : 292
+Score : 7.894512 - ID : 1225
+Score : 7.8838463 - ID : 375
+Score : 7.868795 - ID : 1301
+Score : 7.8313036 - ID : 16
+Score : 7.534648 - ID : 1149
+Score : 7.292503 - ID : 461
+Score : 7.1166053 - ID : 1192
+Score : 6.93731 - ID : 241
+Score : 6.9136896 - ID : 1268
+Score : 6.897064 - ID : 527
+Score : 6.8699174 - ID : 395
+Score : 6.7889247 - ID : 325
+Score : 6.7528424 - ID : 321
+Score : 6.7513247 - ID : 266
+Score : 6.6925344 - ID : 240
+Score : 6.5696797 - ID : 662
+
+---------------------------------
+
+QueryModel :id='353', query='papers applicable to this problem (calculation procedures for laminar incompressible flow with arbitrary pressure gradient) . '}
+Score : 7.1241217 - ID : 1366
+Score : 6.9953356 - ID : 1386
+Score : 6.833755 - ID : 754
+Score : 6.7868066 - ID : 1301
+Score : 6.5163627 - ID : 1182
+Score : 6.4994516 - ID : 292
+Score : 6.4385967 - ID : 1225
+Score : 6.203688 - ID : 435
+Score : 6.10395 - ID : 458
+Score : 6.012833 - ID : 1371
+Score : 5.979888 - ID : 1375
+Score : 5.8757977 - ID : 115
+Score : 5.8346786 - ID : 406
+Score : 5.7683825 - ID : 62
+Score : 5.680657 - ID : 1056
+Score : 5.519503 - ID : 579
+Score : 5.4930773 - ID : 662
+Score : 5.463033 - ID : 1281
+Score : 5.4012733 - ID : 321
+Score : 5.381924 - ID : 653
+
+---------------------------------
+
+QueryModel :id='355', query='has anyone investigated the shear buckling of stiffened plates . '}
+Score : 9.199722 - ID : 1400
+Score : 7.9852724 - ID : 419
+Score : 7.449412 - ID : 1398
+Score : 7.445411 - ID : 1399
+Score : 6.9970875 - ID : 1130
+Score : 6.8495946 - ID : 1396
+Score : 6.1812873 - ID : 1387
+Score : 5.967334 - ID : 1397
+Score : 5.7700944 - ID : 1357
+Score : 5.625457 - ID : 1358
+Score : 5.4061394 - ID : 400
+Score : 5.1133647 - ID : 412
+Score : 4.959659 - ID : 826
+Score : 4.9121237 - ID : 820
+Score : 4.8037634 - ID : 1050
+Score : 4.7957196 - ID : 1121
+Score : 4.6980696 - ID : 887
+Score : 4.643035 - ID : 1048
+Score : 4.5997043 - ID : 1116
+Score : 4.4419484 - ID : 393
+
+---------------------------------
+
+QueryModel :id='356', query='papers on shear buckling of unstiffened rectangular plates under shear . '}
+Score : 10.777431 - ID : 1399
+Score : 9.757713 - ID : 400
+Score : 9.743759 - ID : 1398
+Score : 8.264415 - ID : 1387
+Score : 8.069704 - ID : 412
+Score : 8.068154 - ID : 419
+Score : 7.5479574 - ID : 1400
+Score : 6.9702673 - ID : 1396
+Score : 6.846209 - ID : 1119
+Score : 6.8332005 - ID : 388
+Score : 6.8106313 - ID : 1037
+Score : 6.4834824 - ID : 1008
+Score : 6.337216 - ID : 1050
+Score : 6.3163586 - ID : 1048
+Score : 6.281638 - ID : 1117
+Score : 6.2147765 - ID : 1358
+Score : 6.1355863 - ID : 929
+Score : 6.132171 - ID : 826
+Score : 6.123836 - ID : 1357
+Score : 6.0892167 - ID : 839
+
+---------------------------------
+
+QueryModel :id='360', query='in practice, how close to reality are the assumptions that the flow in a hypersonic shock tube using nitrogen is non-viscous and in thermodynamic equilibrium . '}
+Score : 8.988959 - ID : 1286
+Score : 8.904277 - ID : 1312
+Score : 7.553105 - ID : 259
+Score : 6.766787 - ID : 167
+Score : 6.627724 - ID : 317
+Score : 6.4632406 - ID : 236
+Score : 6.3816237 - ID : 1316
+Score : 6.3349953 - ID : 1157
+Score : 6.2899346 - ID : 401
+Score : 6.2316175 - ID : 656
+Score : 6.182739 - ID : 1315
+Score : 6.01068 - ID : 303
+Score : 5.9348664 - ID : 1296
+Score : 5.931407 - ID : 110
+Score : 5.816131 - ID : 1139
+Score : 5.8051767 - ID : 410
+Score : 5.771958 - ID : 170
+Score : 5.7614956 - ID : 575
+Score : 5.716797 - ID : 1298
+Score : 5.5040755 - ID : 949
+
+---------------------------------
+
+QueryModel :id='365', query='what design factors can be used to control lift-drag ratios at mach numbers above 5 .'}
+Score : 12.766414 - ID : 1188
+Score : 8.81851 - ID : 1380
+Score : 6.1237392 - ID : 674
+Score : 5.9843345 - ID : 225
+Score : 5.856604 - ID : 893
+Score : 5.628627 - ID : 1291
+Score : 5.499484 - ID : 340
+Score : 5.473582 - ID : 638
+Score : 5.391045 - ID : 683
+Score : 5.3488917 - ID : 70
+Score : 5.1383543 - ID : 792
+Score : 5.1050296 - ID : 173
+Score : 5.0704007 - ID : 1339
+Score : 5.039977 - ID : 1356
+Score : 4.9346256 - ID : 1191
+Score : 4.912781 - ID : 1345
+Score : 4.8820944 - ID : 964
+Score : 4.8518505 - ID : 709
+Score : 4.7933803 - ID : 794
+Score : 4.7809076 - ID : 1344
+
+---------------------------------
+
